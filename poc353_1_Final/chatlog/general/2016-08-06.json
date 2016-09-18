@@ -1,0 +1,206 @@
+[
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "was checking out the site and im unable to rollback logged in as shayne even though he is a group leader",
+        "ts": "1470500052.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "i just worked on the button to make it work , i didnt touch this condtion",
+        "ts": "1470500893.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "you can work on that",
+        "ts": "1470500901.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "<@U1PBB7C4T>: did you check the course page after the modifications ?",
+        "ts": "1470500964.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "uhh i'll look now",
+        "ts": "1470504481.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "possible i screwed up the condition for showing rollback button",
+        "ts": "1470504494.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "when you switch a persons group",
+        "ts": "1470504908.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "if they are the group leader you of another group",
+        "ts": "1470504923.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "you need to remove them as group leader",
+        "ts": "1470504930.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i fixed the rollback",
+        "ts": "1470505132.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "was just a typo",
+        "ts": "1470505135.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "ok",
+        "ts": "1470508167.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "How many more pages are there left?",
+        "ts": "1470509272.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "the majority of every page is done",
+        "ts": "1470510434.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "just have like some system wide things to go over and some like security checks and whatever",
+        "ts": "1470510453.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Ok sweet ",
+        "ts": "1470510461.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "i removed the leader of a group from db when i remove it from a group",
+        "ts": "1470515103.000018"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1PBBB3J7|jordan_orsini> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/jordan_orsini\/F1YUW1H0X\/it_shows_here_shayne_is_the_group_leader_for_two_groups_.jpg|it shows here shayne is the group leader for two groups?>",
+        "file": {
+            "id": "F1YUW1H0X",
+            "created": 1470524557,
+            "timestamp": 1470524557,
+            "name": "it shows here shayne is the group leader for two groups?.jpg",
+            "title": "it shows here shayne is the group leader for two groups?",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U1PBBB3J7",
+            "editable": false,
+            "size": 3062606,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1YUW1H0X\/it_shows_here_shayne_is_the_group_leader_for_two_groups_.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1YUW1H0X\/download\/it_shows_here_shayne_is_the_group_leader_for_two_groups_.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1YUW1H0X-e63923e8ee\/it_shows_here_shayne_is_the_group_leader_for_two_groups__64.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1YUW1H0X-e63923e8ee\/it_shows_here_shayne_is_the_group_leader_for_two_groups__80.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1YUW1H0X-e63923e8ee\/it_shows_here_shayne_is_the_group_leader_for_two_groups__360.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_360_w": 270,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1YUW1H0X-e63923e8ee\/it_shows_here_shayne_is_the_group_leader_for_two_groups__480.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_480_w": 360,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1YUW1H0X-e63923e8ee\/it_shows_here_shayne_is_the_group_leader_for_two_groups__160.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1YUW1H0X-e63923e8ee\/it_shows_here_shayne_is_the_group_leader_for_two_groups__720.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_720_w": 540,
+            "thumb_720_h": 720,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1YUW1H0X-e63923e8ee\/it_shows_here_shayne_is_the_group_leader_for_two_groups__960.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_960_w": 720,
+            "thumb_960_h": 960,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1YUW1H0X-e63923e8ee\/it_shows_here_shayne_is_the_group_leader_for_two_groups__1024.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_1024_w": 768,
+            "thumb_1024_h": 1024,
+            "image_exif_rotation": 1,
+            "original_w": 3264,
+            "original_h": 2448,
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/jordan_orsini\/F1YUW1H0X\/it_shows_here_shayne_is_the_group_leader_for_two_groups_.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F1YUW1H0X-dca4d4091e",
+            "channels": [
+                "C1MGNL6R0"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U1PBBB3J7",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1PBBB3J7|jordan_orsini>",
+        "bot_id": null,
+        "ts": "1470524562.000019"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "i think its only a bug",
+        "ts": "1470525237.000020"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "try it now",
+        "ts": "1470525243.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Is anyoke planing on going tomorrow? ",
+        "ts": "1470542059.000022"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "me and shayne will both be there around 11am",
+        "ts": "1470542104.000023"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "I'll try to show yo around then ",
+        "ts": "1470544653.000024"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Same",
+        "ts": "1470544679.000025"
+    }
+]

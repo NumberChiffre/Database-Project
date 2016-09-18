@@ -1,0 +1,1991 @@
+[
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Unfortunately, the archive didn't work, however it works on my local server but it doesn't work on concordia server ",
+        "ts": "1471005281.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Send me the code",
+        "ts": "1471005783.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Or nvm if it's on the server",
+        "ts": "1471005807.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Yea it is on the server ",
+        "ts": "1471005930.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "What file is it in?",
+        "ts": "1471006364.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Zipper",
+        "ts": "1471006680.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Where'd you put the archive button?",
+        "ts": "1471008054.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Oh u didn't link it to anything",
+        "ts": "1471008132.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Its download ",
+        "ts": "1471008150.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Why i s there more zip stuff in course.php",
+        "ts": "1471009437.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Are you guys doing the same thing?",
+        "ts": "1471009445.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "I moved the download archive button to top of course page, still doesn't work",
+        "ts": "1471011260.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Yea I don't know why its not working ",
+        "ts": "1471014343.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "yeah when the page actually loads i get Warning: ZipArchive::getStatusString(): Invalid or uninitialized Zip object in \/groups\/p\/po_comp353_1\/zipper.php on line 34",
+        "ts": "1471017120.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "not sure why",
+        "ts": "1471017123.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "gonna stop for now",
+        "ts": "1471017127.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Yea that drove me crazy honestly ",
+        "ts": "1471017162.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "<@U1PBBB3J7>: did you start doing zip stuff?",
+        "ts": "1471017215.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "i havent but ill look into it tomorrow if you guys still havent figured it out",
+        "ts": "1471025531.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Also theres the file size as well ",
+        "ts": "1471025835.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "<!channel>: did anyone find the deadline for our final report? ",
+        "ts": "1471027124.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Not sure if theres even a place to submit on the course manager either?",
+        "ts": "1471027143.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Put it in the main project uploaf",
+        "ts": "1471027223.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Upload*",
+        "ts": "1471027229.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "I see, august 15th",
+        "ts": "1471027320.000006"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1PBB7C4T|shayne> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/shayne\/F2109G6G0\/pasted_image_at_2016_08_12_02_54_pm.png|if anyone has any ideas>",
+        "file": {
+            "id": "F2109G6G0",
+            "created": 1471028101,
+            "timestamp": 1471028101,
+            "name": "Pasted image at 2016_08_12 02_54 PM.png",
+            "title": "if anyone has any ideas",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U1PBB7C4T",
+            "editable": false,
+            "size": 118261,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F2109G6G0\/pasted_image_at_2016_08_12_02_54_pm.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F2109G6G0\/download\/pasted_image_at_2016_08_12_02_54_pm.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F2109G6G0-c9c9152d3d\/pasted_image_at_2016_08_12_02_54_pm_64.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F2109G6G0-c9c9152d3d\/pasted_image_at_2016_08_12_02_54_pm_80.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F2109G6G0-c9c9152d3d\/pasted_image_at_2016_08_12_02_54_pm_360.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_360_w": 360,
+            "thumb_360_h": 286,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F2109G6G0-c9c9152d3d\/pasted_image_at_2016_08_12_02_54_pm_480.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_480_w": 480,
+            "thumb_480_h": 381,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F2109G6G0-c9c9152d3d\/pasted_image_at_2016_08_12_02_54_pm_160.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F2109G6G0-c9c9152d3d\/pasted_image_at_2016_08_12_02_54_pm_720.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_720_w": 720,
+            "thumb_720_h": 572,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F2109G6G0-c9c9152d3d\/pasted_image_at_2016_08_12_02_54_pm_960.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_960_w": 960,
+            "thumb_960_h": 763,
+            "image_exif_rotation": 1,
+            "original_w": 1016,
+            "original_h": 807,
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/shayne\/F2109G6G0\/pasted_image_at_2016_08_12_02_54_pm.png",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F2109G6G0-c828caeff8",
+            "channels": [
+                "C1MGNL6R0"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U1PBB7C4T",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1PBB7C4T|shayne>",
+        "bot_id": null,
+        "ts": "1471028104.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Can you upload the code for the page?",
+        "ts": "1471028215.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "its on the server",
+        "ts": "1471028338.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "all the text and crap i me outputting the values to make sure everything is there",
+        "ts": "1471028382.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "then $zip-&gt;close() just doesnt work",
+        "ts": "1471028394.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i do getStatusString before and it says \"No error\"",
+        "ts": "1471028414.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "and then i var_dump $zip and its fine",
+        "ts": "1471028427.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "then close doesnt work",
+        "ts": "1471028432.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "and when i getStatusString it says invalid or uninitilazided",
+        "ts": "1471028452.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Do i have to do something special to see the files? im on putty in our group directory but its empty",
+        "ts": "1471028995.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Ill just go to school i guess",
+        "ts": "1471029002.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "no you can do it from home wat",
+        "ts": "1471029016.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Let me know when ur at school <@U1MGNL4KU> ",
+        "ts": "1471029031.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "just cd \/www\/groups\/p\/po_comp353_1",
+        "ts": "1471029076.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "ah",
+        "ts": "1471029085.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "im not in the www part",
+        "ts": "1471029101.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "ok",
+        "ts": "1471029102.000018"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "the zipper.php is in the zip subfolder",
+        "ts": "1471029146.000019"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "cause i thought maybe we didnt have permission to create the file",
+        "ts": "1471029157.000020"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "so i made a subfolder and gave it read\/write\/execute to everyone in it",
+        "ts": "1471029178.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "all thats in there is zipper.php",
+        "ts": "1471029187.000022"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "ill be there in probably 1.5 hours",
+        "ts": "1471029721.000023"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Okay",
+        "ts": "1471029738.000024"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Hey, within groups, data taken is a decimal but in system details i made it an integer",
+        "ts": "1471038602.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "if i change it to an integer as well, does anyone know if it will it fuck anything up anything",
+        "ts": "1471038637.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "<@U1PBB7C4T>: <@U1MGW6FUM> how did you guys implement the archive button?",
+        "ts": "1471040924.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "I will add your new features into the report",
+        "ts": "1471040953.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "in terms of how it works",
+        "ts": "1471040968.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "It doesn't work yet",
+        "ts": "1471040971.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "like what does it do",
+        "ts": "1471040978.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "one button, archives everything?",
+        "ts": "1471040991.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "or do we go group by group",
+        "ts": "1471040998.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "i think its supposed to zip everything from the whole course",
+        "ts": "1471041023.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Ok",
+        "ts": "1471041027.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "So then we dont need the is_archived column from file versions",
+        "ts": "1471041042.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "but by group might make more sense",
+        "ts": "1471041045.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "I don't know",
+        "ts": "1471041057.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Right now just trying to click a button and download allghe current versions as a zip",
+        "ts": "1471041063.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "I think archiving entire class makes more sense",
+        "ts": "1471041065.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "I have done by group ",
+        "ts": "1471041070.000018"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "But didn't work on the servers ",
+        "ts": "1471041082.000019"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "I put the button next to user management for admin on course page",
+        "ts": "1471041085.000020"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "are you using is_archived at all from file_versions?",
+        "ts": "1471041148.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "No, unless we aren't removing the old archive stuff",
+        "ts": "1471041498.000022"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "should we keep the old archive stuff and just rename it to \"hide\" as an extra feature",
+        "ts": "1471041552.000023"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "can someone create a file called course.zip in \/www\/groups\/p\/po_comp353_1\/zip\/ ?",
+        "ts": "1471041932.000024"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "cause for me it says disk_quota exceeded",
+        "ts": "1471041952.000025"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "lol",
+        "ts": "1471041956.000026"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "so lame",
+        "ts": "1471041958.000027"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1MGNL4KU|demo> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/demo\/F212K9R53\/untitled.png|Untitled.png>",
+        "file": {
+            "id": "F212K9R53",
+            "created": 1471042102,
+            "timestamp": 1471042102,
+            "name": "Untitled.png",
+            "title": "Untitled.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U1MGNL4KU",
+            "editable": false,
+            "size": 145703,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F212K9R53\/untitled.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F212K9R53\/download\/untitled.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F212K9R53-f98eb8ef39\/untitled_64.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F212K9R53-f98eb8ef39\/untitled_80.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F212K9R53-f98eb8ef39\/untitled_360.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_360_w": 360,
+            "thumb_360_h": 202,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F212K9R53-f98eb8ef39\/untitled_480.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_480_w": 480,
+            "thumb_480_h": 270,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F212K9R53-f98eb8ef39\/untitled_160.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F212K9R53-f98eb8ef39\/untitled_720.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_720_w": 720,
+            "thumb_720_h": 405,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F212K9R53-f98eb8ef39\/untitled_960.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_960_w": 960,
+            "thumb_960_h": 540,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F212K9R53-f98eb8ef39\/untitled_1024.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 576,
+            "image_exif_rotation": 1,
+            "original_w": 1366,
+            "original_h": 768,
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/demo\/F212K9R53\/untitled.png",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F212K9R53-c56c520f06",
+            "channels": [
+                "C1MGNL6R0"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U1MGNL4KU",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1MGNL4KU|demo>",
+        "bot_id": null,
+        "ts": "1471042105.000028"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "same crap here",
+        "ts": "1471042106.000029"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "gonna try setting some of our huge db files to null",
+        "ts": "1471042139.000030"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "yeah i think its a group thing",
+        "ts": "1471042175.000031"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "I'll email stan the man",
+        "ts": "1471042191.000032"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "you at school?",
+        "ts": "1471042318.000033"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Yeah",
+        "ts": "1471042324.000034"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "At terrences office",
+        "ts": "1471042329.000035"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "how much do we even have in our directory?",
+        "ts": "1471042329.000036"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "if u can check",
+        "ts": "1471042336.000037"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i deleted the unused big bootsratp files",
+        "ts": "1471042347.000038"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "in mb building",
+        "ts": "1471042349.000039"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "k nvm",
+        "ts": "1471042416.000040"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1PBB7C4T|shayne> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/shayne\/F212W35DG\/pasted_image_at_2016_08_12_06_54_pm.png|disk quota pls>",
+        "file": {
+            "id": "F212W35DG",
+            "created": 1471042467,
+            "timestamp": 1471042467,
+            "name": "Pasted image at 2016_08_12 06_54 PM.png",
+            "title": "disk quota pls",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U1PBB7C4T",
+            "editable": false,
+            "size": 2301,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F212W35DG\/pasted_image_at_2016_08_12_06_54_pm.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F212W35DG\/download\/pasted_image_at_2016_08_12_06_54_pm.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F212W35DG-ede5008ed5\/pasted_image_at_2016_08_12_06_54_pm_64.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F212W35DG-ede5008ed5\/pasted_image_at_2016_08_12_06_54_pm_80.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F212W35DG-ede5008ed5\/pasted_image_at_2016_08_12_06_54_pm_360.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_360_w": 289,
+            "thumb_360_h": 36,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F212W35DG-ede5008ed5\/pasted_image_at_2016_08_12_06_54_pm_160.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "image_exif_rotation": 1,
+            "original_w": 289,
+            "original_h": 36,
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/shayne\/F212W35DG\/pasted_image_at_2016_08_12_06_54_pm.png",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F212W35DG-7fa4862cd4",
+            "channels": [
+                "C1MGNL6R0"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U1PBB7C4T",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1PBB7C4T|shayne>",
+        "bot_id": null,
+        "ts": "1471042468.000041"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "110 megabytes",
+        "ts": "1471042493.000042"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "this is yours? or our groups",
+        "ts": "1471042533.000043"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "group",
+        "ts": "1471042537.000044"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "still cant create a file",
+        "ts": "1471042570.000045"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "might be our problem",
+        "ts": "1471042697.000046"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i guess ask stan and hope he checks on weekends",
+        "ts": "1471042853.000047"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Yeah ok",
+        "ts": "1471042861.000048"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "cause idk",
+        "ts": "1471042873.000049"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "thought maybe the permissions were fucking up so i was gonna make a static course.zip and give full permissions to it and see if that works",
+        "ts": "1471042907.000050"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "but cant even make a file",
+        "ts": "1471042917.000051"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "i tried copying a file",
+        "ts": "1471042920.000052"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "that didnt work either",
+        "ts": "1471042923.000053"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "yeah thats what i originally tried",
+        "ts": "1471042931.000054"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "so we definately capped out",
+        "ts": "1471042931.000055"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "want to try deleting files we dont use anymore?",
+        "ts": "1471042951.000056"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "its probably from our db though",
+        "ts": "1471042962.000057"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "im assuming they use the same disk space",
+        "ts": "1471042970.000058"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i already deleted like 600 mb",
+        "ts": "1471042974.000059"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i think",
+        "ts": "1471042988.000060"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "idk i deleted one from our db that was like 300k",
+        "ts": "1471043000.000061"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "oh",
+        "ts": "1471043010.000062"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "and i deleted the boostrap css and bootsrap js files from the directory that were like 100k each",
+        "ts": "1471043031.000063"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "we had 2 bootsrap css files idk why",
+        "ts": "1471043044.000064"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "wait",
+        "ts": "1471043300.000065"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "instead of deleteing all duplicates",
+        "ts": "1471043305.000066"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "just rename one",
+        "ts": "1471043308.000067"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "and use that",
+        "ts": "1471043312.000068"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Hey",
+        "ts": "1471043352.000069"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "wait a second",
+        "ts": "1471043355.000070"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Ok i made the file",
+        "ts": "1471043358.000071"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "I think its because that folder we made",
+        "ts": "1471043364.000072"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "has 0 data allocated to it",
+        "ts": "1471043371.000073"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Alright, i placed the file in ZIP",
+        "ts": "1471043460.000074"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "alright cool i'll try it",
+        "ts": "1471043895.000075"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "<!channel>:  for the ER, do you guys think we can take out Systems_details table?",
+        "ts": "1471046969.000076"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "idk its part of the system",
+        "ts": "1471046996.000077"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "also the rename didnt work",
+        "ts": "1471047002.000078"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "its even worse lol",
+        "ts": "1471047007.000079"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Huh? what happened",
+        "ts": "1471047012.000080"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "like downloading it too its an invlid file",
+        "ts": "1471047016.000081"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "think we need to make an actual zip file",
+        "ts": "1471047031.000082"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "makes senze",
+        "ts": "1471047038.000083"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "sence",
+        "ts": "1471047040.000084"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "but you cant edit contents of a zip folder",
+        "ts": "1471047054.000085"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "nah i mean like i download the zip with filezilla onto my pc",
+        "ts": "1471047073.000086"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "and when i double click it im told its an invalid file",
+        "ts": "1471047085.000087"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Ok",
+        "ts": "1471047096.000088"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "are you able to zip from php?",
+        "ts": "1471047103.000089"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "well thats what ive been trying but it throws an error",
+        "ts": "1471047117.000090"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "lile for ecample $file = zip($file2)",
+        "ts": "1471047118.000091"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "can you make a folder with php?",
+        "ts": "1471047134.000092"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "we make a ZipArchive and all",
+        "ts": "1471047142.000093"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "no nothing works",
+        "ts": "1471047149.000094"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i tried doing fopen and creating a file earlier",
+        "ts": "1471047163.000095"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "but i cant even make a file",
+        "ts": "1471047168.000096"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i think its cause the disk quota",
+        "ts": "1471047174.000097"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "but idk",
+        "ts": "1471047195.000098"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "fuck",
+        "ts": "1471047460.000099"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "i have an idea but its ugly",
+        "ts": "1471047481.000100"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "we can move files into other folders",
+        "ts": "1471047487.000101"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "but we cant create files in another folder",
+        "ts": "1471047495.000102"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "for whatever reason",
+        "ts": "1471047499.000103"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "So, why dont we move all our html\/php code into a separate folder",
+        "ts": "1471047517.000104"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "and we have a zip folder",
+        "ts": "1471047522.000105"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "and then",
+        "ts": "1471047538.000106"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "load evetything into main directory",
+        "ts": "1471047547.000107"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "move them into the zip folder",
+        "ts": "1471047554.000108"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "then zip that folder",
+        "ts": "1471047557.000109"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "what do you mean load everything",
+        "ts": "1471047567.000110"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "well im not usre exactly how this zipping thing works",
+        "ts": "1471047584.000111"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "but i assume you can zip a folder",
+        "ts": "1471047589.000112"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "so we load all files from our db onto the main directory",
+        "ts": "1471047604.000113"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i'd have to take the files from the db and put them in the folder then use the exact same ZipArchive thing to try to create a zip file out of the folder",
+        "ts": "1471047610.000114"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "because we cant create them inside the db",
+        "ts": "1471047613.000115"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "inside the folder*",
+        "ts": "1471047617.000116"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "which involves creating like 100 more files when we cant make 1",
+        "ts": "1471047623.000117"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "we cant make files inside of folders",
+        "ts": "1471047632.000118"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "we can outside",
+        "ts": "1471047636.000119"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "really",
+        "ts": "1471047646.000120"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "wat",
+        "ts": "1471047647.000121"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "yeah",
+        "ts": "1471047648.000122"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "try it",
+        "ts": "1471047650.000123"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "well?",
+        "ts": "1471047845.000124"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "yeah my plan doesnt work",
+        "ts": "1471047888.000125"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "did you try what im saying?",
+        "ts": "1471047975.000126"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "basically, if you do &gt;ls",
+        "ts": "1471047993.000127"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "you should see zip, code",
+        "ts": "1471048002.000128"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "both folders",
+        "ts": "1471048004.000129"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "zip is empty and code is full of our website stuff",
+        "ts": "1471048021.000130"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "then when we want to archive, we make n folders, where n is the number of groups",
+        "ts": "1471048054.000131"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "load all files from group 1 into the main directory",
+        "ts": "1471048067.000132"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "because we can create files there",
+        "ts": "1471048074.000133"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "then move them all into group 1's folder",
+        "ts": "1471048082.000134"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "then move than into zip",
+        "ts": "1471048085.000135"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "repeat for all groups",
+        "ts": "1471048090.000136"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "then zip \"zip\" folder as new file in main directiry",
+        "ts": "1471048104.000137"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "we can make directories inside the zip before creating the zip",
+        "ts": "1471048115.000138"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "in code",
+        "ts": "1471048117.000139"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "and i place the files in using addFromString",
+        "ts": "1471048129.000140"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "ok",
+        "ts": "1471048133.000141"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "dont need all these files",
+        "ts": "1471048135.000142"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "that works",
+        "ts": "1471048136.000143"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "it just wont create the zip at the end",
+        "ts": "1471048143.000144"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "cause when you do $zip-&gt;close();",
+        "ts": "1471048156.000145"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "is when it actually makes the zip folder based on your object",
+        "ts": "1471048170.000146"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "where does it try to make it",
+        "ts": "1471048230.000147"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "outside the folder?",
+        "ts": "1471048243.000148"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "groups\/p\/po_comp353_1\/zip\/course.zip",
+        "ts": "1471048268.000149"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "tried",
+        "ts": "1471048275.000150"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "dont make it in there",
+        "ts": "1471048281.000151"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "make it in groups\/p\/po_comp353_1",
+        "ts": "1471048294.000152"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "didnt work there either",
+        "ts": "1471048300.000153"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "thats why i made the zip folder",
+        "ts": "1471048311.000154"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "but i'll try again",
+        "ts": "1471048326.000155"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "doesnt work",
+        "ts": "1471048751.000156"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "idk what im doing wrong",
+        "ts": "1471048756.000157"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "are you edditing through vim?",
+        "ts": "1471048817.000158"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "or is there a way to use notepad++ or something",
+        "ts": "1471048828.000159"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "im using vim",
+        "ts": "1471048894.000160"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i have a dif error tho now",
+        "ts": "1471048902.000161"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "gonna try fixing that",
+        "ts": "1471048906.000162"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "instead of no error",
+        "ts": "1471048955.000163"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i now get",
+        "ts": "1471048959.000164"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Warning: ZipArchive::close(): Renaming temporary file failed: No such file or directory",
+        "ts": "1471048961.000165"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "<http:\/\/stackoverflow.com\/questions\/38886193\/php-ziparchiveclose-renaming-temporary-file-failed-no-such-file-or-direct>",
+        "attachments": [
+            {
+                "title": "PHP: ZipArchive::close(): Renaming temporary file failed: No such file or directory",
+                "title_link": "http:\/\/stackoverflow.com\/questions\/38886193\/php-ziparchiveclose-renaming-temporary-file-failed-no-such-file-or-direct",
+                "text": "I cannot create a zip file. It gives me this error. A search turned up no results. This is my function. function CompressFile($fromExtractedFile) { $archive = new ZipArchive; if ($",
+                "fallback": "PHP: ZipArchive::close(): Renaming temporary file failed: No such file or directory",
+                "thumb_url": "http:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/apple-touch-icon@2.png?v=73d79a89bded&a",
+                "from_url": "http:\/\/stackoverflow.com\/questions\/38886193\/php-ziparchiveclose-renaming-temporary-file-failed-no-such-file-or-direct",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "http:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/favicon.ico?v=4f32ecc8f43d",
+                "service_name": "stackoverflow.com",
+                "id": 1
+            }
+        ],
+        "ts": "1471049102.000166"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "looks lke it might be a fucked up function",
+        "ts": "1471049110.000168"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "yeah im reading the same thing",
+        "ts": "1471049119.000169"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "what the fuck",
+        "ts": "1471049122.000170"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "(\u256f\u00b0\u25a1\u00b0\uff09\u256f\ufe35 \u253b\u2501\u253b",
+        "ts": "1471049155.000171"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "this is dumb",
+        "ts": "1471049186.000172"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "we cant control our php version",
+        "ts": "1471049192.000173"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "that shit is literally 21 hrs old",
+        "ts": "1471049199.000174"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "fck",
+        "ts": "1471049201.000175"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "21 hrs huh",
+        "ts": "1471049248.000176"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "seems brand new to me",
+        "ts": "1471049251.000177"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "gonna try the pclzip",
+        "ts": "1471049306.000178"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "lets hope its not stupid",
+        "ts": "1471049331.000179"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "we'll see lol",
+        "ts": "1471049350.000180"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "eh",
+        "ts": "1471049891.000181"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "nope",
+        "ts": "1471050684.000182"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Abort pclzip.lib.php : Missing zlib extensions",
+        "ts": "1471050698.000183"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "im fuckin done",
+        "ts": "1471050701.000184"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "thats dumb",
+        "ts": "1471050706.000185"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "You're dumb",
+        "ts": "1471050707.000186",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U1PBB7C4T"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "oh right",
+        "ts": "1471050713.000187"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "someone else can kill themselves",
+        "ts": "1471050759.000188"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i'll do the file size tmr",
+        "ts": "1471050765.000189"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "go enjoy your friday",
+        "ts": "1471050772.000190"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "ill try to do it tomorrow",
+        "ts": "1471050779.000191"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i'll probably look at it again",
+        "ts": "1471050792.000192"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "in the lab so i dont have to deal with vim or nano or other bash bullcrap",
+        "ts": "1471050794.000193"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "but also need to write tests for soen lol",
+        "ts": "1471050800.000194"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "shell",
+        "ts": "1471050800.000195"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "oh yeah",
+        "ts": "1471050805.000196"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "lol the teacher was like \"can you show me your tests\"",
+        "ts": "1471050813.000197"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "to you guys?",
+        "ts": "1471050831.000198"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "for your group",
+        "ts": "1471050832.000199"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "and they couldnt",
+        "ts": "1471050836.000200"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "LOL",
+        "ts": "1471050836.000201"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "yeahhhhhhh",
+        "ts": "1471050844.000202"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "well arent they do later",
+        "ts": "1471050862.000203"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "our people were doing the user stories until like right when it was due",
+        "ts": "1471050874.000204"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "was impossible to do the tests",
+        "ts": "1471050881.000205"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "yeah i know",
+        "ts": "1471050902.000206"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "my team is wasting their time trying to test my physics thing, I don't know what they're going to test",
+        "ts": "1471050939.000207"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "I was trying for zipping thing and it frustrated me so bad , spent more than 8 hours with no success ",
+        "ts": "1471050950.000208"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "me",
+        "ts": "1471050959.000209"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "too",
+        "ts": "1471050960.000210"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i got it to the point where it said",
+        "ts": "1471050976.000211"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "ZipArchive::close(): Renaming temporary file failed: No such file or directory",
+        "ts": "1471050989.000212"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "then read this",
+        "ts": "1471050997.000213"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "<http:\/\/stackoverflow.com\/questions\/38886193\/php-ziparchiveclose-renaming-temporary-file-failed-no-such-file-or-direct>",
+        "ts": "1471050998.000214"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "so tried their solution doesnt work for us either",
+        "ts": "1471051008.000215"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "what if we just have  pre made zip file",
+        "ts": "1471051015.000216"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "and when we archive they can just download that",
+        "ts": "1471051022.000217"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Yea the weird thing is that it worked on my local host but didn work on the server ",
+        "ts": "1471051025.000218"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "and they can go screw themselves",
+        "ts": "1471051029.000219"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "might be the php version",
+        "ts": "1471051040.000220"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "on the server",
+        "ts": "1471051044.000221"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Can someone email the ta about it!?",
+        "ts": "1471051059.000222"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "or some permissions crap we dont understand",
+        "ts": "1471051061.000223"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "ill ask stan",
+        "ts": "1471051068.000224"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "we dont know whats wrong",
+        "ts": "1471051071.000225"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "lol",
+        "ts": "1471051074.000226"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "maybe stanley can help us",
+        "ts": "1471051076.000227"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "We dont want to loose marks ",
+        "ts": "1471051079.000228"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "We did a great job ",
+        "ts": "1471051114.000229"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "The deadline is Monday and I don't think hell look at his email on weekends ",
+        "ts": "1471051147.000230"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "If someone emails the ta is better so we have an idea and also to let her know that we worked in every possible way",
+        "ts": "1471051208.000231"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i put the file back to how it was where we get the rename error",
+        "ts": "1471051761.000232"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "<!channel>: can everyone send me a word doc or a text file containing a paragraph on what you've done for the project?",
+        "ts": "1471051953.000233"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i'll send one tomorrow",
+        "ts": "1471051975.000234"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "<@U1PBB7C4T>: thanks, I'll review it, if I noticed any of you forgetting anything, I'll add it for you",
+        "ts": "1471052015.000235"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "okay cool",
+        "ts": "1471052028.000236"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "our php version is 5.5.13",
+        "ts": "1471052096.000237"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "5.5.12*",
+        "ts": "1471052102.000238"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "i bet we need 5.5.13",
+        "ts": "1471052593.000239"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "lol",
+        "ts": "1471052713.000240"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "well that stackoverflow person is 5.6",
+        "ts": "1471052737.000241"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "I'm sure this isn't really that new of a feature ",
+        "ts": "1471052913.000242"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "yup",
+        "ts": "1471052934.000243"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "and 5.5.12 or 1.6 are not the newest versions of php",
+        "ts": "1471052953.000244"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "but its possible something was broken in those versions even if it worked before",
+        "ts": "1471052968.000245"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "or im dumb",
+        "ts": "1471052986.000246"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "You're dumb",
+        "ts": "1471052987.000247"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "yep",
+        "ts": "1471052991.000248"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "lol",
+        "ts": "1471053146.000249"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "<@USLACKBOT>: ?",
+        "ts": "1471054932.000250"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "<@USLACKBOT>: dumb",
+        "ts": "1471054945.000251"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "You're dumb",
+        "ts": "1471054946.000252"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "<@USLACKBOT>: smart",
+        "ts": "1471054958.000253"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "<@USLACKBOT>: hi",
+        "ts": "1471054966.000254"
+    }
+]

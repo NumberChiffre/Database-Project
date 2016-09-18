@@ -1,0 +1,15 @@
+[
+    {
+        "user": "U1MGNL4KU",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1MGNL4KU|demo> has joined the channel",
+        "ts": "1467236177.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "This is where we plan",
+        "ts": "1467236195.000003"
+    }
+]

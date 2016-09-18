@@ -1,0 +1,534 @@
+[
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "guys is anyone coming to the lab? she is going to individually go over each teams er diagram and give feedback, pretty important! also the final project demos are already august 8th!",
+        "ts": "1468851568.000002"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1PBBB3J7|jordan_orsini> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/jordan_orsini\/F1SMDBKJS\/353_final_project_notes.txt|353 final project notes.txt>",
+        "file": {
+            "id": "F1SMDBKJS",
+            "created": 1468854644,
+            "timestamp": 1468854644,
+            "name": "353 final project notes.txt",
+            "title": "353 final project notes.txt",
+            "mimetype": "text\/plain",
+            "filetype": "text",
+            "pretty_type": "Plain Text",
+            "user": "U1PBBB3J7",
+            "editable": true,
+            "size": 1627,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1SMDBKJS\/353_final_project_notes.txt?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1SMDBKJS\/download\/353_final_project_notes.txt?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/jordan_orsini\/F1SMDBKJS\/353_final_project_notes.txt",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F1SMDBKJS-ac3175dec1",
+            "edit_link": "https:\/\/compdatabaseproject.slack.com\/files\/jordan_orsini\/F1SMDBKJS\/353_final_project_notes.txt\/edit",
+            "preview": "353 final project due august 8th!\r\n\r\n-trigger (in sql) for file recovery in 24 hours, \r\nwill trigger when user logs in and\r\npermanently deletes all files deleted 24 hours ago\r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>353 final project due august 8th!<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<div><pre>-trigger (in sql) for file recovery in 24 hours, <\/pre><\/div>\n<div><pre>will trigger when user logs in and<\/pre><\/div>\n<div><pre>permanently deletes all files deleted 24 hours ago<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 56,
+            "lines_more": 51,
+            "channels": [
+                "C1MGNL6R0"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U1PBBB3J7",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1PBBB3J7|jordan_orsini>",
+        "bot_id": null,
+        "ts": "1468854644.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "some notes i took for final project. we need to scrap our er and start from scratch. she roasted us on it pretty bad",
+        "ts": "1468854676.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "a lot of useless weak entities",
+        "ts": "1468854692.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "also <@U1MGNL4KU>  it is marked that we have a 10% late penalty for the warmup project. who did you email in regards to the submission",
+        "ts": "1468854774.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "I emailed the other ta ",
+        "ts": "1468854821.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "She said it's ok, so I don't think it will be a problem ",
+        "ts": "1468854845.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "i don't know cause the ta is logged into her account and we are the only group that says we have a 10% penalty on her system",
+        "ts": "1468854890.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Well that's pretty lame, we were why able to submit it until after 12",
+        "ts": "1468854955.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "ill talk to her after class",
+        "ts": "1468855003.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "need a system details table that contains starts\/end date of a course and admin details",
+        "ts": "1468855677.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Start\/end date is semester ",
+        "ts": "1468855705.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "we're scrapping our design the ta is saying to do that",
+        "ts": "1468855724.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Also, it would have been nice to have an outline to follow ",
+        "ts": "1468855735.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "i know, everything is extremely vague",
+        "ts": "1468855898.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Ok, so do we meet after class, ",
+        "ts": "1468859631.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "?*",
+        "ts": "1468859634.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "I'm going to get food right after class then meet up with anyone who can ",
+        "ts": "1468859671.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "I can meet during the class time if any one who's not attending ",
+        "ts": "1468860016.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "<@U1MGW6FUM>: we only have 3 weeks left. we should make sure we all meet today.",
+        "ts": "1468862569.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "<@U1PBBB3J7>: ill be in the university till 5:30 pm",
+        "ts": "1468863732.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "well if we are meeting after class that wont work...",
+        "ts": "1468863801.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Since most of you left, lets meet on wednesday instead after class?",
+        "ts": "1468873127.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Unless you guys are still here?",
+        "ts": "1468873153.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "im still here just not in class",
+        "ts": "1468873188.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "ill be sticking around to meet if you guys are",
+        "ts": "1468873203.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "i think shawn is still there as well",
+        "ts": "1468873213.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Kk",
+        "ts": "1468873218.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Wat",
+        "ts": "1468873470.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "I'm still at school",
+        "ts": "1468873479.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "I'm doing the assignment",
+        "ts": "1468873504.000010"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1PBB7C4T|shayne> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/shayne\/F1SRC0H6K\/assignment2.txt|Assignment2.txt>",
+        "file": {
+            "id": "F1SRC0H6K",
+            "created": 1468873808,
+            "timestamp": 1468873808,
+            "name": "Assignment2.txt",
+            "title": "Assignment2.txt",
+            "mimetype": "text\/plain",
+            "filetype": "text",
+            "pretty_type": "Plain Text",
+            "user": "U1PBB7C4T",
+            "editable": true,
+            "size": 3723,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1SRC0H6K\/assignment2.txt?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1SRC0H6K\/download\/assignment2.txt?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/shayne\/F1SRC0H6K\/assignment2.txt",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F1SRC0H6K-3515d1996e",
+            "edit_link": "https:\/\/compdatabaseproject.slack.com\/files\/shayne\/F1SRC0H6K\/assignment2.txt\/edit",
+            "preview": "1. a. {A->B, C->AB} -> {C->B}\r\n\r\nA->B becomes AB->BB through augmentation.\r\nThis means AB->B through the decomposition rule.\r\nAB->B becomes C->B through pseudo-transitivity rule.\r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>1. a. {A-&gt;B, C-&gt;AB} -&gt; {C-&gt;B}<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<div><pre>A-&gt;B becomes AB-&gt;BB through augmentation.<\/pre><\/div>\n<div><pre>This means AB-&gt;B through the decomposition rule.<\/pre><\/div>\n<div><pre>AB-&gt;B becomes C-&gt;B through pseudo-transitivity rule.<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 129,
+            "lines_more": 124,
+            "channels": [
+                "C1MGNL6R0"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U1PBB7C4T",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1PBB7C4T|shayne>",
+        "bot_id": null,
+        "ts": "1468873811.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i did number 1 and 3",
+        "ts": "1468873822.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "and number 2 part i",
+        "ts": "1468873829.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "should just be number 2 part ii and num 4 left",
+        "ts": "1468873849.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "where are we meeting?",
+        "ts": "1468877133.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "8th floor again I guess ",
+        "ts": "1468877347.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "One of the labs ",
+        "ts": "1468877351.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "I'll be there in 10",
+        "ts": "1468877356.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Which room?",
+        "ts": "1468877388.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "if we go to the tutorial room we can use the chalkboard",
+        "ts": "1468877442.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "U mean the lab room?",
+        "ts": "1468877571.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Pcs and whiteboard",
+        "ts": "1468877580.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "i dunno the lab room but in the tutorial there was chalk that we could use unless she took it after class",
+        "ts": "1468877632.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Do we have markers ",
+        "ts": "1468877979.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "? I'll go buy some right now ",
+        "ts": "1468877985.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Well use a white board ",
+        "ts": "1468877992.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "we found a room with chalk and chalk board room 565",
+        "ts": "1468878039.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "I'll be there in like 15",
+        "ts": "1468878103.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Fuck chalk! ",
+        "ts": "1468878113.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "And yeah I'll be about 15 as well ",
+        "ts": "1468878124.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Going to pick up some food ",
+        "ts": "1468878148.000018"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1PBBB3J7|jordan_orsini> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/jordan_orsini\/F1SSTTQDN\/slack_for_ios_upload.jpg|Slack for iOS Upload>",
+        "file": {
+            "id": "F1SSTTQDN",
+            "created": 1468885792,
+            "timestamp": 1468885792,
+            "name": "Slack for iOS Upload.jpg",
+            "title": "Slack for iOS Upload",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U1PBBB3J7",
+            "editable": false,
+            "size": 481103,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1SSTTQDN\/slack_for_ios_upload.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1SSTTQDN\/download\/slack_for_ios_upload.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1SSTTQDN-85665f5690\/slack_for_ios_upload_64.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1SSTTQDN-85665f5690\/slack_for_ios_upload_80.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1SSTTQDN-85665f5690\/slack_for_ios_upload_360.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_360_w": 360,
+            "thumb_360_h": 270,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1SSTTQDN-85665f5690\/slack_for_ios_upload_480.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_480_w": 480,
+            "thumb_480_h": 360,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1SSTTQDN-85665f5690\/slack_for_ios_upload_160.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1SSTTQDN-85665f5690\/slack_for_ios_upload_720.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_720_w": 720,
+            "thumb_720_h": 540,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1SSTTQDN-85665f5690\/slack_for_ios_upload_960.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_960_w": 960,
+            "thumb_960_h": 720,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1SSTTQDN-85665f5690\/slack_for_ios_upload_1024.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 768,
+            "image_exif_rotation": 1,
+            "original_w": 1632,
+            "original_h": 1224,
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/jordan_orsini\/F1SSTTQDN\/slack_for_ios_upload.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F1SSTTQDN-ddf2277f57",
+            "channels": [
+                "C1MGNL6R0"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U1PBBB3J7",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1PBBB3J7|jordan_orsini>",
+        "bot_id": null,
+        "ts": "1468885795.000002"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1PBBB3J7|jordan_orsini> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/jordan_orsini\/F1SSZNN4F\/slack_for_ios_upload.jpg|Slack for iOS Upload>",
+        "file": {
+            "id": "F1SSZNN4F",
+            "created": 1468885803,
+            "timestamp": 1468885803,
+            "name": "Slack for iOS Upload.jpg",
+            "title": "Slack for iOS Upload",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U1PBBB3J7",
+            "editable": false,
+            "size": 461082,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1SSZNN4F\/slack_for_ios_upload.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1SSZNN4F\/download\/slack_for_ios_upload.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1SSZNN4F-529d11ab43\/slack_for_ios_upload_64.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1SSZNN4F-529d11ab43\/slack_for_ios_upload_80.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1SSZNN4F-529d11ab43\/slack_for_ios_upload_360.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_360_w": 360,
+            "thumb_360_h": 270,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1SSZNN4F-529d11ab43\/slack_for_ios_upload_480.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_480_w": 480,
+            "thumb_480_h": 360,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1SSZNN4F-529d11ab43\/slack_for_ios_upload_160.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1SSZNN4F-529d11ab43\/slack_for_ios_upload_720.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_720_w": 720,
+            "thumb_720_h": 540,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1SSZNN4F-529d11ab43\/slack_for_ios_upload_960.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_960_w": 960,
+            "thumb_960_h": 720,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1SSZNN4F-529d11ab43\/slack_for_ios_upload_1024.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 768,
+            "image_exif_rotation": 1,
+            "original_w": 1632,
+            "original_h": 1224,
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/jordan_orsini\/F1SSZNN4F\/slack_for_ios_upload.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F1SSZNN4F-0c44a82848",
+            "channels": [
+                "C1MGNL6R0"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U1PBBB3J7",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1PBBB3J7|jordan_orsini>",
+        "bot_id": null,
+        "ts": "1468885807.000003"
+    }
+]

@@ -1,0 +1,850 @@
+[
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Gonna be late to tutorial but I'll be there",
+        "ts": "1469018060.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Will be there for the tutorial but not the lab for today",
+        "ts": "1469021292.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "I meant late for lab lol",
+        "ts": "1469021838.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "i will be asking her about our er diagram, does anyone have any questions i should ask?",
+        "ts": "1469024907.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "changes to be made to er:",
+        "ts": "1469026450.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "changes to be made to er:\n-need a file versions table\n-remove 'leader isA student' and 'group has a leader' relationship instead store leader id as an attribute to Group\n-remove log table, is not needed\n-make uploads a weak entity. a file belongs to a student as well as a group. (wasn't clear if a needed to add a 'student has files' relationship\n-need a file versions table.  each file has multiple versions. file versions should be a weak entity with version # as primary key. as such version # in files should be replaced by a file id# attribute",
+        "ts": "1469026801.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Going to be there for class only ",
+        "ts": "1469028078.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "And after class ",
+        "ts": "1469028087.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "<@U1PBBB3J7>: are at the university now?",
+        "ts": "1469029080.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "You *",
+        "ts": "1469029246.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "yup",
+        "ts": "1469029279.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "In the lab?",
+        "ts": "1469029318.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "yup",
+        "ts": "1469029322.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Ok ill meet you there soon",
+        "ts": "1469029341.000012"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1PBB7C4T|shayne> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/shayne\/F1TGU68UA\/errrrrrrrrr.xml|ERRRRRRRRRR.xml>",
+        "file": {
+            "id": "F1TGU68UA",
+            "created": 1469032257,
+            "timestamp": 1469032257,
+            "name": "ERRRRRRRRRR.xml",
+            "title": "ERRRRRRRRRR.xml",
+            "mimetype": "text\/plain",
+            "filetype": "xml",
+            "pretty_type": "XML",
+            "user": "U1PBB7C4T",
+            "editable": true,
+            "size": 4158,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1TGU68UA\/errrrrrrrrr.xml?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1TGU68UA\/download\/errrrrrrrrr.xml?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/shayne\/F1TGU68UA\/errrrrrrrrr.xml",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F1TGU68UA-f25df92623",
+            "edit_link": "https:\/\/compdatabaseproject.slack.com\/files\/shayne\/F1TGU68UA\/errrrrrrrrr.xml\/edit",
+            "preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<mxfile userAgent=\"Mozilla\/5.0 (Windows NT 6.1; WOW64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/51.0.2704.103 Safari\/537.36\" version=\"5.5.3.3\" editor=\"www.draw.io\" type=\"device\"><diagram>7V1dc6M41v41uewuY8COL5Punp6t2qma2uzsu+9VF20Tm21seQF3kv31c4BzMEjC+TA6Qs74xiAEAunR0fnWlf9p+\/g1i\/ab38QqTq+mk9Xjlf\/5ajr1Aj+Av7LkqS65nmDBOktWWOlYcJf8L8bCCZYeklWcdyoWQqRFsu8WLsVuFy+LTlmUZeKhW+1epN1W99GaWjwW3C2jVC39v2RVbPArprNj+a9xst5Qy95sUV\/5Hi1\/rDNx2GF7V1P\/vvrVl7cRPQs\/NN9EK\/HQKvK\/QL9mQsCTy6Pt46c4LfuWuq2+75eeq817Z\/EO3+2ZG\/CL8uKJvj1eQVfgqciKjViLXZR+OZbeVt8Xl0+YwNmm2KZw6MFh\/JgU\/y6LP85DPP1\/urQrsqf6WnWpPC2vlU\/Iiygrbsphg4Kd2JVtVGW\/JPCydZ14t5JqQEnr+n\/ionhCIEWHQkDR8eX\/LsQe36P+3PIbe3sMi3JxyJZYC84rDEbZOqZaFaKxV7\/GYhvDF0GdLE6jIvnZfXyEeFw39Y5jAgc4LD1DNMHWBx6j1gDReF3cGE2qemcMUnUrfFRU3kUV9iLZFXnryb+XBVAB6Z9PsxupnzetqUMzCaX6QXiqOhzUL3BES\/MlLwTQtXkAlYDhxEiD1ebk+B7D4cerCs\/FjzLgEj6CCZ7TE+p3wJuOSDgbh3NpMZDqe2fWD7qLzdnAxRH5GaUH7Ok\/8jhTsJwXmfjRrNPQGbcPm6SI7\/ZRNbQPwKJ0ERylyXoHx0uAAzyPAPMzzoqYPq0HMioUevp6jgzBw...",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-meta\">&lt;?xml<\/span> <span class=\"cm-meta\">version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;<\/span><\/pre><\/div>\n<div><pre><span class=\"cm-tag cm-bracket\">&lt;<\/span><span class=\"cm-tag\">mxfile<\/span> <span class=\"cm-attribute\">userAgent<\/span>=<span class=\"cm-string\">&quot;Mozilla\/5.0 (Windows NT 6.1; WOW64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/51.0.2704.103 Safari\/537.36&quot;<\/span> <span class=\"cm-attribute\">version<\/span>=<span class=\"cm-string\">&quot;5.5.3.3&quot;<\/span> <span class=\"cm-attribute\">editor<\/span>=<span class=\"cm-string\">&quot;www.draw.io&quot;<\/span> <span class=\"cm-attribute\">type<\/span>=<span class=\"cm-string\">&quot;device&quot;<\/span><span class=\"cm-tag cm-bracket\">&gt;<\/span><span class=\"cm-tag cm-bracket\">&lt;<\/span><span class=\"cm-tag\">diagram<\/span><span class=\"cm-tag cm-bracket\">&gt;<\/span>7V1dc6M41v41uewuY8COL5Punp6t2qma2uzsu+9VF20Tm21seQF3kv31c4BzMEjC+TA6Qs74xiAEAunR0fnWlf9p+\/g1i\/ab38QqTq+mk9Xjlf\/5ajr1Aj+Av7LkqS65nmDBOktWWOlYcJf8L8bCCZYeklWcdyoWQqRFsu8WLsVuFy+LTlmUZeKhW+1epN1W99GaWjwW3C2jVC39v2RVbPArprNj+a9xst5Qy95sUV\/5Hi1\/rDNx2GF7V1P\/vvrVl7cRPQs\/NN9EK\/HQKvK\/QL9mQsCTy6Pt46c4LfuWuq2+75eeq817Z\/EO3+2ZG\/CL8uKJvj1eQVfgqciKjViLXZR+OZbeVt8Xl0+YwNmm2KZw6MFh\/JgU\/y6LP85DPP1\/urQrsqf6WnWpPC2vlU\/Iiygrbsphg4Kd2JVtVGW\/JPCydZ14t5JqQEnr+n\/ionhCIEWHQkDR8eX\/LsQe36P+3PIbe3sMi3JxyJZYC84rDEbZOqZaFaKxV7\/GYhvDF0GdLE6jIvnZfXyEeFw39Y5jAgc4LD1DNMHWBx6j1gDReF3cGE2qemcMUnUrfFRU3kUV9iLZFXnryb+XBVAB6Z9PsxupnzetqUMzCaX6QXiqOhzUL3BES\/MlLwTQtXkAlYDhxEiD1ebk+B7D4cerCs\/FjzLgEj6CCZ7TE+p3wJuOSDgbh3NpMZDqe2fWD7qLzdnAxRH5GaUH7Ok\/8jhTsJwXmfjRrNPQGbcPm6SI7\/ZRNbQPwKJ0ERylyXoHx0uAAzyPAPMzzoqYPq0HMioUevp6jgzBw...<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 2,
+            "lines_more": 0,
+            "channels": [
+                "C1MGNL6R0"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U1PBB7C4T",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1PBB7C4T|shayne>",
+        "bot_id": null,
+        "ts": "1469032257.000013"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1PBB7C4T|shayne> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/shayne\/F1TGCAVA4\/errrrrrrrrr__1_.xml|ERRRRRRRRRR (1).xml>",
+        "file": {
+            "id": "F1TGCAVA4",
+            "created": 1469032367,
+            "timestamp": 1469032367,
+            "name": "ERRRRRRRRRR (1).xml",
+            "title": "ERRRRRRRRRR (1).xml",
+            "mimetype": "text\/plain",
+            "filetype": "xml",
+            "pretty_type": "XML",
+            "user": "U1PBB7C4T",
+            "editable": true,
+            "size": 4222,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1TGCAVA4\/errrrrrrrrr__1_.xml?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1TGCAVA4\/download\/errrrrrrrrr__1_.xml?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/shayne\/F1TGCAVA4\/errrrrrrrrr__1_.xml",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F1TGCAVA4-e7e3d8aa1a",
+            "edit_link": "https:\/\/compdatabaseproject.slack.com\/files\/shayne\/F1TGCAVA4\/errrrrrrrrr__1_.xml\/edit",
+            "preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<mxfile userAgent=\"Mozilla\/5.0 (Windows NT 6.1; WOW64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/51.0.2704.103 Safari\/537.36\" version=\"5.5.3.3\" editor=\"www.draw.io\" type=\"device\"><diagram>7V1bc6M4Fv41eewuY8COH5Punp6t2qma2uzs5amLtonNNra8gDvJ\/vo5gnOwkITjxOhCsn4xCAFC+nR07roKP20fvxbJfvMbW6X51XSyerwKP19Np0EURvDHS56akusJFqyLbIWVjgV32f9SLJxg6SFbpWWnYsVYXmX7buGS7XbpsuqUJUXBHrrV7lnefes+WdMbjwV3yyRXS\/+ZraoNfsV0diz\/Nc3WG3pzMFs0V74nyx\/rgh12+L6raXhf\/5rL24SehR9abpIVexCKwi\/QrwVj8GR+tH38lOa8b6nbmvt+6bnatrtId9i2Z27ALyqrJ\/r2dAVdgaesqDZszXZJ\/uVYelt\/X8qfMIGzTbXN4TCAw\/Qxq\/7Fiz\/OYzz9N13aVcVTc62+xE\/5Nf6EskqK6oYPGxTs2I6\/oy77JYPGNnXS3UqqASXC9f+kVfWEQEoOFYOiY+P\/ytge26F2EPZZyQ7FErsAzmvIJcU6pVoIYN47wn3Yq19Ttk3hi6BCkeZJlf3sAilBPK7bescxgQMclp4hmmBzBh4jYYBovMY+RhOsN9wg1bfCRyX8LqqwZ9muKoUn\/84LoALSv5BmN1K\/YNpQh3YSSvWj+FR1OGgacERL+yVnAujaPIA4YGxipMVqe3Jsx6vxE2DhwPhRBlzCRzTBc3pC0yi86YiEi3E4lxYDqX5wYf2ou9hcDFwcjZ9JfsCe\/qNMCwXLZVWwH+06DZ1x+7DJqvRun9Rj\/QAsShfBSZ6td3C8BHzA804A5mdaVCl9rR4KPX09R4bg4cg+BDTMG...",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-meta\">&lt;?xml<\/span> <span class=\"cm-meta\">version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;<\/span><\/pre><\/div>\n<div><pre><span class=\"cm-tag cm-bracket\">&lt;<\/span><span class=\"cm-tag\">mxfile<\/span> <span class=\"cm-attribute\">userAgent<\/span>=<span class=\"cm-string\">&quot;Mozilla\/5.0 (Windows NT 6.1; WOW64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/51.0.2704.103 Safari\/537.36&quot;<\/span> <span class=\"cm-attribute\">version<\/span>=<span class=\"cm-string\">&quot;5.5.3.3&quot;<\/span> <span class=\"cm-attribute\">editor<\/span>=<span class=\"cm-string\">&quot;www.draw.io&quot;<\/span> <span class=\"cm-attribute\">type<\/span>=<span class=\"cm-string\">&quot;device&quot;<\/span><span class=\"cm-tag cm-bracket\">&gt;<\/span><span class=\"cm-tag cm-bracket\">&lt;<\/span><span class=\"cm-tag\">diagram<\/span><span class=\"cm-tag cm-bracket\">&gt;<\/span>7V1bc6M4Fv41eewuY8COH5Punp6t2qma2uzs5amLtonNNra8gDvJ\/vo5gnOwkITjxOhCsn4xCAFC+nR07roKP20fvxbJfvMbW6X51XSyerwKP19Np0EURvDHS56akusJFqyLbIWVjgV32f9SLJxg6SFbpWWnYsVYXmX7buGS7XbpsuqUJUXBHrrV7lnefes+WdMbjwV3yyRXS\/+ZraoNfsV0diz\/Nc3WG3pzMFs0V74nyx\/rgh12+L6raXhf\/5rL24SehR9abpIVexCKwi\/QrwVj8GR+tH38lOa8b6nbmvt+6bnatrtId9i2Z27ALyqrJ\/r2dAVdgaesqDZszXZJ\/uVYelt\/X8qfMIGzTbXN4TCAw\/Qxq\/7Fiz\/OYzz9N13aVcVTc62+xE\/5Nf6EskqK6oYPGxTs2I6\/oy77JYPGNnXS3UqqASXC9f+kVfWEQEoOFYOiY+P\/ytge26F2EPZZyQ7FErsAzmvIJcU6pVoIYN47wn3Yq19Ttk3hi6BCkeZJlf3sAilBPK7bescxgQMclp4hmmBzBh4jYYBovMY+RhOsN9wg1bfCRyX8LqqwZ9muKoUn\/84LoALSv5BmN1K\/YNpQh3YSSvWj+FR1OGgacERL+yVnAujaPIA4YGxipMVqe3Jsx6vxE2DhwPhRBlzCRzTBc3pC0yi86YiEi3E4lxYDqX5wYf2ou9hcDFwcjZ9JfsCe\/qNMCwXLZVWwH+06DZ1x+7DJqvRun9Rj\/QAsShfBSZ6td3C8BHzA804A5mdaVCl9rR4KPX09R4bg4cg+BDTMG...<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 2,
+            "lines_more": 0,
+            "channels": [
+                "C1MGNL6R0"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U1PBB7C4T",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1PBB7C4T|shayne>",
+        "bot_id": null,
+        "ts": "1469032367.000014"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1PBB7C4T|shayne> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/shayne\/F1TGPA0VB\/errrrrrrrrr__2_.xml|ERRRRRRRRRR (2).xml>",
+        "file": {
+            "id": "F1TGPA0VB",
+            "created": 1469033126,
+            "timestamp": 1469033126,
+            "name": "ERRRRRRRRRR (2).xml",
+            "title": "ERRRRRRRRRR (2).xml",
+            "mimetype": "text\/plain",
+            "filetype": "xml",
+            "pretty_type": "XML",
+            "user": "U1PBB7C4T",
+            "editable": true,
+            "size": 4230,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1TGPA0VB\/errrrrrrrrr__2_.xml?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1TGPA0VB\/download\/errrrrrrrrr__2_.xml?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/shayne\/F1TGPA0VB\/errrrrrrrrr__2_.xml",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F1TGPA0VB-cfb7d8fd31",
+            "edit_link": "https:\/\/compdatabaseproject.slack.com\/files\/shayne\/F1TGPA0VB\/errrrrrrrrr__2_.xml\/edit",
+            "preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<mxfile userAgent=\"Mozilla\/5.0 (Windows NT 6.1; WOW64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/51.0.2704.103 Safari\/537.36\" version=\"5.5.3.3\" editor=\"www.draw.io\" type=\"device\"><diagram>7V1bc+I4Fv41eewujG0Ij0l3T89W7VRNbXb28tTlBge8bRBrm06yv36O7HOMLMkkAeviZHkBZGFk6dO5XnQVfto+fi2S\/eY3tkrzq+lk9XgVfr6aToMojOCNtzw1LdfXk6ZhXWSrpklouMv+l+IvqfWQrdIS25qmirG8yvbdxiXb7dJl1WlLioI9dLvdsxz\/FRv2yZr+8dhwt0xytfWf2ara4FPEODze\/muarTf0z8EEr3xPlj\/WBTvs8P+upuF9\/WoubxO6F\/YvN8mKPQhN4ReY14IxuDP\/tH38lOZ8brvT9kvP1XbcRbrDsT3zgxmOo3qiZ09XMBX4lRXVhq3ZLsm\/HFtv6+dL+R0m8G1TbXP4GMDH9DGr\/sWbP85j\/PpvurSriqfmWn2Jf+XX+B3KKimqG75s0LBjO\/4fddsvGQy26ZPuVlIPaBGu\/yetqicEUnKoGDQdB\/9XxvY4DnWCcM5KdiiWOAXwvYZcUqxT6oWI5rMj\/A5n9WvKtik8EXQo0jypsp9dICWIx3Xb77gm8AGXpWeJJjicgddIWCBar7Gv0QT7DbdI9U\/hoRL+K+qwZ9muKoU7\/84boAPSv5B2N1K\/YLrobkKpfxSf6g4fmgEc0dI+yQsBdG0eQBwwNjHSYrX9chzH2fgJsHFg\/CgLLuEjIu5Bd2gGhT86IuFiHM4lZiD1Dy7sH3WZzcXAxdX4meQHnOk\/yrRQsFxWBfvR8mmYjNuHTVald\/ukXusHEFG6CE7ybL2Dz0vAB9zvBGB+pkWV0tPqodAz1\/NmD08ejuJDK...",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-meta\">&lt;?xml<\/span> <span class=\"cm-meta\">version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;<\/span><\/pre><\/div>\n<div><pre><span class=\"cm-tag cm-bracket\">&lt;<\/span><span class=\"cm-tag\">mxfile<\/span> <span class=\"cm-attribute\">userAgent<\/span>=<span class=\"cm-string\">&quot;Mozilla\/5.0 (Windows NT 6.1; WOW64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/51.0.2704.103 Safari\/537.36&quot;<\/span> <span class=\"cm-attribute\">version<\/span>=<span class=\"cm-string\">&quot;5.5.3.3&quot;<\/span> <span class=\"cm-attribute\">editor<\/span>=<span class=\"cm-string\">&quot;www.draw.io&quot;<\/span> <span class=\"cm-attribute\">type<\/span>=<span class=\"cm-string\">&quot;device&quot;<\/span><span class=\"cm-tag cm-bracket\">&gt;<\/span><span class=\"cm-tag cm-bracket\">&lt;<\/span><span class=\"cm-tag\">diagram<\/span><span class=\"cm-tag cm-bracket\">&gt;<\/span>7V1bc+I4Fv41eewujG0Ij0l3T89W7VRNbXb28tTlBge8bRBrm06yv36O7HOMLMkkAeviZHkBZGFk6dO5XnQVfto+fi2S\/eY3tkrzq+lk9XgVfr6aToMojOCNtzw1LdfXk6ZhXWSrpklouMv+l+IvqfWQrdIS25qmirG8yvbdxiXb7dJl1WlLioI9dLvdsxz\/FRv2yZr+8dhwt0xytfWf2ara4FPEODze\/muarTf0z8EEr3xPlj\/WBTvs8P+upuF9\/WoubxO6F\/YvN8mKPQhN4ReY14IxuDP\/tH38lOZ8brvT9kvP1XbcRbrDsT3zgxmOo3qiZ09XMBX4lRXVhq3ZLsm\/HFtv6+dL+R0m8G1TbXP4GMDH9DGr\/sWbP85j\/PpvurSriqfmWn2Jf+XX+B3KKimqG75s0LBjO\/4fddsvGQy26ZPuVlIPaBGu\/yetqicEUnKoGDQdB\/9XxvY4DnWCcM5KdiiWOAXwvYZcUqxT6oWI5rMj\/A5n9WvKtik8EXQo0jypsp9dICWIx3Xb77gm8AGXpWeJJjicgddIWCBar7Gv0QT7DbdI9U\/hoRL+K+qwZ9muKoU7\/84boAPSv5B2N1K\/YLrobkKpfxSf6g4fmgEc0dI+yQsBdG0eQBwwNjHSYrX9chzH2fgJsHFg\/CgLLuEjIu5Bd2gGhT86IuFiHM4lZiD1Dy7sH3WZzcXAxdX4meQHnOk\/yrRQsFxWBfvR8mmYjNuHTVald\/ukXusHEFG6CE7ybL2Dz0vAB9zvBGB+pkWV0tPqodAz1\/NmD08ejuJDK...<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 2,
+            "lines_more": 0,
+            "channels": [
+                "C1MGNL6R0"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U1PBB7C4T",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1PBB7C4T|shayne>",
+        "bot_id": null,
+        "ts": "1469033126.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Are you guys going to the class?",
+        "ts": "1469039589.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Im in class, are we meeting after class?",
+        "ts": "1469040380.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "sure if everyone is able, let me know if he hands back the quiz. im working on the relational scheme",
+        "ts": "1469040436.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "We can meet after class or friday",
+        "ts": "1469040537.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "today is better",
+        "ts": "1469040672.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "since we're already here",
+        "ts": "1469040681.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "we'll have an online quiz on monday",
+        "ts": "1469040695.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "second half of the lecture",
+        "ts": "1469040707.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "but it's going to be in a lab",
+        "ts": "1469040719.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "<@U1PBB7C4T>:  the ta insisted that uploads should be a weak relationship",
+        "ts": "1469042605.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "im going to update the er",
+        "ts": "1469042615.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "i dont think it changes anything in terms of the tables",
+        "ts": "1469042632.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "<!channel>:  is it alright if i wipe the database and start from scratch?",
+        "ts": "1469042670.000014"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1PBBB3J7|jordan_orsini> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/jordan_orsini\/F1TJXFVU2\/er_final.xml|ER FINAL.xml>",
+        "file": {
+            "id": "F1TJXFVU2",
+            "created": 1469042936,
+            "timestamp": 1469042936,
+            "name": "ER FINAL.xml",
+            "title": "ER FINAL.xml",
+            "mimetype": "text\/plain",
+            "filetype": "xml",
+            "pretty_type": "XML",
+            "user": "U1PBBB3J7",
+            "editable": true,
+            "size": 4259,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1TJXFVU2\/er_final.xml?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1TJXFVU2\/download\/er_final.xml?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/jordan_orsini\/F1TJXFVU2\/er_final.xml",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F1TJXFVU2-1078c605ea",
+            "edit_link": "https:\/\/compdatabaseproject.slack.com\/files\/jordan_orsini\/F1TJXFVU2\/er_final.xml\/edit",
+            "preview": "<mxfile userAgent=\"Mozilla\/5.0 (Windows NT 6.1; WOW64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/51.0.2704.103 Safari\/537.36\" version=\"5.5.3.3\" editor=\"www.draw.io\" type=\"device\"><diagram>7V1bc6M4Fv41eewuY8CXx6S7p2erdqqmNjt7eeqibWKzjS0v4E4yv36O4BwsJOEkDrrQab8YhAAhfTo6d12FH3YPn4vksP2NrdP8ajpZP1yFH6+m0yAKI\/jjJY9NyXw2aQo2RbZuioSC2+zPFO+k0mO2Tkssa4oqxvIqO3QLV2y\/T1dVpywpCnbfrXbHcnwrFhySDb3xVHC7SnK19N\/Zuto2pYsYm8fLf02zzZbeHEzwytdk9W1TsOMe33c1De\/qX3N5l9CzsH65TdbsXigKP0G\/FozBk\/nR7uFDmvO+7XbbLz1X23YX6R7b9sQNM2xH9Ujfnq6hK\/CUFdWWbdg+yT+dSm\/q70v5EyZwtq12ORwGcJg+ZNV\/ePH7eYyn\/6VL+6p4bK7Vl\/gpv8afUFZJUV3zYYOCPdvzd9Rlv2TQ2KZOul9LNaBEuP6\/tKoeEUjJsWJQdGr83xk7YDvUDsI+K9mxWGEXwHkNuaTYpFQLEc17R7gPe\/VzynYpfBFUKNI8qbLvXSAliMdNW+80JnCAw9IzRBNszsBjJAwQjdfYx2iC9YYbpPpW+KiE30UVDizbV6Xw5N95AVRA+hfS7EbqF0yX3Uko1Y\/ic9XhoGnACS3tlzwTQAvzAOKAsYmRFqvtyakdF+MnwMKB8aMMuISPiFYPekLTKLzphIRX43AuLQZS\/eCV9aPuYvNq4OJofE\/yI\/b0H2VaKFguq4J9a9dp6Iyb+21WpbeHpB7re2BRughO8myzh+MV4AOedwYw39OiSulr9VDo6et5M4cn9yf2oWUStiLrII\/9ZUuEmVX8zCI+9X+FwBVbnOGDz+\/njhC2...",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-tag cm-bracket\">&lt;<\/span><span class=\"cm-tag\">mxfile<\/span> <span class=\"cm-attribute\">userAgent<\/span>=<span class=\"cm-string\">&quot;Mozilla\/5.0 (Windows NT 6.1; WOW64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/51.0.2704.103 Safari\/537.36&quot;<\/span> <span class=\"cm-attribute\">version<\/span>=<span class=\"cm-string\">&quot;5.5.3.3&quot;<\/span> <span class=\"cm-attribute\">editor<\/span>=<span class=\"cm-string\">&quot;www.draw.io&quot;<\/span> <span class=\"cm-attribute\">type<\/span>=<span class=\"cm-string\">&quot;device&quot;<\/span><span class=\"cm-tag cm-bracket\">&gt;<\/span><span class=\"cm-tag cm-bracket\">&lt;<\/span><span class=\"cm-tag\">diagram<\/span><span class=\"cm-tag cm-bracket\">&gt;<\/span>7V1bc6M4Fv41eewuY8CXx6S7p2erdqqmNjt7eeqibWKzjS0v4E4yv36O4BwsJOEkDrrQab8YhAAhfTo6d12FH3YPn4vksP2NrdP8ajpZP1yFH6+m0yAKI\/jjJY9NyXw2aQo2RbZuioSC2+zPFO+k0mO2Tkssa4oqxvIqO3QLV2y\/T1dVpywpCnbfrXbHcnwrFhySDb3xVHC7SnK19N\/Zuto2pYsYm8fLf02zzZbeHEzwytdk9W1TsOMe33c1De\/qX3N5l9CzsH65TdbsXigKP0G\/FozBk\/nR7uFDmvO+7XbbLz1X23YX6R7b9sQNM2xH9Ujfnq6hK\/CUFdWWbdg+yT+dSm\/q70v5EyZwtq12ORwGcJg+ZNV\/ePH7eYyn\/6VL+6p4bK7Vl\/gpv8afUFZJUV3zYYOCPdvzd9Rlv2TQ2KZOul9LNaBEuP6\/tKoeEUjJsWJQdGr83xk7YDvUDsI+K9mxWGEXwHkNuaTYpFQLEc17R7gPe\/VzynYpfBFUKNI8qbLvXSAliMdNW+80JnCAw9IzRBNszsBjJAwQjdfYx2iC9YYbpPpW+KiE30UVDizbV6Xw5N95AVRA+hfS7EbqF0yX3Uko1Y\/ic9XhoGnACS3tlzwTQAvzAOKAsYmRFqvtyakdF+MnwMKB8aMMuISPiFYPekLTKLzphIRX43AuLQZS\/eCV9aPuYvNq4OJofE\/yI\/b0H2VaKFguq4J9a9dp6Iyb+21WpbeHpB7re2BRughO8myzh+MV4AOedwYw39OiSulr9VDo6et5M4cn9yf2oWUStiLrII\/9ZUuEmVX8zCI+9X+FwBVbnOGDz+\/njhC2...<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 1,
+            "lines_more": 0,
+            "channels": [
+                "C1MGNL6R0"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U1PBBB3J7",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1PBBB3J7|jordan_orsini>",
+        "bot_id": null,
+        "ts": "1469042936.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "OK wtv",
+        "ts": "1469043583.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Trash it ",
+        "ts": "1469044001.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": ":ok_hand:",
+        "ts": "1469044417.000018"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "It's done?",
+        "ts": "1469044446.000019"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "what lab are u in <@U1PBBB3J7> ?",
+        "ts": "1469044604.000020"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "<@U1PBB7C4T>: it doesn't make sense to have uploads as a weak entity cause then the upload id will be always repeated in the deletes, recovers and rollsback table",
+        "ts": "1469044618.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "i'm going with your original design if you agree",
+        "ts": "1469044639.000022"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "You sure she didn't mean weak relationship?",
+        "ts": "1469044922.000023"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "yes sorry she said uploads needs to be a weak relationship",
+        "ts": "1469044958.000024"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "we have file_versions is a many-one relationship with student though so the student_id is already in the file versions table",
+        "ts": "1469044998.000025"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "if we change uploads to a weak entity like the t.a. said then anything involving file version (deletes, rollsback, recovers) will all have to include the id of the student that originally uploaded.",
+        "ts": "1469045063.000026"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "seems like redundant information but maybe i'm wrong and maybe the t.a. didn't notice that the student id would already be in the file version table since its many to one",
+        "ts": "1469045097.000027"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "what lab are u in <@U1PBBB3J7> ?",
+        "ts": "1469045292.000028"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Yeah it's redundant",
+        "ts": "1469045352.000029"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "<@U1PBB7C4T>: are u in a lab ?",
+        "ts": "1469045384.000030"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1PBBB3J7|jordan_orsini> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/jordan_orsini\/F1TJUK72A\/final_er_final.xml|FINAL ER FINAL.xml>",
+        "file": {
+            "id": "F1TJUK72A",
+            "created": 1469045524,
+            "timestamp": 1469045524,
+            "name": "FINAL ER FINAL.xml",
+            "title": "FINAL ER FINAL.xml",
+            "mimetype": "text\/plain",
+            "filetype": "xml",
+            "pretty_type": "XML",
+            "user": "U1PBBB3J7",
+            "editable": true,
+            "size": 4230,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1TJUK72A\/final_er_final.xml?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1TJUK72A\/download\/final_er_final.xml?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/jordan_orsini\/F1TJUK72A\/final_er_final.xml",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F1TJUK72A-afebaf410f",
+            "edit_link": "https:\/\/compdatabaseproject.slack.com\/files\/jordan_orsini\/F1TJUK72A\/final_er_final.xml\/edit",
+            "preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<mxfile userAgent=\"Mozilla\/5.0 (Windows NT 6.1; WOW64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/51.0.2704.103 Safari\/537.36\" version=\"5.5.3.3\" editor=\"www.draw.io\" type=\"device\"><diagram>7V1bc+I4Fv41eewujG0Ij0l3T89W7VRNbXb28tTlBge8bRBrm06yv36O7HOMLMkkAeviZHkBZGFk6dO5XnQVfto+fi2S\/eY3tkrzq+lk9XgVfr6aToMojOCNtzw1LdfXk6ZhXWSrpklouMv+l+IvqfWQrdIS25qmirG8yvbdxiXb7dJl1WlLioI9dLvdsxz\/FRv2yZr+8dhwt0xytfWf2ara4FPEODze\/muarTf0z8EEr3xPlj\/WBTvs8P+upuF9\/WoubxO6F\/YvN8mKPQhN4ReY14IxuDP\/tH38lOZ8brvT9kvP1XbcRbrDsT3zgxmOo3qiZ09XMBX4lRXVhq3ZLsm\/HFtv6+dL+R0m8G1TbXP4GMDH9DGr\/sWbP85j\/PpvurSriqfmWn2Jf+XX+B3KKimqG75s0LBjO\/4fddsvGQy26ZPuVlIPaBGu\/yetqicEUnKoGDQdB\/9XxvY4DnWCcM5KdiiWOAXwvYZcUqxT6oWI5rMj\/A5n9WvKtik8EXQo0jypsp9dICWIx3Xb77gm8AGXpWeJJjicgddIWCBar7Gv0QT7DbdI9U\/hoRL+K+qwZ9muKoU7\/84boAPSv5B2N1K\/YLrobkKpfxSf6g4fmgEc0dI+yQsBdG0eQBwwNjHSYrX9chzH2fgJsHFg\/CgLLuEjIu5Bd2gGhT86IuFiHM4lZiD1Dy7sH3WZzcXAxdX4meQHnOk\/yrRQsFxWBfvR8mmYjNuHTVald\/ukXusHEFG6CE7ybL2Dz0vAB9zvBGB+pkWV0tPqodAz1\/NmD08ejuJDK...",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-meta\">&lt;?xml<\/span> <span class=\"cm-meta\">version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;<\/span><\/pre><\/div>\n<div><pre><span class=\"cm-tag cm-bracket\">&lt;<\/span><span class=\"cm-tag\">mxfile<\/span> <span class=\"cm-attribute\">userAgent<\/span>=<span class=\"cm-string\">&quot;Mozilla\/5.0 (Windows NT 6.1; WOW64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/51.0.2704.103 Safari\/537.36&quot;<\/span> <span class=\"cm-attribute\">version<\/span>=<span class=\"cm-string\">&quot;5.5.3.3&quot;<\/span> <span class=\"cm-attribute\">editor<\/span>=<span class=\"cm-string\">&quot;www.draw.io&quot;<\/span> <span class=\"cm-attribute\">type<\/span>=<span class=\"cm-string\">&quot;device&quot;<\/span><span class=\"cm-tag cm-bracket\">&gt;<\/span><span class=\"cm-tag cm-bracket\">&lt;<\/span><span class=\"cm-tag\">diagram<\/span><span class=\"cm-tag cm-bracket\">&gt;<\/span>7V1bc+I4Fv41eewujG0Ij0l3T89W7VRNbXb28tTlBge8bRBrm06yv36O7HOMLMkkAeviZHkBZGFk6dO5XnQVfto+fi2S\/eY3tkrzq+lk9XgVfr6aToMojOCNtzw1LdfXk6ZhXWSrpklouMv+l+IvqfWQrdIS25qmirG8yvbdxiXb7dJl1WlLioI9dLvdsxz\/FRv2yZr+8dhwt0xytfWf2ara4FPEODze\/muarTf0z8EEr3xPlj\/WBTvs8P+upuF9\/WoubxO6F\/YvN8mKPQhN4ReY14IxuDP\/tH38lOZ8brvT9kvP1XbcRbrDsT3zgxmOo3qiZ09XMBX4lRXVhq3ZLsm\/HFtv6+dL+R0m8G1TbXP4GMDH9DGr\/sWbP85j\/PpvurSriqfmWn2Jf+XX+B3KKimqG75s0LBjO\/4fddsvGQy26ZPuVlIPaBGu\/yetqicEUnKoGDQdB\/9XxvY4DnWCcM5KdiiWOAXwvYZcUqxT6oWI5rMj\/A5n9WvKtik8EXQo0jypsp9dICWIx3Xb77gm8AGXpWeJJjicgddIWCBar7Gv0QT7DbdI9U\/hoRL+K+qwZ9muKoU7\/84boAPSv5B2N1K\/YLrobkKpfxSf6g4fmgEc0dI+yQsBdG0eQBwwNjHSYrX9chzH2fgJsHFg\/CgLLuEjIu5Bd2gGhT86IuFiHM4lZiD1Dy7sH3WZzcXAxdX4meQHnOk\/yrRQsFxWBfvR8mmYjNuHTVald\/ukXusHEFG6CE7ybL2Dz0vAB9zvBGB+pkWV0tPqodAz1\/NmD08ejuJDK...<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 2,
+            "lines_more": 0,
+            "channels": [
+                "C1MGNL6R0"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U1PBBB3J7",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1PBBB3J7|jordan_orsini>",
+        "bot_id": null,
+        "ts": "1469045525.000031"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1PBBB3J7|jordan_orsini> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/jordan_orsini\/F1TK2UV9T\/relational_database_schema.docx|relational database schema.docx>",
+        "file": {
+            "id": "F1TK2UV9T",
+            "created": 1469045532,
+            "timestamp": 1469045532,
+            "name": "relational database schema.docx",
+            "title": "relational database schema.docx",
+            "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "filetype": "docx",
+            "pretty_type": "Word Document",
+            "user": "U1PBBB3J7",
+            "editable": false,
+            "size": 12249,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1TK2UV9T\/relational_database_schema.docx?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1TK2UV9T\/download\/relational_database_schema.docx?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/jordan_orsini\/F1TK2UV9T\/relational_database_schema.docx",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F1TK2UV9T-aca69f18ec",
+            "channels": [
+                "C1MGNL6R0"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U1PBBB3J7",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1PBBB3J7|jordan_orsini>",
+        "bot_id": null,
+        "ts": "1469045532.000032"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "starting tables now",
+        "ts": "1469045549.000033"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Im working on a thing for another class with my team",
+        "ts": "1469045609.000034"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "mysql&gt; create table System_details(start_date date  not null, end_date date not null, max_data decimal (4,2) not null , admin_id                                                                                                      int, primary key (admin_id), foreign key (admin_id) references User (user_id)on delete cascade on update cascade) engine = innodb ;",
+        "ts": "1469049044.000035"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "create table Assignment(assignment_id int auto_increment, assignment_type varchar(20) not null, Primary Key (assignment_id));",
+        "ts": "1469049827.000036"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "are we meeting? we are in 831",
+        "ts": "1469050627.000037"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "I'll be there in 5",
+        "ts": "1469050654.000038"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Same",
+        "ts": "1469050673.000039"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "So you guys are making the tables?",
+        "ts": "1469051125.000040"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "yup",
+        "ts": "1469051560.000041"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "create table Deletes(\n     delete_id int auto_increment,\n    version_number int not null ,\n     file_id int not null,\n     delete_date date not null,\n     primary key(delete_id,version_number,file_id),\n     foreign key(version_number)references File_version (version_number)on delete cascade on update cascade,\n     foreign key(file_id) references File (file_id) on delete cascade on update cascade,\n     foreign key(delete_id) references User (user_id) on delete cascade on update cascade) engine=innodb;\n\n\n\n\n\n create table Archives(\n       admin_id int not null ,\n       file_id int not null, \n       primary key(admin_id ,file_id),\n      foreign key(admin_id) references User(user_id) on delete cascade on update cascade,\n       foreign key(file_id) references File (file_id) on delete cascade on update cascade) engine=innodb;",
+        "ts": "1469051703.000042"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1PBBB3J7|jordan_orsini> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/jordan_orsini\/F1TLH8ZM0\/table_sql.txt|table sql.txt> and commented: sql code to generate all tables in the database",
+        "file": {
+            "id": "F1TLH8ZM0",
+            "created": 1469052055,
+            "timestamp": 1469052055,
+            "name": "table sql.txt",
+            "title": "table sql.txt",
+            "mimetype": "text\/plain",
+            "filetype": "text",
+            "pretty_type": "Plain Text",
+            "user": "U1PBBB3J7",
+            "editable": true,
+            "size": 4499,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1TLH8ZM0\/table_sql.txt?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1TLH8ZM0\/download\/table_sql.txt?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/jordan_orsini\/F1TLH8ZM0\/table_sql.txt",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F1TLH8ZM0-58412f5a38",
+            "edit_link": "https:\/\/compdatabaseproject.slack.com\/files\/jordan_orsini\/F1TLH8ZM0\/table_sql.txt\/edit",
+            "preview": "create table Groups(\r\n    group_id int auto_increment,\r\n    data_taken decimal(4,2) not null,\r\n    leader_id int not null,\r\n    primary key(group_id))engine=innodb;\r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>create table Groups(<\/pre><\/div>\n<div><pre>    group_id int auto_increment,<\/pre><\/div>\n<div><pre>    data_taken decimal(4,2) not null,<\/pre><\/div>\n<div><pre>    leader_id int not null,<\/pre><\/div>\n<div><pre>    primary key(group_id))engine=innodb;<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 121,
+            "lines_more": 116,
+            "channels": [
+                "C1MGNL6R0"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc1TL6K0KZ",
+                "created": 1469052055,
+                "timestamp": 1469052055,
+                "user": "U1PBBB3J7",
+                "is_intro": true,
+                "comment": "sql code to generate all tables in the database",
+                "channel": ""
+            }
+        },
+        "user": "U1PBBB3J7",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1PBBB3J7|jordan_orsini>",
+        "bot_id": null,
+        "ts": "1469052056.000043"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1PBBB3J7|jordan_orsini> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/jordan_orsini\/F1TJYHQ03\/final_final_er_final.xml|FINAL FINAL ER FINAL.xml>",
+        "file": {
+            "id": "F1TJYHQ03",
+            "created": 1469054920,
+            "timestamp": 1469054920,
+            "name": "FINAL FINAL ER FINAL.xml",
+            "title": "FINAL FINAL ER FINAL.xml",
+            "mimetype": "text\/plain",
+            "filetype": "xml",
+            "pretty_type": "XML",
+            "user": "U1PBBB3J7",
+            "editable": true,
+            "size": 4367,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1TJYHQ03\/final_final_er_final.xml?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1TJYHQ03\/download\/final_final_er_final.xml?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/jordan_orsini\/F1TJYHQ03\/final_final_er_final.xml",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F1TJYHQ03-2d779b19d2",
+            "edit_link": "https:\/\/compdatabaseproject.slack.com\/files\/jordan_orsini\/F1TJYHQ03\/final_final_er_final.xml\/edit",
+            "preview": "<mxfile userAgent=\"Mozilla\/5.0 (Windows NT 6.1; WOW64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/51.0.2704.103 Safari\/537.36\" version=\"5.5.3.3\" editor=\"www.draw.io\" type=\"device\"><diagram>7V1bc6M49v80eewuY8CXx6S7p2er\/lM1tdnZy1OKtonNNjZewJ3k\/+nnCM7BQhLEsdGFzvjFtpCxkH4614tu\/E+75695dNj+lq3j9GY6WT\/f+J9vplMv8AN4Yy0vdct8NqkbNnmyrpu4hvvk\/2P8JbUek3VcYFvdVGZZWiaHduMq2+\/jVdlqi\/I8e2p3e8xS\/FdsOEQb+sdTw\/0qSuXWfyXrclu3LkIcHmv\/NU42W\/pnb4JXvkWr75s8O+7x\/26m\/mP1qi\/vIroX9i+20Tp74pr8LzCveZbBndmn3fOnOGVz2562XzquNuPO4z2O7ZUfzHAc5Qs9e7yGqcCvWV5us022j9Ivp9a76vlidocJfNuWuxQ+evAxfk7Kf7Pmj\/MQv\/6HLu3L\/KW+Vl1iX9k1doeijPLyli0bNOyzPfuPqu2XBAZb94n3a6EHtHDX\/xuX5QsCKTqWGTSdBv9\/WXbAccgThHNWZMd8hVMA3yvIRfkmpl6IaDY73O9wVr\/G2S6GJ4IOeZxGZfKjDaQI8bhp+p3WBD7gsnQs0QSHM\/AacQtE6zX2NZpgv+EWqfopPFTEfkUdDlmyLwvuzr+zBuiA9M+n3Y3Uz5su25tQ6B+Efd3hQz2AE1qaJzkTQAv9AGKAMYmRBqvNl9M4LsaPh40D40dacAEfAXEPukM9KPzRCQlX43AuMAOhvzedX9U\/aDObq4GLq\/EjSo84038UcS5huSjz7HvDp2Ey7p62SRnfH6JqrZ9ARGkjOEqTzR4+rwAfcL8ewPyI8zKmp1VDoWOu5\/UenjydxIdGSNjyooO49pexCD1cvIeJT93nEMix+R0+...",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-tag cm-bracket\">&lt;<\/span><span class=\"cm-tag\">mxfile<\/span> <span class=\"cm-attribute\">userAgent<\/span>=<span class=\"cm-string\">&quot;Mozilla\/5.0 (Windows NT 6.1; WOW64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/51.0.2704.103 Safari\/537.36&quot;<\/span> <span class=\"cm-attribute\">version<\/span>=<span class=\"cm-string\">&quot;5.5.3.3&quot;<\/span> <span class=\"cm-attribute\">editor<\/span>=<span class=\"cm-string\">&quot;www.draw.io&quot;<\/span> <span class=\"cm-attribute\">type<\/span>=<span class=\"cm-string\">&quot;device&quot;<\/span><span class=\"cm-tag cm-bracket\">&gt;<\/span><span class=\"cm-tag cm-bracket\">&lt;<\/span><span class=\"cm-tag\">diagram<\/span><span class=\"cm-tag cm-bracket\">&gt;<\/span>7V1bc6M49v80eewuY8CXx6S7p2er\/lM1tdnZy1OKtonNNjZewJ3k\/+nnCM7BQhLEsdGFzvjFtpCxkH4614tu\/E+75695dNj+lq3j9GY6WT\/f+J9vplMv8AN4Yy0vdct8NqkbNnmyrpu4hvvk\/2P8JbUek3VcYFvdVGZZWiaHduMq2+\/jVdlqi\/I8e2p3e8xS\/FdsOEQb+sdTw\/0qSuXWfyXrclu3LkIcHmv\/NU42W\/pnb4JXvkWr75s8O+7x\/26m\/mP1qi\/vIroX9i+20Tp74pr8LzCveZbBndmn3fOnOGVz2562XzquNuPO4z2O7ZUfzHAc5Qs9e7yGqcCvWV5us022j9Ivp9a76vlidocJfNuWuxQ+evAxfk7Kf7Pmj\/MQv\/6HLu3L\/KW+Vl1iX9k1doeijPLyli0bNOyzPfuPqu2XBAZb94n3a6EHtHDX\/xuX5QsCKTqWGTSdBv9\/WXbAccgThHNWZMd8hVMA3yvIRfkmpl6IaDY73O9wVr\/G2S6GJ4IOeZxGZfKjDaQI8bhp+p3WBD7gsnQs0QSHM\/AacQtE6zX2NZpgv+EWqfopPFTEfkUdDlmyLwvuzr+zBuiA9M+n3Y3Uz5su25tQ6B+Efd3hQz2AE1qaJzkTQAv9AGKAMYmRBqvNl9M4LsaPh40D40dacAEfAXEPukM9KPzRCQlX43AuMAOhvzedX9U\/aDObq4GLq\/EjSo84038UcS5huSjz7HvDp2Ey7p62SRnfH6JqrZ9ARGkjOEqTzR4+rwAfcL8ewPyI8zKmp1VDoWOu5\/UenjydxIdGSNjyooO49pexCD1cvIeJT93nEMix+R0+...<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 1,
+            "lines_more": 0,
+            "channels": [
+                "C1MGNL6R0"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U1PBBB3J7",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1PBBB3J7|jordan_orsini>",
+        "bot_id": null,
+        "ts": "1469054921.000044"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1PBBB3J7|jordan_orsini> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/jordan_orsini\/F1TLP5ED6\/slack_for_ios_upload.jpg|Slack for iOS Upload>",
+        "file": {
+            "id": "F1TLP5ED6",
+            "created": 1469057626,
+            "timestamp": 1469057626,
+            "name": "Slack for iOS Upload.jpg",
+            "title": "Slack for iOS Upload",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U1PBBB3J7",
+            "editable": false,
+            "size": 1693957,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1TLP5ED6\/slack_for_ios_upload.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1TLP5ED6\/download\/slack_for_ios_upload.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1TLP5ED6-3f5b2d3840\/slack_for_ios_upload_64.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1TLP5ED6-3f5b2d3840\/slack_for_ios_upload_80.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1TLP5ED6-3f5b2d3840\/slack_for_ios_upload_360.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_360_w": 270,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1TLP5ED6-3f5b2d3840\/slack_for_ios_upload_480.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_480_w": 360,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1TLP5ED6-3f5b2d3840\/slack_for_ios_upload_160.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1TLP5ED6-3f5b2d3840\/slack_for_ios_upload_720.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_720_w": 540,
+            "thumb_720_h": 720,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1TLP5ED6-3f5b2d3840\/slack_for_ios_upload_960.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_960_w": 720,
+            "thumb_960_h": 960,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1TLP5ED6-3f5b2d3840\/slack_for_ios_upload_1024.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_1024_w": 768,
+            "thumb_1024_h": 1024,
+            "image_exif_rotation": 1,
+            "original_w": 3264,
+            "original_h": 2448,
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/jordan_orsini\/F1TLP5ED6\/slack_for_ios_upload.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F1TLP5ED6-140d022ff0",
+            "channels": [
+                "C1MGNL6R0"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U1PBBB3J7",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1PBBB3J7|jordan_orsini>",
+        "bot_id": null,
+        "ts": "1469057631.000045"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1PBBB3J7|jordan_orsini> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/jordan_orsini\/F1TLLQ1DL\/slack_for_ios_upload.jpg|Slack for iOS Upload>",
+        "file": {
+            "id": "F1TLLQ1DL",
+            "created": 1469057635,
+            "timestamp": 1469057635,
+            "name": "Slack for iOS Upload.jpg",
+            "title": "Slack for iOS Upload",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U1PBBB3J7",
+            "editable": false,
+            "size": 1000111,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1TLLQ1DL\/slack_for_ios_upload.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1TLLQ1DL\/download\/slack_for_ios_upload.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1TLLQ1DL-ebbcf973e4\/slack_for_ios_upload_64.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1TLLQ1DL-ebbcf973e4\/slack_for_ios_upload_80.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1TLLQ1DL-ebbcf973e4\/slack_for_ios_upload_360.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_360_w": 270,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1TLLQ1DL-ebbcf973e4\/slack_for_ios_upload_480.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_480_w": 360,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1TLLQ1DL-ebbcf973e4\/slack_for_ios_upload_160.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1TLLQ1DL-ebbcf973e4\/slack_for_ios_upload_720.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_720_w": 540,
+            "thumb_720_h": 720,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1TLLQ1DL-ebbcf973e4\/slack_for_ios_upload_960.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_960_w": 720,
+            "thumb_960_h": 960,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1TLLQ1DL-ebbcf973e4\/slack_for_ios_upload_1024.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_1024_w": 768,
+            "thumb_1024_h": 1024,
+            "image_exif_rotation": 1,
+            "original_w": 3264,
+            "original_h": 2448,
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/jordan_orsini\/F1TLLQ1DL\/slack_for_ios_upload.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F1TLLQ1DL-8eae37a174",
+            "channels": [
+                "C1MGNL6R0"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U1PBBB3J7",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1PBBB3J7|jordan_orsini>",
+        "bot_id": null,
+        "ts": "1469057640.000046"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1MGW16JZ|ti_liu> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F1QPG254G\/assumptions_warmupcomp353.pdf|Assumptions_WarmupCOMP353.pdf>",
+        "file": {
+            "id": "F1QPG254G",
+            "created": 1468279855,
+            "timestamp": 1468279855,
+            "name": "Assumptions_WarmupCOMP353.pdf",
+            "title": "Assumptions_WarmupCOMP353.pdf",
+            "mimetype": "application\/pdf",
+            "filetype": "pdf",
+            "pretty_type": "PDF",
+            "user": "U1MGW16JZ",
+            "editable": false,
+            "size": 107856,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1QPG254G\/assumptions_warmupcomp353.pdf?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1QPG254G\/download\/assumptions_warmupcomp353.pdf?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F1QPG254G\/assumptions_warmupcomp353.pdf",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F1QPG254G-217dbd0a07",
+            "channels": [
+                "C1MGL6NJY"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U1MGW16JZ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1MGW16JZ|ti_liu>",
+        "bot_id": null,
+        "ts": "1468279855.000002"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1MGW16JZ|ti_liu> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F1QPAS1JQ\/assumptions_warmupcomp353.docx|Assumptions_WarmupCOMP353.docx>",
+        "file": {
+            "id": "F1QPAS1JQ",
+            "created": 1468279962,
+            "timestamp": 1468279962,
+            "name": "Assumptions_WarmupCOMP353.docx",
+            "title": "Assumptions_WarmupCOMP353.docx",
+            "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "filetype": "docx",
+            "pretty_type": "Word Document",
+            "user": "U1MGW16JZ",
+            "editable": false,
+            "size": 14154,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1QPAS1JQ\/assumptions_warmupcomp353.docx?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1QPAS1JQ\/download\/assumptions_warmupcomp353.docx?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F1QPAS1JQ\/assumptions_warmupcomp353.docx",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F1QPAS1JQ-9eb91bae70",
+            "channels": [
+                "C1MGL6NJY"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U1MGW16JZ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1MGW16JZ|ti_liu>",
+        "bot_id": null,
+        "ts": "1468279962.000003"
+    }
+]

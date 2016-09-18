@@ -1,0 +1,464 @@
+[
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "found a bug or maybe not but if you delete the most current version of a file. everyone is still able to download this version. should it be this way or should the most current version be switched to another one?",
+        "ts": "1470648712.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Makes sense to switch to another one I think ",
+        "ts": "1470649067.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Or",
+        "ts": "1470649176.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Maybe we make a restriction , such that they can't delete he current version ",
+        "ts": "1470649180.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "So we hide the delete button if it's current version ",
+        "ts": "1470649273.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "also there is still a popup whenever i upload something",
+        "ts": "1470650905.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "added a condition so that we cannot see the delete button if the version is current and also we cannot see the rollback version if the version is deleted",
+        "ts": "1470652222.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "also added the blue highlight to indicate the current version like hussain did to indicate the group leader",
+        "ts": "1470652573.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "and commented out the upload popup",
+        "ts": "1470653015.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Going to be there a bit after 10",
+        "ts": "1470663052.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "10:03 according to google ",
+        "ts": "1470663086.000012"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1MGW6FUM|hussainq> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/hussainq\/F1Z8YNY0P\/slack_for_ios_upload.jpg|Slack for iOS Upload>",
+        "file": {
+            "id": "F1Z8YNY0P",
+            "created": 1470670594,
+            "timestamp": 1470670594,
+            "name": "Slack for iOS Upload.jpg",
+            "title": "Slack for iOS Upload",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U1MGW6FUM",
+            "editable": false,
+            "size": 1416553,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1Z8YNY0P\/slack_for_ios_upload.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1Z8YNY0P\/download\/slack_for_ios_upload.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1Z8YNY0P-f5a871c376\/slack_for_ios_upload_64.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1Z8YNY0P-f5a871c376\/slack_for_ios_upload_80.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1Z8YNY0P-f5a871c376\/slack_for_ios_upload_360.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_360_w": 270,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1Z8YNY0P-f5a871c376\/slack_for_ios_upload_480.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_480_w": 360,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1Z8YNY0P-f5a871c376\/slack_for_ios_upload_160.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1Z8YNY0P-f5a871c376\/slack_for_ios_upload_720.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_720_w": 540,
+            "thumb_720_h": 720,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1Z8YNY0P-f5a871c376\/slack_for_ios_upload_960.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_960_w": 720,
+            "thumb_960_h": 960,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1Z8YNY0P-f5a871c376\/slack_for_ios_upload_1024.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_1024_w": 768,
+            "thumb_1024_h": 1024,
+            "image_exif_rotation": 1,
+            "original_w": 3264,
+            "original_h": 2448,
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/hussainq\/F1Z8YNY0P\/slack_for_ios_upload.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F1Z8YNY0P-94b7c447b2",
+            "channels": [
+                "C1MGNL6R0"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U1MGW6FUM",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1MGW6FUM|hussainq>",
+        "bot_id": null,
+        "ts": "1470670601.000013"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1MGW16JZ|ti_liu> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F1ZB6UWN4\/assignment_4_comp353.docx|Assignment 4_COMP353.docx>",
+        "file": {
+            "id": "F1ZB6UWN4",
+            "created": 1470682756,
+            "timestamp": 1470682756,
+            "name": "Assignment 4_COMP353.docx",
+            "title": "Assignment 4_COMP353.docx",
+            "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "filetype": "docx",
+            "pretty_type": "Word Document",
+            "user": "U1MGW16JZ",
+            "editable": false,
+            "size": 15439,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1ZB6UWN4\/assignment_4_comp353.docx?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1ZB6UWN4\/download\/assignment_4_comp353.docx?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F1ZB6UWN4\/assignment_4_comp353.docx",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F1ZB6UWN4-c2bc1221fd",
+            "channels": [
+                "C1MGNL6R0"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U1MGW16JZ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1MGW16JZ|ti_liu>",
+        "bot_id": null,
+        "ts": "1470682757.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "I finished studying and double checked for A4",
+        "ts": "1470682767.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "It's ready to be submitted, but feel free to correct me",
+        "ts": "1470682829.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Thanks",
+        "ts": "1470683293.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Some hints to the answers are from the last chapter slides",
+        "ts": "1470683354.000018"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Np",
+        "ts": "1470683358.000019"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1MGW16JZ|ti_liu> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F1ZBK6HPA\/assignment_4_comp353.docx|Assignment 4_COMP353.docx>",
+        "file": {
+            "id": "F1ZBK6HPA",
+            "created": 1470684616,
+            "timestamp": 1470684616,
+            "name": "Assignment 4_COMP353.docx",
+            "title": "Assignment 4_COMP353.docx",
+            "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "filetype": "docx",
+            "pretty_type": "Word Document",
+            "user": "U1MGW16JZ",
+            "editable": false,
+            "size": 15522,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1ZBK6HPA\/assignment_4_comp353.docx?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1ZBK6HPA\/download\/assignment_4_comp353.docx?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F1ZBK6HPA\/assignment_4_comp353.docx",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F1ZBK6HPA-e0b955135b",
+            "channels": [
+                "C1MGNL6R0"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U1MGW16JZ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1MGW16JZ|ti_liu>",
+        "bot_id": null,
+        "ts": "1470684616.000020"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "small change in 1) e)",
+        "ts": "1470684633.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Well fuck",
+        "ts": "1470690193.000022"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Fuck ^ 2",
+        "ts": "1470691073.000023"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Lol",
+        "ts": "1470691274.000024"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "11\/18 but it ended up 12\/18",
+        "ts": "1470691301.000025"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Haha ",
+        "ts": "1470691322.000026"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "8\/18",
+        "ts": "1470691333.000027"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Probably should have got 9",
+        "ts": "1470691343.000028"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "It exited the program, and when it when the back the answers where all mixed up ",
+        "ts": "1470691357.000029"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "We were forced to submit a question once we have 5 banked questions..",
+        "ts": "1470691358.000030"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Except I chose the same bubble ",
+        "ts": "1470691372.000031"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Let's hope we get 90 on the project ",
+        "ts": "1470691456.000032"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "I uploaded the assignment in general ",
+        "ts": "1470691488.000033"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "I'll submit in 10",
+        "ts": "1470691577.000034"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Double check the last uploaded one ",
+        "ts": "1470691693.000035"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Funny how the course manager server is not working atm due to heavy \"demand\"",
+        "ts": "1470691844.000036"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "7\/18 :(",
+        "ts": "1470692039.000037"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "but it turned to 8\/20",
+        "ts": "1470692053.000038"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "I clicked on 3 questions in the last minute",
+        "ts": "1470692069.000039"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Randomly",
+        "ts": "1470692071.000040"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "I think everyone was surprised so its fine..",
+        "ts": "1470692107.000041"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Yeah I got 9\/20",
+        "ts": "1470697078.000042"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Server is still down",
+        "ts": "1470700937.000043"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "werent able to upload?",
+        "ts": "1470701280.000044"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Not sure if its just me, but i cant even login",
+        "ts": "1470701302.000045"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "I already submitted ",
+        "ts": "1470701318.000046"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "awesome",
+        "ts": "1470701330.000047"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Thanks",
+        "ts": "1470702753.000048"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "course manager is working now. class average for quiz 4 was 8.4\/20...",
+        "ts": "1470711297.000049"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Omg",
+        "ts": "1470711498.000050"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Woohoo I'm above average!",
+        "ts": "1470712444.000051"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Also banking questions was useless it just put them back in at the end of the quiz",
+        "ts": "1470712558.000052"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "So like I still didn't know the answer lol",
+        "ts": "1470712569.000053"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "<@U1MGNL4KU> good luck tomorrow I'm not even going to bother showing up",
+        "ts": "1470712706.000054"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Lmao",
+        "ts": "1470712722.000055"
+    }
+]

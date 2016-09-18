@@ -1,0 +1,141 @@
+[
+    {
+        "user": "U1MGNL4KU",
+        "text": "<@U1MGNL4KU|demo> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469052215.000002"
+    },
+    {
+        "user": "U1PBBB3J7",
+        "inviter": "U1MGNL4KU",
+        "text": "<@U1PBBB3J7|jordan_orsini> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469052215.000003"
+    },
+    {
+        "user": "U1MGW6FUM",
+        "inviter": "U1MGNL4KU",
+        "text": "<@U1MGW6FUM|hussainq> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469052215.000004"
+    },
+    {
+        "user": "U1PBB7C4T",
+        "inviter": "U1MGNL4KU",
+        "text": "<@U1PBB7C4T|shayne> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469052215.000005"
+    },
+    {
+        "user": "U1MGW16JZ",
+        "inviter": "U1MGNL4KU",
+        "text": "<@U1MGW16JZ|ti_liu> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469052216.000006"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1MGNL4KU|demo> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/demo\/F1TLEEUEL\/assignment2.txt|Assignment2.txt>",
+        "file": {
+            "id": "F1TLEEUEL",
+            "created": 1469055292,
+            "timestamp": 1469055292,
+            "name": "Assignment2.txt",
+            "title": "Assignment2.txt",
+            "mimetype": "text\/plain",
+            "filetype": "text",
+            "pretty_type": "Plain Text",
+            "user": "U1MGNL4KU",
+            "editable": true,
+            "size": 3723,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1TLEEUEL\/assignment2.txt?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1TLEEUEL\/download\/assignment2.txt?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/demo\/F1TLEEUEL\/assignment2.txt",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F1TLEEUEL-c70a84c03e",
+            "edit_link": "https:\/\/compdatabaseproject.slack.com\/files\/demo\/F1TLEEUEL\/assignment2.txt\/edit",
+            "preview": "1. a. {A->B, C->AB} -> {C->B}\r\n\r\nA->B becomes AB->BB through augmentation.\r\nThis means AB->B through the decomposition rule.\r\nAB->B becomes C->B through pseudo-transitivity rule.\r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>1. a. {A-&gt;B, C-&gt;AB} -&gt; {C-&gt;B}<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<div><pre>A-&gt;B becomes AB-&gt;BB through augmentation.<\/pre><\/div>\n<div><pre>This means AB-&gt;B through the decomposition rule.<\/pre><\/div>\n<div><pre>AB-&gt;B becomes C-&gt;B through pseudo-transitivity rule.<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 129,
+            "lines_more": 124,
+            "channels": [
+                "C1TL1EPGQ"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U1MGNL4KU",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1MGNL4KU|demo>",
+        "bot_id": null,
+        "ts": "1469055293.000007"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1MGNL4KU|demo> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/demo\/F1TK8TTAP\/table_sql.txt|table sql.txt>",
+        "file": {
+            "id": "F1TK8TTAP",
+            "created": 1469057696,
+            "timestamp": 1469057696,
+            "name": "table sql.txt",
+            "title": "table sql.txt",
+            "mimetype": "text\/plain",
+            "filetype": "text",
+            "pretty_type": "Plain Text",
+            "user": "U1MGNL4KU",
+            "editable": true,
+            "size": 4284,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1TK8TTAP\/table_sql.txt?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1TK8TTAP\/download\/table_sql.txt?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/demo\/F1TK8TTAP\/table_sql.txt",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F1TK8TTAP-d918fc74a8",
+            "edit_link": "https:\/\/compdatabaseproject.slack.com\/files\/demo\/F1TK8TTAP\/table_sql.txt\/edit",
+            "preview": "create table Groups(\r\n    group_id int not null auto_increment,\r\n    data_taken decimal(4,2) not null,\r\n    primary key(group_id))engine=innodb;\r\n\r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>create table Groups(<\/pre><\/div>\n<div><pre>    group_id int not null auto_increment,<\/pre><\/div>\n<div><pre>    data_taken decimal(4,2) not null,<\/pre><\/div>\n<div><pre>    primary key(group_id))engine=innodb;<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<div><pre><\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 117,
+            "lines_more": 112,
+            "channels": [
+                "C1TL1EPGQ"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U1MGNL4KU",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1MGNL4KU|demo>",
+        "bot_id": null,
+        "ts": "1469057696.000008"
+    }
+]

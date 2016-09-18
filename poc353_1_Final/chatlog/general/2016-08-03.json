@@ -1,0 +1,306 @@
+[
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "i have removed Archive and Deleting the member only from the group not from the db",
+        "ts": "1470228767.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "according to the t.a. only project demos are on the 8th. she will give us feedback during the demo on what to change or add. then the changes, final source code and documentation is actually due one week later on the 15th",
+        "ts": "1470246011.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "really?",
+        "edited": {
+            "user": "U1PBB7C4T",
+            "ts": "1470246051.000000"
+        },
+        "ts": "1470246030.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "even though on the crs manager is says submission for the 8th she explicitly said that is incorrect",
+        "ts": "1470246059.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "ok",
+        "ts": "1470246071.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "according to the teacher quiz 4 will be an online quiz of 100% multiple choice and will last one hour and cover all material of the course (take that with a grain of salt though because he also said quiz 2 would be online)",
+        "ts": "1470251280.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "alright",
+        "ts": "1470251550.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i'll be there around 4:30",
+        "ts": "1470251558.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "probably gonna stay until like 8:30 ish",
+        "ts": "1470251568.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "I'm in 8:35",
+        "ts": "1470258068.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "H835*",
+        "ts": "1470258152.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "ill meet up with you soon",
+        "ts": "1470258406.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "I've got to meet with another group first ",
+        "ts": "1470258459.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "So are we gonna stick to this database.php file that's been added or are we gonna keep using config.php which we added day 1?",
+        "ts": "1470258887.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Really need to stop adding redundant files",
+        "ts": "1470258899.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Coming around 6ish as well",
+        "ts": "1470259771.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Also",
+        "ts": "1470260365.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Add group",
+        "ts": "1470260369.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "We don't really need it to pop up a new form and ask to enter the group number",
+        "ts": "1470260394.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Like isn't that just supposed to be an auto incrementing field?",
+        "ts": "1470260410.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Should just insert a new one with the next ID or at most just be like are you sure?",
+        "ts": "1470260439.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "It should just auto increment ",
+        "ts": "1470261175.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Shouldn't have to enter group 6 or whatever ",
+        "ts": "1470261182.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "I'm pretty sure it's set on auto increment too ",
+        "ts": "1470261277.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "I'm pretty sure it's set on auto increment too ",
+        "ts": "1470261277.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Never select the data column in putty...",
+        "ts": "1470264740.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "<@U1MGW6FUM> were doing the course page",
+        "ts": "1470266582.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Okay, has anyone done anything in regard to the teacher panel?",
+        "ts": "1470270269.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "We copied the teacher panel to the course page and have modified it",
+        "ts": "1470270315.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Ok, what should I work on ?",
+        "ts": "1470270412.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "So on the course page the group edit",
+        "ts": "1470270484.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Like does it remove the link to the user and not delete?",
+        "ts": "1470270508.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Also maybe be able to change a user's group\/make them the group leader",
+        "ts": "1470270528.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "I did that part in the panel , delete doesn't remove the user permanently ",
+        "ts": "1470272018.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "It removes them from the group only",
+        "ts": "1470272035.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Assignmentadd is done",
+        "ts": "1470272231.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "It seems the assignments are only addrd to the rexently added group",
+        "ts": "1470272454.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Kk now assignment is added to all groups now",
+        "ts": "1470272749.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "And when a new group is added, the group duplicates all the assignments and projects from the previous group",
+        "ts": "1470272801.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Ill be around tmrw or friday",
+        "ts": "1470272828.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "What do you mean duplicates",
+        "ts": "1470275709.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "And OK we should rename the delete button to like remove then or something",
+        "ts": "1470275737.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Still should fix the update to just be a group change",
+        "ts": "1470275786.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "And add like make leader",
+        "ts": "1470275795.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Also need to make the admin archive",
+        "ts": "1470275839.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "And also maybe put create\/edit user buttons on the course page for the admin onpy",
+        "ts": "1470275868.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Only*",
+        "ts": "1470275871.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Also system details?",
+        "ts": "1470275879.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Are u going to school tmrw or friday?",
+        "ts": "1470280796.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "ill be going in friday",
+        "ts": "1470280986.000003"
+    }
+]

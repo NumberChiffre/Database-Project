@@ -1,0 +1,158 @@
+[
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "are we still meeting tomorrow? if so at what time? thanks",
+        "ts": "1467928867.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "I have matters at school in the morning, should be free starting from the afternoon",
+        "ts": "1467929642.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "I'm not free in the afternoon, what time are we meeting?",
+        "ts": "1467939675.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "I'm going to be there around 8 am for another thing ",
+        "ts": "1467939715.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Should be free around 11-12",
+        "ts": "1467939721.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Im definitely free starting in the afternoon, i have to be at school in the morning for smth else",
+        "ts": "1467939782.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "what are we meeting about exactly? it takes me 1h30min travel time to get to concordia i dont want to meet for something that can be done in like 30 minutes if you know what i mean",
+        "ts": "1467939825.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Yeah ",
+        "ts": "1467939855.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Ok ",
+        "ts": "1467939858.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Yeah it takes me around an hour",
+        "ts": "1467939872.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Well I think we're just meeting up to finish up the warmup project ",
+        "ts": "1467939875.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "If the diagram is finished then Terrence and I can do the sql part ",
+        "ts": "1467939908.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Is the diagram the thing we finished off Wednesday?",
+        "ts": "1467939990.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Is it done?",
+        "ts": "1467939994.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Yeah that things",
+        "ts": "1467940098.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "I guess so, I mean I can't think of anything we might be missing ",
+        "ts": "1467940111.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Hmm alright",
+        "ts": "1467940322.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "I mean if you're up to it",
+        "ts": "1467940463.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Hello guyz, the diagram looks very informative and it kinda including everything ",
+        "ts": "1467941268.000018"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "For the assignment actually i found the solutions and we just need to change some stuff",
+        "ts": "1467941331.000019"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Well lets try to figure that out ourselves before we start using answers",
+        "ts": "1467941526.000020"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Otherwise what's the point",
+        "ts": "1467941533.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Yes , its just a reference we could use to compare ",
+        "ts": "1467941568.000022"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "I'm going to try doing the assignment tomorrow anyway",
+        "ts": "1467942057.000023"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Will you guyz be meeting on Saturday or Sunday?",
+        "ts": "1467943329.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "friday",
+        "ts": "1467944341.000002"
+    }
+]

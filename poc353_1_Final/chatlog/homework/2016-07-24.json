@@ -1,0 +1,278 @@
+[
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Cool, I'll look in a few",
+        "ts": "1469366224.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "I'll look at it In a bit as well ",
+        "ts": "1469387184.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Then I'll submit it ",
+        "ts": "1469387186.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "i modified my answers \n2)ii\n1) No, because it\u2019s lossy, when joining the relations BC AND AD we obtain more information than the original.\n2) No, because we lost the FD: AB\u2192C. So it\u2019s not dependency preserving, and we need to add a new relation R( A,B,C).\n3) No, because we lost the FD: C\u2192AD. So it\u2019s not dependency preserving.\n4) No, because we lost the FD: B\u2192C. So it\u2019s lossless but not dependency preserving.\n5) No, because we lost the FD: B\u2192C. So it\u2019s lossless but not dependency preserving.",
+        "ts": "1469393458.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i looked at your first one looks fine",
+        "ts": "1469393719.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "dont forget to combine our stuff before submitting lol",
+        "ts": "1469393730.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "tho i didnt do the questions myself so idk",
+        "ts": "1469393749.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "i think my recent modifications are better.",
+        "ts": "1469393985.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "alright",
+        "ts": "1469393996.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "and you guyz check if there's something wrong",
+        "ts": "1469394010.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Btw she deducted 10% from wha warmup project as indicated in the course grades",
+        "ts": "1469394261.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "The*",
+        "ts": "1469394272.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "she said we werent going to",
+        "ts": "1469394346.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "maybe she cant override the system but she'll fix it for when the grades are submit",
+        "ts": "1469394360.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "also quiz grades are up",
+        "ts": "1469394369.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "the quiz is out of 50 if you freak out like me at first too",
+        "ts": "1469394408.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Yea man , i was like what !!",
+        "ts": "1469394462.000018"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "<@U1MGNL4KU>: don't forget to submit the assignment ",
+        "ts": "1469394532.000019"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Hey @hussain, I'm not really sure which questions youre answering in your document",
+        "ts": "1469402041.000020"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "By 4-I), what part is that supposed to be? because under that you have 1),2),3) then 4) again",
+        "ts": "1469402064.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Then  II",
+        "ts": "1469402081.000022"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "by I and II, did you mean a) and b)?",
+        "ts": "1469402091.000023"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Q2 part ii which is the second part of the question.  For Q4 yes i And ii is a and b",
+        "ts": "1469402267.000024"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Just to be clear, <@U1PBB7C4T> you answered Q2 part i), but not ii)",
+        "ts": "1469402731.000025"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "yep",
+        "ts": "1469402744.000026"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1MGNL4KU|demo> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/demo\/F1UJDQBBM\/a2_comp353_poc353_1.docx|A2_COMP353_poc353_1.docx> and commented: Here's second assignment put together. May have went too far with the formatting, but look it over one last time before I hand it in",
+        "file": {
+            "id": "F1UJDQBBM",
+            "created": 1469403718,
+            "timestamp": 1469403718,
+            "name": "A2_COMP353_poc353_1.docx",
+            "title": "A2_COMP353_poc353_1.docx",
+            "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "filetype": "docx",
+            "pretty_type": "Word Document",
+            "user": "U1MGNL4KU",
+            "editable": false,
+            "size": 23859,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1UJDQBBM\/a2_comp353_poc353_1.docx?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1UJDQBBM\/download\/a2_comp353_poc353_1.docx?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/demo\/F1UJDQBBM\/a2_comp353_poc353_1.docx",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F1UJDQBBM-5e6035905b",
+            "channels": [
+                "C1TL1EPGQ"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc1UKS3CTY",
+                "created": 1469403718,
+                "timestamp": 1469403718,
+                "user": "U1MGNL4KU",
+                "is_intro": true,
+                "comment": "Here's second assignment put together. May have went too far with the formatting, but look it over one last time before I hand it in",
+                "channel": ""
+            }
+        },
+        "user": "U1MGNL4KU",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1MGNL4KU|demo>",
+        "bot_id": null,
+        "ts": "1469403719.000027"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "<!channel>",
+        "ts": "1469403754.000028"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1MGW6FUM|hussainq> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/hussainq\/F1UL51AHK\/a2_comp353_poc353_1.pdf|A2_COMP353_poc353_1.pdf> and commented: i think she asked us to submit it in pdf, and here  it's",
+        "file": {
+            "id": "F1UL51AHK",
+            "created": 1469406628,
+            "timestamp": 1469406628,
+            "name": "A2_COMP353_poc353_1.pdf",
+            "title": "A2_COMP353_poc353_1.pdf",
+            "mimetype": "application\/pdf",
+            "filetype": "pdf",
+            "pretty_type": "PDF",
+            "user": "U1MGW6FUM",
+            "editable": false,
+            "size": 77236,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1UL51AHK\/a2_comp353_poc353_1.pdf?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1UL51AHK\/download\/a2_comp353_poc353_1.pdf?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/hussainq\/F1UL51AHK\/a2_comp353_poc353_1.pdf",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F1UL51AHK-16bd22e01d",
+            "channels": [
+                "C1TL1EPGQ"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc1UL51ATX",
+                "created": 1469406628,
+                "timestamp": 1469406628,
+                "user": "U1MGW6FUM",
+                "is_intro": true,
+                "comment": "i think she asked us to submit it in pdf, and here  it's",
+                "channel": ""
+            }
+        },
+        "user": "U1MGW6FUM",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1MGW6FUM|hussainq>",
+        "bot_id": null,
+        "ts": "1469406629.000029"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "<@U1MGNL4KU>: dont forget to submit the assignment , thanks",
+        "ts": "1469408439.000030"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Ok, its uploaded",
+        "ts": "1469415160.000031"
+    }
+]

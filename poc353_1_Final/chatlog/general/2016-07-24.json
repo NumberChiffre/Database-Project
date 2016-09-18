@@ -1,0 +1,50 @@
+[
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Is the quiz during class or lab time? ",
+        "ts": "1469406327.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i thought he said during class but we'd go to a labe during class",
+        "ts": "1469406347.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "not sure tho",
+        "ts": "1469406350.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Ah ok",
+        "ts": "1469406367.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "dont trust me on that",
+        "ts": "1469406404.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i think <@U1PBBB3J7> said that",
+        "ts": "1469406412.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "the quiz will be in the second half of the lecture",
+        "ts": "1469406456.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "it'll be online in one of the labs but he didn't mention any",
+        "ts": "1469406484.000009"
+    }
+]

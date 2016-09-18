@@ -1,0 +1,38 @@
+[
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Whats the plan for the project? ",
+        "ts": "1468604639.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "No plan ?!",
+        "ts": "1468632396.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "For today nothing ",
+        "ts": "1468632419.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "I'm busy this weekend but I plan on learning some php and html ",
+        "ts": "1468632449.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "You guys could organize a meeting or do the same ",
+        "ts": "1468632461.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Ok we can meet on Monday and discuss that during the lab ",
+        "ts": "1468639341.000002"
+    }
+]

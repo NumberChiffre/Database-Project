@@ -1,0 +1,303 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1MGW16JZ|ti_liu> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F21251A93\/finalsqlcode.txt|finalSQLCode.txt>",
+        "file": {
+            "id": "F21251A93",
+            "created": 1471038346,
+            "timestamp": 1471038346,
+            "name": "finalSQLCode.txt",
+            "title": "finalSQLCode.txt",
+            "mimetype": "text\/plain",
+            "filetype": "text",
+            "pretty_type": "Plain Text",
+            "user": "U1MGW16JZ",
+            "editable": true,
+            "size": 6098,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F21251A93\/finalsqlcode.txt?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F21251A93\/download\/finalsqlcode.txt?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F21251A93\/finalsqlcode.txt",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F21251A93-30f5f5720b",
+            "edit_link": "https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F21251A93\/finalsqlcode.txt\/edit",
+            "preview": "\r\n\r\nCREATE TABLE `Groups` (\r\n  `group_id` int(11) NOT NULL AUTO_INCREMENT,\r\n  `data_taken` decimal(4,2) NOT NULL,\r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><\/pre><\/div>\n<div><pre><\/pre><\/div>\n<div><pre>CREATE TABLE `Groups` (<\/pre><\/div>\n<div><pre>  `group_id` int(11) NOT NULL AUTO_INCREMENT,<\/pre><\/div>\n<div><pre>  `data_taken` decimal(4,2) NOT NULL,<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 143,
+            "lines_more": 138,
+            "channels": [
+                "C1MGL6NJY"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U1MGW16JZ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1MGW16JZ|ti_liu>",
+        "bot_id": null,
+        "ts": "1471038347.000002"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1MGW16JZ|ti_liu> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F212LM3E1\/comp353_erdiagram.xml|COMP353_ERDIAGRAM.xml>",
+        "file": {
+            "id": "F212LM3E1",
+            "created": 1471042531,
+            "timestamp": 1471042531,
+            "name": "COMP353_ERDIAGRAM.xml",
+            "title": "COMP353_ERDIAGRAM.xml",
+            "mimetype": "text\/plain",
+            "filetype": "xml",
+            "pretty_type": "XML",
+            "user": "U1MGW16JZ",
+            "editable": true,
+            "size": 4723,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F212LM3E1\/comp353_erdiagram.xml?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F212LM3E1\/download\/comp353_erdiagram.xml?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F212LM3E1\/comp353_erdiagram.xml",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F212LM3E1-03b211151a",
+            "edit_link": "https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F212LM3E1\/comp353_erdiagram.xml\/edit",
+            "preview": "<mxfile userAgent=\"Mozilla\/5.0 (Windows NT 6.1; WOW64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/52.0.2743.116 Safari\/537.36\" version=\"5.5.5.8\" editor=\"www.draw.io\" type=\"device\"><diagram>7R3ZkptI8mv6sR1CSEJ6tMeemYediIl17PXUgSXcYo2EFpC7e79+EiqzRB062qKyQG496CgQBZlZWXkdd+Evm+ffini3\/iNfJdndeLR6vgs\/3o3H48kigo965EWMzGcTMfBYpCsxNDoMfE7\/n4jBgEb36SopcUwMVXmeVelOHVzm222yrJSxuCjyJ\/W0r3mGs+LALn6kGQ8Dn5dxZo7+K11Va3yKKd5ePf57kj6uaeZghEe+xMtvj0W+3+J8d+Pwa\/MShzcxXQvPL9fxKn9qDYWfAK5FnsOV62+b51+SrIatCrZfjxyV910kW7y3M3+YhXgj1Qs9fLICWODPvKjW+WO+jbNPh9EPzQMm9SVG8GtdbTL4GsDX5Dmt\/t36\/p\/6lHfjaf1zWxUv9bHRu1FIv8XxMGzOrwf+TIp0k1RJgddOtqv3NT7h5zbf1nPDyK8pPIM4\/t+kql6QfuJ9lcPQ4Zb\/luc7vBnxkPWTHQUUDpX5vljiWfC7Ib24eEzorOlCognIP8nhbosXOKlIsrhKv6vXj5EOH+V5B1zAF0THMdRMXaCmgaqOmp4BuWEWLCBGPtUxiN81UCUgq8Qv10J9TNB9z6A\/54J+5Aj6gqiHCv4gatY9BwIWdEcOOQw8zXEE9JPFj5rzWBCAYpFLBCjwlxtt+1jP4D9jgv44xMldyj4q9ZvQL+HJKw3+zVgLA73DEGycXDiaOJFPT+0RyhKpfwwSRVx7yFjsVt0jSOwbiCCJE3EMlBZlIY2i+TEFYpDIC+B5uNDXrGS3PFATAXQBYJgssBnjwNC8oQXPQtowl1HQKBgcSHIkSZ\/kguNoorLB...",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-tag cm-bracket\">&lt;<\/span><span class=\"cm-tag\">mxfile<\/span> <span class=\"cm-attribute\">userAgent<\/span>=<span class=\"cm-string\">&quot;Mozilla\/5.0 (Windows NT 6.1; WOW64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/52.0.2743.116 Safari\/537.36&quot;<\/span> <span class=\"cm-attribute\">version<\/span>=<span class=\"cm-string\">&quot;5.5.5.8&quot;<\/span> <span class=\"cm-attribute\">editor<\/span>=<span class=\"cm-string\">&quot;www.draw.io&quot;<\/span> <span class=\"cm-attribute\">type<\/span>=<span class=\"cm-string\">&quot;device&quot;<\/span><span class=\"cm-tag cm-bracket\">&gt;<\/span><span class=\"cm-tag cm-bracket\">&lt;<\/span><span class=\"cm-tag\">diagram<\/span><span class=\"cm-tag cm-bracket\">&gt;<\/span>7R3ZkptI8mv6sR1CSEJ6tMeemYediIl17PXUgSXcYo2EFpC7e79+EiqzRB062qKyQG496CgQBZlZWXkdd+Evm+ffini3\/iNfJdndeLR6vgs\/3o3H48kigo965EWMzGcTMfBYpCsxNDoMfE7\/n4jBgEb36SopcUwMVXmeVelOHVzm222yrJSxuCjyJ\/W0r3mGs+LALn6kGQ8Dn5dxZo7+K11Va3yKKd5ePf57kj6uaeZghEe+xMtvj0W+3+J8d+Pwa\/MShzcxXQvPL9fxKn9qDYWfAK5FnsOV62+b51+SrIatCrZfjxyV910kW7y3M3+YhXgj1Qs9fLICWODPvKjW+WO+jbNPh9EPzQMm9SVG8GtdbTL4GsDX5Dmt\/t36\/p\/6lHfjaf1zWxUv9bHRu1FIv8XxMGzOrwf+TIp0k1RJgddOtqv3NT7h5zbf1nPDyK8pPIM4\/t+kql6QfuJ9lcPQ4Zb\/luc7vBnxkPWTHQUUDpX5vljiWfC7Ib24eEzorOlCognIP8nhbosXOKlIsrhKv6vXj5EOH+V5B1zAF0THMdRMXaCmgaqOmp4BuWEWLCBGPtUxiN81UCUgq8Qv10J9TNB9z6A\/54J+5Aj6gqiHCv4gatY9BwIWdEcOOQw8zXEE9JPFj5rzWBCAYpFLBCjwlxtt+1jP4D9jgv44xMldyj4q9ZvQL+HJKw3+zVgLA73DEGycXDiaOJFPT+0RyhKpfwwSRVx7yFjsVt0jSOwbiCCJE3EMlBZlIY2i+TEFYpDIC+B5uNDXrGS3PFATAXQBYJgssBnjwNC8oQXPQtowl1HQKBgcSHIkSZ\/kguNoorLB...<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 1,
+            "lines_more": 0,
+            "channels": [
+                "C1MGL6NJY"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U1MGW16JZ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1MGW16JZ|ti_liu>",
+        "bot_id": null,
+        "ts": "1471042532.000003"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1MGW16JZ|ti_liu> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F212Y0B8A\/comp353_erdiagram_final.xml|COMP353_ERDIAGRAM_final.xml> and commented: final",
+        "file": {
+            "id": "F212Y0B8A",
+            "created": 1471043042,
+            "timestamp": 1471043042,
+            "name": "COMP353_ERDIAGRAM_final.xml",
+            "title": "COMP353_ERDIAGRAM_final.xml",
+            "mimetype": "text\/plain",
+            "filetype": "xml",
+            "pretty_type": "XML",
+            "user": "U1MGW16JZ",
+            "editable": true,
+            "size": 4675,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F212Y0B8A\/comp353_erdiagram_final.xml?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F212Y0B8A\/download\/comp353_erdiagram_final.xml?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F212Y0B8A\/comp353_erdiagram_final.xml",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F212Y0B8A-566c23d586",
+            "edit_link": "https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F212Y0B8A\/comp353_erdiagram_final.xml\/edit",
+            "preview": "<mxfile userAgent=\"Mozilla\/5.0 (Windows NT 6.1; WOW64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/52.0.2743.116 Safari\/537.36\" version=\"5.5.5.8\" editor=\"www.draw.io\" type=\"device\"><diagram>7R3ZkuI48mvqsSowBgyPXdNzPOxETGzHXk8VbnCDtw1mjemq2q+ftJUpLEscNVgpmSoeOGRj2ZmpVF7HXfjT+uXXIt6ufs8XSXY3HCxe7sLPd8PhcDSL4KMaeRUj08lIDCyLdCGGBoeBL+n\/EzEY0Og+XSQ7HBNDZZ5nZbpVB+f5ZpPMS2UsLor8WT3tW57hrDiwjZc042HgyzzO9NF\/pYtyhU8xxturxn9L0uWKZg4GeORrPP++LPL9Bue7G4bf6pc4vI7pWnj+bhUv8ufGUPgzwLXIc7hy9W398lOSVbBVwfbLkaPyvotkg\/d25g+TEG+kfKWHTxYAC\/yZF+UqX+abOPv5MPpYP2BSXWIAv1blOoOvAXxNXtLy343v\/6lOeRiOq5+bsnitjg0eBiH9FsfDsD6\/GvgjKdJ1UiYFXjvZLD5V+ISfm3xTzQ0jv6TwDOL4f5OyfEX6ifdlDkOHW\/5bnm\/xZsRDVk92FFA4tMv3xRzPgt816cXFMqGzxjOJJiD\/JIe7LV7hpCLJ4jL9oV4\/RjpcyvMOuIAviI5jqBnbQE0N1TZqPANyzSxYQIx8qmMQP9RQJSCrxC\/XQnVM0L1n0J9yQT+yBH1B1H0FfxDV654DATO6I4scBp7mOAL8ZPGD+jwWBKBYZBMBCvzlRts85hn8J0zQH46syD6n+I8C\/urHDh68bIG\/HmsgwDsEcfGnoeCE3SNI8CREkMSJOAYCsbJEBtH0mHDaS+QF8Dxc6KtXsl3dorW9tDeXXqJIjHFgaFrTgmMBoJ\/LKKiFVw4kWZLSTnLBYTRS2WAg2eJNcEEu5IVg67CPvFM6Tm9R...",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-tag cm-bracket\">&lt;<\/span><span class=\"cm-tag\">mxfile<\/span> <span class=\"cm-attribute\">userAgent<\/span>=<span class=\"cm-string\">&quot;Mozilla\/5.0 (Windows NT 6.1; WOW64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/52.0.2743.116 Safari\/537.36&quot;<\/span> <span class=\"cm-attribute\">version<\/span>=<span class=\"cm-string\">&quot;5.5.5.8&quot;<\/span> <span class=\"cm-attribute\">editor<\/span>=<span class=\"cm-string\">&quot;www.draw.io&quot;<\/span> <span class=\"cm-attribute\">type<\/span>=<span class=\"cm-string\">&quot;device&quot;<\/span><span class=\"cm-tag cm-bracket\">&gt;<\/span><span class=\"cm-tag cm-bracket\">&lt;<\/span><span class=\"cm-tag\">diagram<\/span><span class=\"cm-tag cm-bracket\">&gt;<\/span>7R3ZkuI48mvqsSowBgyPXdNzPOxETGzHXk8VbnCDtw1mjemq2q+ftJUpLEscNVgpmSoeOGRj2ZmpVF7HXfjT+uXXIt6ufs8XSXY3HCxe7sLPd8PhcDSL4KMaeRUj08lIDCyLdCGGBoeBL+n\/EzEY0Og+XSQ7HBNDZZ5nZbpVB+f5ZpPMS2UsLor8WT3tW57hrDiwjZc042HgyzzO9NF\/pYtyhU8xxturxn9L0uWKZg4GeORrPP++LPL9Bue7G4bf6pc4vI7pWnj+bhUv8ufGUPgzwLXIc7hy9W398lOSVbBVwfbLkaPyvotkg\/d25g+TEG+kfKWHTxYAC\/yZF+UqX+abOPv5MPpYP2BSXWIAv1blOoOvAXxNXtLy343v\/6lOeRiOq5+bsnitjg0eBiH9FsfDsD6\/GvgjKdJ1UiYFXjvZLD5V+ISfm3xTzQ0jv6TwDOL4f5OyfEX6ifdlDkOHW\/5bnm\/xZsRDVk92FFA4tMv3xRzPgt816cXFMqGzxjOJJiD\/JIe7LV7hpCLJ4jL9oV4\/RjpcyvMOuIAviI5jqBnbQE0N1TZqPANyzSxYQIx8qmMQP9RQJSCrxC\/XQnVM0L1n0J9yQT+yBH1B1H0FfxDV654DATO6I4scBp7mOAL8ZPGD+jwWBKBYZBMBCvzlRts85hn8J0zQH46syD6n+I8C\/urHDh68bIG\/HmsgwDsEcfGnoeCE3SNI8CREkMSJOAYCsbJEBtH0mHDaS+QF8Dxc6KtXsl3dorW9tDeXXqJIjHFgaFrTgmMBoJ\/LKKiFVw4kWZLSTnLBYTRS2WAg2eJNcEEu5IVg67CPvFM6Tm9R...<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 1,
+            "lines_more": 0,
+            "channels": [
+                "C1MGL6NJY"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc212CJ9DJ",
+                "created": 1471043042,
+                "timestamp": 1471043042,
+                "user": "U1MGW16JZ",
+                "is_intro": true,
+                "comment": "final",
+                "channel": ""
+            }
+        },
+        "user": "U1MGW16JZ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1MGW16JZ|ti_liu>",
+        "bot_id": null,
+        "ts": "1471043042.000004"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1MGW16JZ|ti_liu> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F2138FPSN\/finaler_comp353.xml|FinalER_Comp353.xml> and commented: dont know where to put system details",
+        "file": {
+            "id": "F2138FPSN",
+            "created": 1471046940,
+            "timestamp": 1471046940,
+            "name": "FinalER_Comp353.xml",
+            "title": "FinalER_Comp353.xml",
+            "mimetype": "text\/plain",
+            "filetype": "xml",
+            "pretty_type": "XML",
+            "user": "U1MGW16JZ",
+            "editable": true,
+            "size": 5347,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F2138FPSN\/finaler_comp353.xml?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F2138FPSN\/download\/finaler_comp353.xml?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F2138FPSN\/finaler_comp353.xml",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F2138FPSN-86f5477bb9",
+            "edit_link": "https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F2138FPSN\/finaler_comp353.xml\/edit",
+            "preview": "<mxfile userAgent=\"Mozilla\/5.0 (Windows NT 6.1; WOW64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/52.0.2743.116 Safari\/537.36\" version=\"5.5.5.8\" editor=\"www.draw.io\" type=\"device\"><diagram>7R3ZkqM48mvqsSqMwddj9fQcG7ETMbG951MFbdM229h4MZ6q3q+fFGTKSMiFayylwF1+8CEwgsxUKq\/jLvxh+\/JzEe83v+arJLsbj1Yvd+HHu\/F4HC1m8CFGvtUjwWIa1SPrIl3VY6PTwKf0\/wmeSKPHdJUccKweKvM8K9O9OrjMd7tkWSpjcVHkz+ppX\/IMZ8WBfbymGU8Dn5Zx1h79V7oqN\/XofIK3J8Z\/SdL1hmYORnjkc7z8ui7y4w7nuxuHX6pXfXgb07Xw\/MMmXuXPjaHwRwBskedwZfFt+\/JDkgngqmD76cxRed9FssN76\/jDdII3Un6jh09WAAv8mRflJl\/nuzj78TT6oXrARFxiBL825TaDrwF8TV7S8t84LL7\/R3x\/GE\/Ez93qUWAGRnb5TlwFRn5K4W7q0\/+blOU3pIT4WOYwdJr8r3m+xynq2xX3ePaRceiQH4slngW\/KyKKi3WCZ1UUiVD5Ocm3SVl8g1OKJIvL9Hf16jHS01qed4IpfEGwngMxrgbLIH6ooEpAruAJd9Y4JH6KY9W\/+gb9ORf0F8h5XBK4BLc4VIMbYU\/Hegb9KRP0xzM37OUBrntCgIR4fWwaqhgYzeY08FtSpPAQSYHXPgBQSg011VgDOb1DXgDPw4S+Bd0RI\/rGs0jFXyDxeRPoq3YDBuSFMzfIM23t51nfIFFUMS0WFDkSDZT1pcoGumQwTBY4WTChKAqqmdyuohpdt7aKwlq34ECSvCOrSKLvJlbX\/D3opRTO2JZSVImdnEtJ4XYDXkrBqDqPQ+SrL\/F7nB3xov84JMWhhbhDWeRfpXEEbu3D8yYtk0\/7...",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-tag cm-bracket\">&lt;<\/span><span class=\"cm-tag\">mxfile<\/span> <span class=\"cm-attribute\">userAgent<\/span>=<span class=\"cm-string\">&quot;Mozilla\/5.0 (Windows NT 6.1; WOW64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/52.0.2743.116 Safari\/537.36&quot;<\/span> <span class=\"cm-attribute\">version<\/span>=<span class=\"cm-string\">&quot;5.5.5.8&quot;<\/span> <span class=\"cm-attribute\">editor<\/span>=<span class=\"cm-string\">&quot;www.draw.io&quot;<\/span> <span class=\"cm-attribute\">type<\/span>=<span class=\"cm-string\">&quot;device&quot;<\/span><span class=\"cm-tag cm-bracket\">&gt;<\/span><span class=\"cm-tag cm-bracket\">&lt;<\/span><span class=\"cm-tag\">diagram<\/span><span class=\"cm-tag cm-bracket\">&gt;<\/span>7R3ZkqM48mvqsSqMwddj9fQcG7ETMbG951MFbdM229h4MZ6q3q+fFGTKSMiFayylwF1+8CEwgsxUKq\/jLvxh+\/JzEe83v+arJLsbj1Yvd+HHu\/F4HC1m8CFGvtUjwWIa1SPrIl3VY6PTwKf0\/wmeSKPHdJUccKweKvM8K9O9OrjMd7tkWSpjcVHkz+ppX\/IMZ8WBfbymGU8Dn5Zx1h79V7oqN\/XofIK3J8Z\/SdL1hmYORnjkc7z8ui7y4w7nuxuHX6pXfXgb07Xw\/MMmXuXPjaHwRwBskedwZfFt+\/JDkgngqmD76cxRed9FssN76\/jDdII3Un6jh09WAAv8mRflJl\/nuzj78TT6oXrARFxiBL825TaDrwF8TV7S8t84LL7\/R3x\/GE\/Ez93qUWAGRnb5TlwFRn5K4W7q0\/+blOU3pIT4WOYwdJr8r3m+xynq2xX3ePaRceiQH4slngW\/KyKKi3WCZ1UUiVD5Ocm3SVl8g1OKJIvL9Hf16jHS01qed4IpfEGwngMxrgbLIH6ooEpAruAJd9Y4JH6KY9W\/+gb9ORf0F8h5XBK4BLc4VIMbYU\/Hegb9KRP0xzM37OUBrntCgIR4fWwaqhgYzeY08FtSpPAQSYHXPgBQSg011VgDOb1DXgDPw4S+Bd0RI\/rGs0jFXyDxeRPoq3YDBuSFMzfIM23t51nfIFFUMS0WFDkSDZT1pcoGumQwTBY4WTChKAqqmdyuohpdt7aKwlq34ECSvCOrSKLvJlbX\/D3opRTO2JZSVImdnEtJ4XYDXkrBqDqPQ+SrL\/F7nB3xov84JMWhhbhDWeRfpXEEbu3D8yYtk0\/7...<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 1,
+            "lines_more": 0,
+            "channels": [
+                "C1MGL6NJY"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc2130KGBH",
+                "created": 1471046940,
+                "timestamp": 1471046940,
+                "user": "U1MGW16JZ",
+                "is_intro": true,
+                "comment": "dont know where to put system details",
+                "channel": ""
+            }
+        },
+        "user": "U1MGW16JZ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1MGW16JZ|ti_liu>",
+        "bot_id": null,
+        "ts": "1471046940.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Were thinking system details is its own thing",
+        "ts": "1471046958.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "so its not really related to any of the other tables",
+        "ts": "1471046966.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "so we isolated it",
+        "ts": "1471046970.000008"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1MGW16JZ|ti_liu> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F213J0LTT\/finalsqlcode.txt|finalSQLCode.txt> and commented: final final final..",
+        "file": {
+            "id": "F213J0LTT",
+            "created": 1471055001,
+            "timestamp": 1471055001,
+            "name": "finalSQLCode.txt",
+            "title": "finalSQLCode.txt",
+            "mimetype": "text\/plain",
+            "filetype": "text",
+            "pretty_type": "Plain Text",
+            "user": "U1MGW16JZ",
+            "editable": true,
+            "size": 6156,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F213J0LTT\/finalsqlcode.txt?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F213J0LTT\/download\/finalsqlcode.txt?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F213J0LTT\/finalsqlcode.txt",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F213J0LTT-67b23bd3a5",
+            "edit_link": "https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F213J0LTT\/finalsqlcode.txt\/edit",
+            "preview": "\r\n\r\nCREATE TABLE `Groups` (\r\n  `group_id` int(11) NOT NULL AUTO_INCREMENT,\r\n  `data_taken` int(11) NOT NULL,\r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><\/pre><\/div>\n<div><pre><\/pre><\/div>\n<div><pre>CREATE TABLE `Groups` (<\/pre><\/div>\n<div><pre>  `group_id` int(11) NOT NULL AUTO_INCREMENT,<\/pre><\/div>\n<div><pre>  `data_taken` int(11) NOT NULL,<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 145,
+            "lines_more": 140,
+            "channels": [
+                "C1MGL6NJY"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc2136LW56",
+                "created": 1471055001,
+                "timestamp": 1471055001,
+                "user": "U1MGW16JZ",
+                "is_intro": true,
+                "comment": "final final final..",
+                "channel": ""
+            }
+        },
+        "user": "U1MGW16JZ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1MGW16JZ|ti_liu>",
+        "bot_id": null,
+        "ts": "1471055001.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "last-final-completed",
+        "ts": "1471062028.000010"
+    }
+]

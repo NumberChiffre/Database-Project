@@ -1,0 +1,428 @@
+[
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Ok",
+        "ts": "1470404593.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "we're in 813 if anyone wants to join",
+        "ts": "1470412576.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Should be there around 3-4, going to be there all day if anyone is sticking around that long ",
+        "ts": "1470418144.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "is anyone else coming...?",
+        "ts": "1470422957.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "there is still a lot to do guys",
+        "ts": "1470422978.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Didnt know u were coming...yesterday u said u couldnt",
+        "ts": "1470423003.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Ill be there at around 4",
+        "ts": "1470423014.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i didnt say that",
+        "ts": "1470423050.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "you dont need me to work on it",
+        "ts": "1470423066.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Whats left? Ill finish the course page tonight ",
+        "ts": "1470423310.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "And the admin panel is already implemented but needs some modifications ",
+        "ts": "1470423375.000011"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1PBBB3J7|jordan_orsini> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/jordan_orsini\/F1YP8ALKX\/slack_for_ios_upload.jpg|Slack for iOS Upload>",
+        "file": {
+            "id": "F1YP8ALKX",
+            "created": 1470423392,
+            "timestamp": 1470423392,
+            "name": "Slack for iOS Upload.jpg",
+            "title": "Slack for iOS Upload",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U1PBBB3J7",
+            "editable": false,
+            "size": 396202,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1YP8ALKX\/slack_for_ios_upload.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1YP8ALKX\/download\/slack_for_ios_upload.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1YP8ALKX-8689054d8e\/slack_for_ios_upload_64.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1YP8ALKX-8689054d8e\/slack_for_ios_upload_80.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1YP8ALKX-8689054d8e\/slack_for_ios_upload_360.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_360_w": 270,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1YP8ALKX-8689054d8e\/slack_for_ios_upload_480.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_480_w": 360,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1YP8ALKX-8689054d8e\/slack_for_ios_upload_160.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1YP8ALKX-8689054d8e\/slack_for_ios_upload_720.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_720_w": 540,
+            "thumb_720_h": 720,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1YP8ALKX-8689054d8e\/slack_for_ios_upload_960.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_960_w": 720,
+            "thumb_960_h": 960,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1YP8ALKX-8689054d8e\/slack_for_ios_upload_1024.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_1024_w": 768,
+            "thumb_1024_h": 1024,
+            "image_exif_rotation": 1,
+            "original_w": 1224,
+            "original_h": 1632,
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/jordan_orsini\/F1YP8ALKX\/slack_for_ios_upload.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F1YP8ALKX-4bc3b5ef17",
+            "channels": [
+                "C1MGNL6R0"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U1PBBB3J7",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1PBBB3J7|jordan_orsini>",
+        "bot_id": null,
+        "ts": "1470423396.000012"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1PBBB3J7|jordan_orsini> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/jordan_orsini\/F1YP1BBU0\/slack_for_ios_upload.jpg|Slack for iOS Upload>",
+        "file": {
+            "id": "F1YP1BBU0",
+            "created": 1470423402,
+            "timestamp": 1470423402,
+            "name": "Slack for iOS Upload.jpg",
+            "title": "Slack for iOS Upload",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U1PBBB3J7",
+            "editable": false,
+            "size": 325468,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1YP1BBU0\/slack_for_ios_upload.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1YP1BBU0\/download\/slack_for_ios_upload.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1YP1BBU0-825fbf03b3\/slack_for_ios_upload_64.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1YP1BBU0-825fbf03b3\/slack_for_ios_upload_80.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1YP1BBU0-825fbf03b3\/slack_for_ios_upload_360.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_360_w": 270,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1YP1BBU0-825fbf03b3\/slack_for_ios_upload_480.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_480_w": 360,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1YP1BBU0-825fbf03b3\/slack_for_ios_upload_160.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1YP1BBU0-825fbf03b3\/slack_for_ios_upload_720.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_720_w": 540,
+            "thumb_720_h": 720,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1YP1BBU0-825fbf03b3\/slack_for_ios_upload_960.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_960_w": 720,
+            "thumb_960_h": 960,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1YP1BBU0-825fbf03b3\/slack_for_ios_upload_1024.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_1024_w": 768,
+            "thumb_1024_h": 1024,
+            "image_exif_rotation": 1,
+            "original_w": 1224,
+            "original_h": 1632,
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/jordan_orsini\/F1YP1BBU0\/slack_for_ios_upload.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F1YP1BBU0-4f3171124a",
+            "channels": [
+                "C1MGNL6R0"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U1PBBB3J7",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1PBBB3J7|jordan_orsini>",
+        "bot_id": null,
+        "ts": "1470423407.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Ill finish instructors can add delete members and also ill try doing the group leader  ",
+        "ts": "1470423893.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i added the group leader id to the Groups table, apparently it was missing",
+        "ts": "1470423930.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Ok",
+        "ts": "1470423943.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Im at work once im done ill start working ",
+        "ts": "1470423979.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "ok",
+        "ts": "1470423989.000018"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "so glad you guys could join us...",
+        "ts": "1470428273.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Almosy there..in 10",
+        "ts": "1470428295.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "This isn't the only project I have due next week ",
+        "ts": "1470428811.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "this is worth 47%",
+        "ts": "1470428848.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Well, I don't think you need to worry ",
+        "ts": "1470428912.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "You've done enough today, just show s what's left and we'll try to finding t ",
+        "ts": "1470428943.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Are you guys in the same room?",
+        "ts": "1470429378.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "ya 813",
+        "ts": "1470429705.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "<@U1MGW6FUM> make sure your update statement doesn't have a comma after the last input, <@U1MGW16JZ> was having that problem with members update",
+        "ts": "1470442113.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Also I asked the ta if we actually needed to provide all our communications in documentation (the specs say to like include your emails and stuff lol)",
+        "ts": "1470442157.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "And she said to just include who did what",
+        "ts": "1470442171.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Avoid adding duplicate users or edit duplicate users work, its just i havent succeeded in figuring out the ajax warning part",
+        "ts": "1470442971.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "You can echo JavaScript into the page like html",
+        "ts": "1470443164.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Be like if(whatever in php)",
+        "ts": "1470443184.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Echo \"toastr.error(blablah)\"",
+        "ts": "1470443210.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Obviously in the script section, also need to put the script at the bottom of the page",
+        "ts": "1470443253.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "No idea how to implement this yet, cant find a guide online",
+        "ts": "1470444447.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Does anybody know why am I get the following error:\n```\nFatal error: Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1449 The user specified as a definer ('poc353_1'@'132.205.%.%') does not exist' in C:\\wamp\\www\\po_comp353_1\\adduser.php on line 28\n( ! ) PDOException: SQLSTATE[HY000]: General error: 1449 The user specified as a definer ('poc353_1'@'132.205.%.%') does not exist in C:\\wamp\\www\\po_comp353_1\\adduser.php on line 28\n```",
+        "ts": "1470446824.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "This is when I try to update the table on my local db",
+        "ts": "1470446848.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Cant get this toastr thing running",
+        "ts": "1470447789.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "So far avoid duplicate users work when editing or adding new ones, but i cant get the popup thjng right..",
+        "ts": "1470447818.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "all good for me i solved it",
+        "ts": "1470447824.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Alright",
+        "ts": "1470448437.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "We'll look at displaying a message sunday",
+        "ts": "1470448452.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "What needs to be done to make someone a group leader",
+        "ts": "1470448508.000018"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Add member and delete member are working as expected",
+        "ts": "1470448533.000019"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "like what is the criteria for it ?",
+        "ts": "1470448608.000020"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Thanks",
+        "ts": "1470448617.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "<@U1MGW6FUM>: i belive only a teacher ( user level 2) can make a group member a group leader. there is already a button created for it once a teacher is logged in and clicks on edit for a group. the button does not do anything now but should edit the sql in the Groups table and add the leader's id to the group. only a group leader can rollback changes so a check must be made when logged in as a student to check the Groups table to see if he is a group leader. if not the rollback feature should be hidden",
+        "ts": "1470449165.000022"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "thanks",
+        "ts": "1470449314.000023"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "make leader is done",
+        "ts": "1470454678.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Modifying Group is done",
+        "ts": "1470455222.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "I have done the following functionalities:\n```\n1.  Add Members\n2.  Remove member from groups and adding it to unassigned user pool\n3.  Assign Group Leader\n4.  Modify Group\n```",
+        "ts": "1470455461.000004"
+    }
+]

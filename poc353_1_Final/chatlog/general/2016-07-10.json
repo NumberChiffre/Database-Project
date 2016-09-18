@@ -1,0 +1,3320 @@
+[
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Is there anything left for the warmup project? ",
+        "ts": "1468171980.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i think so",
+        "ts": "1468174932.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "What is it? ",
+        "ts": "1468175008.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "And have you worked on the assignment?",
+        "ts": "1468175026.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "no",
+        "ts": "1468175040.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "think we need to insert more data and make an er",
+        "ts": "1468175059.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Ok",
+        "ts": "1468175347.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Are you working on it ? ",
+        "ts": "1468175381.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "not right now",
+        "ts": "1468175391.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "I cant see the google document its protected",
+        "ts": "1468175447.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Ill try to insert data",
+        "ts": "1468175457.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "And what about the er that was done earlier ",
+        "ts": "1468175490.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "its not an er",
+        "ts": "1468175505.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "What is it?",
+        "ts": "1468175524.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "idk",
+        "ts": "1468175547.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "The deadline is tomorrow night I believe for the warmup project ",
+        "ts": "1468175556.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "It's more of a schema diagram I guess. If that's a thing ",
+        "ts": "1468175559.000018"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Database diagram ",
+        "ts": "1468175573.000019"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "It looks like an ER diagram to me.\nCan you be more specific on what else do we need to make it an ER",
+        "ts": "1468175848.000020"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "what diagram are you looking at?",
+        "ts": "1468175869.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "the visio file?",
+        "ts": "1468175878.000022"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "The one I received on my email ",
+        "ts": "1468176004.000023"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "its not accurate they made a new diagram",
+        "ts": "1468176028.000024"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "its the visio file in <#C1MGL6NJY>",
+        "ts": "1468176045.000025"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Ill have a look it now ",
+        "ts": "1468176077.000026"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": " Have you guys been populating he tables?",
+        "ts": "1468176841.000027"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "That is a class diagram no an er",
+        "ts": "1468176959.000028"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "<@U1MGNL4KU>: i can do it i just need to know what are the primary tables",
+        "ts": "1468177074.000029"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Look at the Visio diagram ",
+        "ts": "1468177112.000030"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "You have to fill them in order ",
+        "ts": "1468177124.000031"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Or yo could look at the Google doc ",
+        "ts": "1468177132.000032"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "The order they appear in is how you should fill the db ",
+        "ts": "1468177149.000033"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "have to grant access to the doc",
+        "ts": "1468177152.000034"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Ah ok ",
+        "ts": "1468177170.000035"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "I can only look at google docs if you guys provide me the access",
+        "ts": "1468177172.000036"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "I thought we all had access ",
+        "ts": "1468177186.000037"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "I asked for it like so many times <@U1MGNL4KU> <@U1PBB7C4T> ",
+        "ts": "1468177202.000038"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Lol",
+        "ts": "1468177212.000039"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Ok ",
+        "ts": "1468177213.000040"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "I'll send you access to it when. I get my computer ",
+        "ts": "1468177229.000041"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Unless shayne can",
+        "ts": "1468177251.000042"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i dont have access either lol",
+        "ts": "1468177258.000043"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Oh what lol",
+        "ts": "1468177299.000044"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Oh what lol",
+        "ts": "1468177299.000045"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Hmm",
+        "ts": "1468177333.000046"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "U cant get in?",
+        "ts": "1468177346.000047"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Guys we need to put in more efforts in order to see through the finish line ",
+        "ts": "1468177361.000048"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Give me ur email theb",
+        "ts": "1468177387.000049"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Because its big and long project ",
+        "ts": "1468177409.000050"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "<mailto:Viuy@hotmail.com|Viuy@hotmail.com>",
+        "ts": "1468177418.000051"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "<mailto:shaynemclevy@gmail.com|shaynemclevy@gmail.com>",
+        "ts": "1468177439.000052"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "we made the tables already, just add data ",
+        "ts": "1468177446.000053"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Most of the work is already done ",
+        "ts": "1468177448.000054"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Sent to both of u",
+        "ts": "1468177467.000055"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Thanks",
+        "ts": "1468177472.000056"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Can you guys confirm which table i start with to put in the data",
+        "ts": "1468177542.000057"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "user",
+        "ts": "1468177557.000058"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "And then courses",
+        "ts": "1468177576.000059"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "?",
+        "ts": "1468177580.000060"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "You know what, don't worry I'll fill in the tables ",
+        "ts": "1468177600.000061"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "user, then teacher\/student",
+        "ts": "1468177600.000062"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "semester",
+        "ts": "1468177613.000063"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "We never made a doc explaining how it really works ",
+        "ts": "1468177614.000064"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "courses",
+        "ts": "1468177617.000065"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "But yes shayje has the order ",
+        "ts": "1468177671.000066"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Ok thanks for the info. That's helpful ",
+        "ts": "1468177673.000067"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "you just cant insert data into a table that has a foreign key to a table that you havent put anything in",
+        "ts": "1468177684.000068"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "That's why i was asking for the order",
+        "ts": "1468177708.000069"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "the foreign keys are in the doc",
+        "ts": "1468177728.000070"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "So do i still insert the data and if not what else should i do",
+        "ts": "1468177755.000071"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "I guess you should, but look at the Visio diagram too to see ho to connect everything ",
+        "ts": "1468177860.000072"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Ok",
+        "ts": "1468177870.000073"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "yeah if its 1 to 1, 1 to many, etc",
+        "ts": "1468177885.000074"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Ok ill do my best ",
+        "ts": "1468177912.000075"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "What about the ER diagram ",
+        "ts": "1468177988.000076"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Someone's got to get on that ",
+        "ts": "1468178040.000077"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Because there are few requirements on the warmup project that we have to implement and submit ",
+        "ts": "1468178099.000078"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i'll do the ER",
+        "ts": "1468178755.000079"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i'll just convert the other one you guys made basically",
+        "ts": "1468178776.000080"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Yeah sounds good!",
+        "ts": "1468180977.000081"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Dont we need a table for TA?",
+        "ts": "1468182622.000082"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "We need also to add a permission attribute on the file table ",
+        "ts": "1468183201.000083"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "what do you mean, why?",
+        "ts": "1468183384.000084"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "We need to restrict the instructor and TA to view the file only without modification ",
+        "ts": "1468183473.000085"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "we can code that in the website",
+        "ts": "1468183500.000086"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "block upload for ta\/instructor users",
+        "ts": "1468183513.000087"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Ok ",
+        "ts": "1468183532.000088"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "We can check what type of user it is by their user ID when they download ",
+        "ts": "1468183567.000089"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Is the TA combined with the teacher table?",
+        "ts": "1468183636.000090"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "cant really be because teacher is 1 to many with a course",
+        "ts": "1468183704.000091"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "We can add a ta and a and a weak entity table ",
+        "ts": "1468183830.000092"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Or we can add a ta's table ",
+        "ts": "1468183837.000093"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "That uses student ",
+        "ts": "1468183852.000094"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "So a student can be enrolled or ta's a class ",
+        "ts": "1468183854.000095"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Should i add TA table as weak entity?",
+        "ts": "1468183927.000096"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Yeah sure, copy the enrolled table and rename it ta's ",
+        "ts": "1468183991.000097"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Ok ",
+        "ts": "1468184001.000098"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "makes sense",
+        "ts": "1468184046.000099"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "For the Semester table what should I insert in semester fields with length of 3",
+        "ts": "1468184131.000100"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "F16 for fall 2016",
+        "ts": "1468184185.000101"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Already entered",
+        "ts": "1468184189.000102"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "W15 for winter",
+        "ts": "1468184204.000103"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "S15 for summer",
+        "ts": "1468184209.000104"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Ok ",
+        "ts": "1468184214.000105"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "I'll add ta's to the Visio file too ",
+        "ts": "1468185037.000106"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Perfect ",
+        "ts": "1468186002.000107"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Ok, so I dont think we need that much data, just a few examples",
+        "ts": "1468186340.000108"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "a_mod a TA",
+        "ts": "1468186356.000109"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "well make*",
+        "ts": "1468186362.000110"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i think <@U1PBBB3J7> said the ta mentioned like 15 entries per table",
+        "ts": "1468186370.000111"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Oh",
+        "ts": "1468186375.000112"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "ok thats annoying",
+        "ts": "1468186380.000113"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "that means user will need 30 entries",
+        "ts": "1468186395.000114"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "or 45, if we want 15 ta's",
+        "ts": "1468186404.000115"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "ha well",
+        "ts": "1468186413.000116"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "i mean, maybe not",
+        "ts": "1468186418.000117"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "not sure",
+        "ts": "1468186426.000118"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "it doesnt make sense to have 15 entries for semester",
+        "ts": "1468186428.000119"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "yeah",
+        "ts": "1468186436.000120"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "i guess, we can make 15 users, 4 teachers, 4 tas and the rest student",
+        "ts": "1468186456.000121"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "16",
+        "ts": "1468186465.000122"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "so the 8 students can form 2-3 groups",
+        "ts": "1468186483.000123"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "and well make 4 classes, 1 for each teacher]",
+        "ts": "1468186495.000124"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Im working on users now",
+        "ts": "1468186543.000125"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "<@U1MGW6FUM> are you currently on the DB system now?",
+        "ts": "1468186543.000126"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Yes",
+        "ts": "1468186548.000127"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "ok,",
+        "ts": "1468186577.000128"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Make a bunch of users for now",
+        "ts": "1468186585.000129"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "up to 16 in total",
+        "ts": "1468186595.000130"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "make a hillary clinton and an obama",
+        "ts": "1468186618.000131"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "those will be teachers",
+        "ts": "1468186621.000132"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "easier to keep track that way",
+        "ts": "1468186629.000133"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "the other guys will all be students",
+        "ts": "1468186638.000134"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "bernie and donald trump are already teachers",
+        "ts": "1468186649.000135"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Ok",
+        "ts": "1468186743.000136"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "lol",
+        "ts": "1468186883.000137"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Ill add them to teacher for you",
+        "ts": "1468187049.000138"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "add the others to students afterwards,",
+        "ts": "1468187062.000139"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "so INSERT INTO Student values (user_id, student_id);",
+        "ts": "1468187083.000140"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "sorry other way",
+        "ts": "1468187122.000141"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "student_id, user_id",
+        "ts": "1468187130.000142"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "but student_id you can input any integer it will automatically set it to the next number",
+        "ts": "1468187159.000143"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Im doing users then ill add then to the student ",
+        "ts": "1468187185.000144"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "yeah ok",
+        "ts": "1468187192.000145"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "What about the TA?",
+        "ts": "1468188036.000146"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "How many ones?",
+        "ts": "1468188070.000147"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "i guess the last 4 will be TA's",
+        "ts": "1468188083.000148"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "but ta's are also students",
+        "ts": "1468188093.000149"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "a ta is a student who ta's a class instead of enrolls one",
+        "ts": "1468188114.000150"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Ok",
+        "ts": "1468188298.000151"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "did you remove bernine and donald trump as teachers?",
+        "ts": "1468188394.000152"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Yes , i put obama and clinton instead, or you want all of them to be a teacher?",
+        "ts": "1468188549.000153"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "yeah all teh politicians",
+        "ts": "1468188558.000154"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "but its ok i did ti",
+        "ts": "1468188560.000155"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Ok",
+        "ts": "1468188563.000156"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Sorry about that ",
+        "ts": "1468188572.000157"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "I finished the users and students now ill add the ta",
+        "ts": "1468188614.000158"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "im a bit late to the party. what can i work on that still needs to be done?",
+        "ts": "1468188835.000159"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "on the db schema",
+        "ts": "1468189098.000160"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "in the files table",
+        "ts": "1468189102.000161"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "theres a field called attribute name",
+        "ts": "1468189118.000162"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "thats not supposed to be there right?",
+        "ts": "1468189125.000163"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Haha yeah that's a mistake ",
+        "ts": "1468189174.000164"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "also data twice lol",
+        "ts": "1468189182.000165"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Yeah i already changed them just havent uploaded the new file yet",
+        "ts": "1468189208.000166"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "here let me do it",
+        "ts": "1468189211.000167"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Its in general",
+        "ts": "1468189285.000168"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Do i have to add more courses?",
+        "ts": "1468189307.000169"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "I finished useres , teachers, and ta",
+        "ts": "1468189337.000170"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Ill add the courses",
+        "ts": "1468189360.000171"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "allready added 2 sections of db",
+        "ts": "1468189367.000172"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Yea i used that for ta",
+        "ts": "1468189391.000173"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "do we just need to populate the tables?",
+        "ts": "1468189396.000174"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "For now yes but i dont if theres anything else",
+        "ts": "1468189492.000175"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Know*",
+        "ts": "1468189499.000176"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": ":confused: I dont think so",
+        "ts": "1468189514.000177"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "we have to get the outputs after and a description of the schema i think",
+        "ts": "1468189529.000178"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "ill handle the outputs after we populate the tables",
+        "ts": "1468189539.000179"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "im populating teacher and ta right now",
+        "ts": "1468189564.000180"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "teacher is done",
+        "ts": "1468189576.000181"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Its done",
+        "ts": "1468189581.000182"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "i think maybe hilarry is missing",
+        "ts": "1468189583.000183"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "nbm",
+        "ts": "1468189586.000184"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "nvm",
+        "ts": "1468189587.000185"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "there is only 4 entries in teacher",
+        "ts": "1468189591.000186"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Yes",
+        "ts": "1468189599.000187"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Groups ",
+        "ts": "1468189604.000188"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "we need 15 per table",
+        "ts": "1468189607.000189"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "It's not done",
+        "ts": "1468189609.000190"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "ugh thats so many",
+        "ts": "1468189619.000191"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "and 15 per table doesnt make sence sometimes",
+        "ts": "1468189625.000192"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "15 ??",
+        "ts": "1468189630.000193"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "15 semesters?",
+        "ts": "1468189639.000194"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "15 teachers, how many students do we need to make to match all those",
+        "ts": "1468189651.000195"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "i was thinking like 7 students \/ class honestly",
+        "ts": "1468189664.000196"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "7-8",
+        "ts": "1468189666.000197"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "with a ta",
+        "ts": "1468189669.000198"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "you are right it doesnt make sense to have 15 in everything",
+        "ts": "1468189737.000199"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "im doing groups now",
+        "ts": "1468189955.000200"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "i would start by shoving students into courses first",
+        "ts": "1468189976.000201"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "i dont think youll be able to make groups unless they are in the same course",
+        "ts": "1468189987.000202"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "theres a few courses already",
+        "ts": "1468189994.000203"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "nvm, it looks like it will, but just be sure to add those students to the same course after",
+        "ts": "1468190044.000204"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "ill add them to courses first like you suggested. how many should i put per course",
+        "ts": "1468190094.000205"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "i would say 8-9",
+        "ts": "1468190110.000206"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "just remember",
+        "ts": "1468190112.000207"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "some students are ta's",
+        "ts": "1468190120.000208"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "those students should not be enroled in a class they are taing",
+        "ts": "1468190130.000209"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "ta-ing",
+        "ts": "1468190133.000210"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "think 5 courses is enoug?",
+        "ts": "1468190427.000211"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Some courses shouldnt have groups",
+        "ts": "1468190447.000212"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "maybe the german course i put in",
+        "ts": "1468190456.000213"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "is the course id for the tas representing the course they are ta-ing or the course they are enrolled in",
+        "ts": "1468190481.000214"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "there is an enrolled table",
+        "ts": "1468190503.000215"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "so",
+        "ts": "1468190515.000216"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "the course id in the ta table would the the course they are ta-ing",
+        "ts": "1468190526.000217"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "if it was in the enrolled table it means they are enrolled in it",
+        "ts": "1468190535.000218"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "cool thx",
+        "ts": "1468190542.000219"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "why do we have a grade column in enrolled? wouldnt the grade only be registered once the course is over?",
+        "ts": "1468190731.000220"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "should i inpit random grades?",
+        "ts": "1468190743.000221"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "just put a '-' symbol for now",
+        "ts": "1468190765.000222"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "when the class is over they get a grade",
+        "ts": "1468190771.000223"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "should the link of downloads between student and file",
+        "ts": "1468190838.000224"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "be user instead of student",
+        "ts": "1468190844.000225"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "cause any can download no?",
+        "ts": "1468190851.000226"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "hmm",
+        "ts": "1468190866.000227"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "that makes sense",
+        "ts": "1468190937.000228"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "current version is redundant",
+        "ts": "1468190942.000229"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "not really",
+        "ts": "1468190951.000230"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "we can rollback",
+        "ts": "1468190956.000231"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "so this keeps track of which files uploaded are the current versions",
+        "ts": "1468190970.000232"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i guess",
+        "ts": "1468190989.000233"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "so for assingment A in the project section this is the current file for this group",
+        "ts": "1468191004.000234"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "is it correct that the enrolled table does not have a primary key?",
+        "ts": "1468191006.000235"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "yeah its a weak entity",
+        "ts": "1468191012.000236"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Groups is still empty",
+        "ts": "1468191056.000237"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "do you need assignment number and type in current version tho",
+        "ts": "1468191128.000238"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "hmm",
+        "ts": "1468191153.000239"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i guess",
+        "ts": "1468191155.000240"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "yeah i would think so",
+        "ts": "1468191198.000241"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "an assingment can have multiple uploads, but only 1 current version",
+        "ts": "1468191220.000242"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "yeah",
+        "ts": "1468191307.000243"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "theres 3 students per course right now. we need to add more students if you want more",
+        "ts": "1468191448.000244"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1MGNL4KU|demo> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/demo\/F1QCDRG0L\/query.png|query.png> and commented: Check out that query",
+        "file": {
+            "id": "F1QCDRG0L",
+            "created": 1468191777,
+            "timestamp": 1468191777,
+            "name": "query.png",
+            "title": "query.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U1MGNL4KU",
+            "editable": false,
+            "size": 15850,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1QCDRG0L\/query.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1QCDRG0L\/download\/query.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1QCDRG0L-1664e898ee\/query_64.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1QCDRG0L-1664e898ee\/query_80.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1QCDRG0L-1664e898ee\/query_360.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_360_w": 360,
+            "thumb_360_h": 145,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1QCDRG0L-1664e898ee\/query_480.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_480_w": 480,
+            "thumb_480_h": 193,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1QCDRG0L-1664e898ee\/query_160.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1QCDRG0L-1664e898ee\/query_720.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_720_w": 720,
+            "thumb_720_h": 290,
+            "image_exif_rotation": 1,
+            "original_w": 803,
+            "original_h": 323,
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/demo\/F1QCDRG0L\/query.png",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F1QCDRG0L-1f80f3828d",
+            "channels": [
+                "C1MGNL6R0"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc1QCDRHMJ",
+                "created": 1468191777,
+                "timestamp": 1468191777,
+                "user": "U1MGNL4KU",
+                "is_intro": true,
+                "comment": "Check out that query",
+                "channel": ""
+            }
+        },
+        "user": "U1MGNL4KU",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1MGNL4KU|demo>",
+        "bot_id": null,
+        "ts": "1468191779.000245"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "lol",
+        "ts": "1468191808.000246"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "too complicated?",
+        "ts": "1468191859.000247"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "wish we could combine user\/student",
+        "ts": "1468191871.000248"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "not really",
+        "ts": "1468191871.000249"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "and just have a 1 field",
+        "ts": "1468191881.000250"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "yeah well its not complicated, just lots of joins",
+        "ts": "1468191895.000251"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "well we want teachers and students to inherit from user :confused:",
+        "ts": "1468191901.000252"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i know",
+        "ts": "1468191911.000253"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "mean like teachers\/students\/tas all in the same table lol",
+        "ts": "1468191931.000254"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "and besides once we get scripts going its just one function call",
+        "ts": "1468191950.000255"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "sort of",
+        "ts": "1468191957.000256"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "we write the queries once",
+        "ts": "1468191963.000257"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "yeah i know",
+        "ts": "1468191968.000258"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "I just realised we never bothered putting in a course name lol",
+        "ts": "1468192491.000259"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Do you think its important?",
+        "ts": "1468192504.000260"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "well what are we going to display in the sites ui?",
+        "ts": "1468192528.000261"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "should we make a weak entity for course name and course code?",
+        "ts": "1468192618.000262"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "otherwise we could have duplicate data in teh courses table",
+        "ts": "1468192635.000263"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "in a real setting, when there are multiple sections of the same course",
+        "ts": "1468192652.000264"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "ah nvm thats dumb",
+        "ts": "1468192669.000265"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "ill add that field in courses",
+        "ts": "1468192675.000266"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "i was searching about some stuff online and felt to share this with you guys <http:\/\/stackoverflow.com\/questions\/333620\/best-practice-for-designing-user-roles-and-permission-system>",
+        "attachments": [
+            {
+                "title": "Best Practice for Designing User Roles and Permission System?",
+                "title_link": "http:\/\/stackoverflow.com\/questions\/333620\/best-practice-for-designing-user-roles-and-permission-system",
+                "text": "I need to add user roles and permission system into my web application built using PHP\/MySQL. I want to have this functionality: One root user can create sub-roots, groups, rules and normal user...",
+                "fallback": "Best Practice for Designing User Roles and Permission System?",
+                "thumb_url": "http:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/apple-touch-icon@2.png?v=73d79a89bded&a",
+                "from_url": "http:\/\/stackoverflow.com\/questions\/333620\/best-practice-for-designing-user-roles-and-permission-system",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "http:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/favicon.ico?v=4f32ecc8f43d",
+                "service_name": "stackoverflow.com",
+                "id": 1
+            }
+        ],
+        "ts": "1468192726.000267"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "<@U1MGNL4KU> yea i think that's it",
+        "ts": "1468192774.000269"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "there is a problem when making groups. i cannot insert more than 1 person per group id",
+        "ts": "1468192953.000270"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "so permission table?",
+        "ts": "1468192961.000271"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "show me your insert statement",
+        "ts": "1468192973.000272"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1PBBB3J7|jordan_orsini> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/jordan_orsini\/F1QB644BD\/slack_for_ios_upload.jpg|Slack for iOS Upload>",
+        "file": {
+            "id": "F1QB644BD",
+            "created": 1468193016,
+            "timestamp": 1468193016,
+            "name": "Slack for iOS Upload.jpg",
+            "title": "Slack for iOS Upload",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U1PBBB3J7",
+            "editable": false,
+            "size": 2232617,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1QB644BD\/slack_for_ios_upload.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1QB644BD\/download\/slack_for_ios_upload.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1QB644BD-a30b24a222\/slack_for_ios_upload_64.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1QB644BD-a30b24a222\/slack_for_ios_upload_80.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1QB644BD-a30b24a222\/slack_for_ios_upload_360.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_360_w": 360,
+            "thumb_360_h": 270,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1QB644BD-a30b24a222\/slack_for_ios_upload_480.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_480_w": 480,
+            "thumb_480_h": 360,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1QB644BD-a30b24a222\/slack_for_ios_upload_160.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1QB644BD-a30b24a222\/slack_for_ios_upload_720.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_720_w": 720,
+            "thumb_720_h": 540,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1QB644BD-a30b24a222\/slack_for_ios_upload_960.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_960_w": 960,
+            "thumb_960_h": 720,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1QB644BD-a30b24a222\/slack_for_ios_upload_1024.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 768,
+            "image_exif_rotation": 1,
+            "original_w": 3264,
+            "original_h": 2448,
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/jordan_orsini\/F1QB644BD\/slack_for_ios_upload.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F1QB644BD-c941b074cb",
+            "channels": [
+                "C1MGNL6R0"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U1PBBB3J7",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1PBBB3J7|jordan_orsini>",
+        "bot_id": null,
+        "ts": "1468193020.000273"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "i believe its because group id is a promary key",
+        "ts": "1468193063.000274"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "why does group have student id",
+        "ts": "1468193081.000275"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "its one to many",
+        "ts": "1468193094.000276"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "we need a relationship table",
+        "ts": "1468193104.000277"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "no?",
+        "ts": "1468193107.000278"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "oh lol",
+        "ts": "1468193117.000279"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "that was a mistake i think",
+        "ts": "1468193155.000280"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "the id was supposed to be for the group leader",
+        "ts": "1468193162.000281"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "hmm",
+        "ts": "1468193167.000282"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "need to modify things i thinki",
+        "ts": "1468193172.000283"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "you have another table for group leader",
+        "ts": "1468193179.000284"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "yeah,",
+        "ts": "1468193190.000285"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "that should be more of a  isIngroup",
+        "ts": "1468193203.000286"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i still think there should just be a members table, and like a flag for is leader",
+        "ts": "1468193205.000287"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "is_in_group",
+        "ts": "1468193207.000288"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "or members",
+        "ts": "1468193209.000289"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "if we turn group leader into members it works out fine",
+        "ts": "1468193241.000290"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "have it just be a link between student and group, and be like is leader 1 or 0",
+        "ts": "1468193242.000291"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "i suppose",
+        "ts": "1468193257.000292"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "or add the leader id to the group table",
+        "ts": "1468193259.000293"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "how you intended i guess",
+        "ts": "1468193269.000294"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "yeah within group, make the student_id the group leader",
+        "ts": "1468193277.000295"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "then leader table is members",
+        "ts": "1468193296.000296"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "and ill just change group leader to group_member",
+        "ts": "1468193297.000297"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "ok",
+        "ts": "1468193309.000298"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "ok its done",
+        "ts": "1468193463.000299"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "so do you know how to work it <@U1PBBB3J7> ?",
+        "ts": "1468193475.000300"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "<@U1PBB7C4T> are you updating the diagram to reflect the changes?",
+        "ts": "1468193745.000301"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "yea",
+        "ts": "1468193756.000302"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "are you deleting the Groups table?",
+        "ts": "1468193907.000303"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "no",
+        "ts": "1468193912.000304"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "can just change it no?",
+        "ts": "1468193926.000305"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "thats basically group id, course id, and group leader's student id",
+        "ts": "1468193927.000306"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "i changed group_leader to Group_member",
+        "ts": "1468193939.000307"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "for group 1 members are a b c",
+        "ts": "1468193954.000308"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "i would include the group leader as well within group members",
+        "ts": "1468193984.000309"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "ok so only group leaders are in Groups",
+        "ts": "1468193986.000310"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "yeah",
+        "ts": "1468193990.000311"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "hmm",
+        "ts": "1468193998.000312"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "ok thanks ill fill em up",
+        "ts": "1468194001.000313"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "weird way to do it though",
+        "ts": "1468194003.000314"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "i think maybe the flag method is better",
+        "ts": "1468194014.000315"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "so groups will be a group id and a course id",
+        "ts": "1468194027.000316"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "group leader has special permissins tho",
+        "ts": "1468194037.000317"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "i guess",
+        "ts": "1468194041.000318"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "will it work woth the flag that way",
+        "ts": "1468194048.000319"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "yeah i think it might make things easier with the flag",
+        "ts": "1468194065.000320"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "hold on dont make any changes ill try to update it",
+        "ts": "1468194077.000321"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "but then why dont we have flags for isteacher or isTA",
+        "ts": "1468194130.000322"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i feel like maybe we should",
+        "ts": "1468194149.000323"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "and just be like",
+        "ts": "1468194153.000324"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "scre the ISA",
+        "ts": "1468194161.000325"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "because ta's can be students",
+        "ts": "1468194162.000326"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "i dont know, i think if we scrap isa we run to other problems",
+        "ts": "1468194176.000327"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "and do like how she said you just manage this in the actual application through code",
+        "ts": "1468194181.000328"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "i think the ta thing should stay as it is",
+        "ts": "1468194211.000329"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "i cant drop the student_id columb from Groups",
+        "ts": "1468194697.000330"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "column",
+        "ts": "1468194702.000331"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "im trying \nALTER TABLE Groups DROP FOREIGN KEY student_id;",
+        "ts": "1468194725.000332"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "shouldnt you just drop column?",
+        "ts": "1468194779.000333"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "ALTER TABLE Groups DROP COLUMN student_id;",
+        "ts": "1468194800.000334"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "?",
+        "ts": "1468194801.000335"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "its a foreign key, so we have to remove the link first",
+        "ts": "1468194804.000336"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "hmm",
+        "ts": "1468194845.000337"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "whats it saying?",
+        "ts": "1468194850.000338"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "is the table empty? idk if thats a requirement",
+        "ts": "1468194899.000339"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "ok i did it",
+        "ts": "1468194911.000340"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "you have to remove the constraint first",
+        "ts": "1468194918.000341"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "which you find by calling SHOW CREATE TABLE Groups",
+        "ts": "1468194932.000342"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "then there's this special code",
+        "ts": "1468194938.000343"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "so its not the table name, but the name of the constraint which sql makes",
+        "ts": "1468194950.000344"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "ok",
+        "ts": "1468194957.000345"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "small issue",
+        "ts": "1468195202.000346"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1PBBB3J7|jordan_orsini> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/jordan_orsini\/F1QD61S74\/slack_for_ios_upload.jpg|Slack for iOS Upload>",
+        "file": {
+            "id": "F1QD61S74",
+            "created": 1468195199,
+            "timestamp": 1468195199,
+            "name": "Slack for iOS Upload.jpg",
+            "title": "Slack for iOS Upload",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U1PBBB3J7",
+            "editable": false,
+            "size": 2014167,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1QD61S74\/slack_for_ios_upload.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1QD61S74\/download\/slack_for_ios_upload.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1QD61S74-eadbcba637\/slack_for_ios_upload_64.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1QD61S74-eadbcba637\/slack_for_ios_upload_80.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1QD61S74-eadbcba637\/slack_for_ios_upload_360.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_360_w": 360,
+            "thumb_360_h": 270,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1QD61S74-eadbcba637\/slack_for_ios_upload_480.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_480_w": 480,
+            "thumb_480_h": 360,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1QD61S74-eadbcba637\/slack_for_ios_upload_160.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1QD61S74-eadbcba637\/slack_for_ios_upload_720.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_720_w": 720,
+            "thumb_720_h": 540,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1QD61S74-eadbcba637\/slack_for_ios_upload_960.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_960_w": 960,
+            "thumb_960_h": 720,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1QD61S74-eadbcba637\/slack_for_ios_upload_1024.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 768,
+            "image_exif_rotation": 1,
+            "original_w": 3264,
+            "original_h": 2448,
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/jordan_orsini\/F1QD61S74\/slack_for_ios_upload.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F1QD61S74-ba5907255d",
+            "channels": [
+                "C1MGNL6R0"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U1PBBB3J7",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1PBBB3J7|jordan_orsini>",
+        "bot_id": null,
+        "ts": "1468195204.000347"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "does the group exist?",
+        "ts": "1468195266.000348"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "i deleted the group",
+        "ts": "1468195272.000349"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "sorry",
+        "ts": "1468195273.000350"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "i think there is a problem with how the table handles deleted entries for Groups cause when i let it auto increment it started at 30 and continued so i manually inpit each group id. but if you create a new group withoit entering a group id it does not make it group 10 it makes it group 30-something",
+        "ts": "1468196080.000351"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "thats how auto-increment works",
+        "ts": "1468196124.000352"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "You shouldn't be inputting for group is",
+        "ts": "1468196130.000353"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Id ",
+        "ts": "1468196134.000354"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "i know but if i dont the group ids started at 30 instead if at 1",
+        "ts": "1468196177.000355"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "you can reset a tables auto icrement if you wanto restart",
+        "ts": "1468196192.000356"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "whas wrong with them being at 30 tho",
+        "ts": "1468196213.000357"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "nothing i suppose",
+        "ts": "1468196271.000358"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "for files, is the student id the student downloading or the student uploading",
+        "ts": "1468196297.000359"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Uploading ",
+        "ts": "1468196325.000360"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "There's a separate downloads table",
+        "ts": "1468196410.000361"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "what do i put for file checksum",
+        "ts": "1468196603.000362"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "is it binary",
+        "ts": "1468196608.000363"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "no idea",
+        "ts": "1468196679.000364"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "was course_id always part of group member?",
+        "ts": "1468196766.000365"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "we have student + course for enrolled",
+        "ts": "1468196816.000366"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "and group has group + course",
+        "ts": "1468196826.000367"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "then members has student + group.... + course?",
+        "ts": "1468196844.000368"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "do we even need enrolled then?",
+        "ts": "1468196855.000369"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "we need to change the input for file_size. it's at decimal (3,3). the first 3 means total digits. the second 3 is digits after the decimal point. so we can only have files with <http:\/\/0.XXX|0.XXX> file size",
+        "ts": "1468197185.000370"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "im not sure how to alter it",
+        "ts": "1468197197.000371"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "to like decimal (3,2) or (4,2)",
+        "ts": "1468197232.000372"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "I think we need enrolled ",
+        "ts": "1468197659.000373"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Not every class has a group ",
+        "ts": "1468197665.000374"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "is class supposed to be in the members table then?",
+        "ts": "1468197698.000375"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "I suppose we don't need it",
+        "ts": "1468197733.000376"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Since group is linked to class ",
+        "ts": "1468197746.000377"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "So yeah we can get rid of that ",
+        "ts": "1468197751.000378"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "yeah i was saying user and group are already linked to class on their own",
+        "ts": "1468197779.000379"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "idk",
+        "ts": "1468197789.000380"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "i have 9 groups. some of 2 members some of only 1",
+        "ts": "1468197826.000381"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "you should just have some empty groups lol",
+        "ts": "1468197843.000382"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "and have like 2 or 3 full ones maybe",
+        "ts": "1468197853.000383"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "but whatever works",
+        "ts": "1468197871.000384"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "im working on putting stuff in all tables still. there are 6 files now",
+        "ts": "1468197915.000385"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "i'm back , is there table i can add stuff in ?",
+        "ts": "1468197961.000386"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "version number and downloads are still empty",
+        "ts": "1468198051.000387"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "ill work on downloads",
+        "ts": "1468198057.000388"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "ok",
+        "ts": "1468198078.000389"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "im working on Downloads",
+        "ts": "1468198290.000390"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "so am i lol",
+        "ts": "1468198954.000391"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "file size is in mb",
+        "ts": "1468198972.000392"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "ill change it to 10,3",
+        "ts": "1468198976.000393"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "no the forst number is total digits",
+        "ts": "1468199025.000394"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "i know",
+        "ts": "1468199036.000395"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "will it drop the 0000?",
+        "ts": "1468199041.000396"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "so lets say its 500.00 mb",
+        "ts": "1468199054.000397"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "sorry 10,2*",
+        "ts": "1468199060.000398"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "will it be 00000500.00?",
+        "ts": "1468199069.000399"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "or just 500.00",
+        "ts": "1468199072.000400"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "maybe 10 is too much lol",
+        "ts": "1468199079.000401"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "i dont knoe",
+        "ts": "1468199081.000402"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "7,2",
+        "ts": "1468199086.000403"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "i have entries already in the table",
+        "ts": "1468199110.000404"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "ill update them",
+        "ts": "1468199117.000405"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "because it doesnt really make sence for them all to be decimals, i made a mistake",
+        "ts": "1468199130.000406"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "eh, looks like it kinda fixed iteself",
+        "ts": "1468199153.000407"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "perfect lol",
+        "ts": "1468199207.000408"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "yeah thats pretty great lol",
+        "ts": "1468199312.000409"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "does any one updating the downloads?",
+        "ts": "1468199395.000410"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "is*",
+        "ts": "1468199434.000411"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Hey, if you want to fill up the downloads table quickly,",
+        "ts": "1468199754.000412"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "just download the same file on teh samew day from different ip",
+        "ts": "1468199766.000413"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "and that ipv6 shit is long long holy crap",
+        "ts": "1468199776.000414"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "i am working on downloads, you have to make sure only a group member downloads the same groups files",
+        "ts": "1468199870.000415"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "ok <@U1PBBB3J7>  i'll leave it for you",
+        "ts": "1468199905.000416"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "ah right",
+        "ts": "1468199932.000417"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "i guess we will code the restriction into the site?",
+        "ts": "1468199953.000418"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "yeah theres no way to do it in sql i think",
+        "ts": "1468200046.000419"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "its more of just a data bank",
+        "ts": "1468200057.000420"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "maybe",
+        "ts": "1468200065.000421"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Hi Hussain,\n\nI think you should have enough data in your database. I would take the number of groups in your class as a sample. You should always test marginal values or any condition that might need to be considered.\n\nI hope my answer was helpful to you.\n\nBest regards \nParisa",
+        "ts": "1468200095.000422"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "i mean, unless you want to use a condition any time you insert",
+        "ts": "1468200098.000423"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "this is what the TA says about the data entries",
+        "ts": "1468200110.000424"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "ill do current_version",
+        "ts": "1468200308.000425"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "was anout to start that",
+        "ts": "1468200364.000426"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "alright go for it then",
+        "ts": "1468200373.000427"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "i inserted 1 entry so far",
+        "ts": "1468200380.000428"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "kk",
+        "ts": "1468200383.000429"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Let me know when you're done, it think its the last table",
+        "ts": "1468200481.000430"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "after that we do the queries",
+        "ts": "1468200484.000431"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "there 6 that we need, should be easy",
+        "ts": "1468200494.000432"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "done",
+        "ts": "1468200611.000433"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "should we add more users in order to have larger groups?",
+        "ts": "1468200625.000434"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "How many more are you thinkong?",
+        "ts": "1468200718.000435"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "1 more \/ group?",
+        "ts": "1468200722.000436"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "are we deleting all this information afterward?",
+        "ts": "1468200761.000437"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "3 more ? make it 20 total",
+        "ts": "1468200803.000438"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "i mean 3 peple \/ group",
+        "ts": "1468201005.000439"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "we have 2 now dont we?",
+        "ts": "1468201010.000440"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "i dont think we need to",
+        "ts": "1468201023.000441"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "maybe eventually",
+        "ts": "1468201031.000442"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "ok",
+        "ts": "1468201037.000443"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "we have 6 2-persion groups and 3 1-person groups",
+        "ts": "1468201060.000444"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "i think its fine honeslty for now",
+        "ts": "1468201097.000445"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "lets work on the queries and compare them",
+        "ts": "1468201111.000446"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "after",
+        "ts": "1468201113.000447"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "sounds good",
+        "ts": "1468201122.000448"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1MGNL4KU|demo> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/demo\/F1QBL0K8B\/slack_for_ios_upload.jpg|Slack for iOS Upload>",
+        "file": {
+            "id": "F1QBL0K8B",
+            "created": 1468201158,
+            "timestamp": 1468201158,
+            "name": "Slack for iOS Upload.jpg",
+            "title": "Slack for iOS Upload",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U1MGNL4KU",
+            "editable": false,
+            "size": 1884644,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1QBL0K8B\/slack_for_ios_upload.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1QBL0K8B\/download\/slack_for_ios_upload.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1QBL0K8B-1fb110833a\/slack_for_ios_upload_64.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1QBL0K8B-1fb110833a\/slack_for_ios_upload_80.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1QBL0K8B-1fb110833a\/slack_for_ios_upload_360.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_360_w": 270,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1QBL0K8B-1fb110833a\/slack_for_ios_upload_480.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_480_w": 360,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1QBL0K8B-1fb110833a\/slack_for_ios_upload_160.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1QBL0K8B-1fb110833a\/slack_for_ios_upload_720.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_720_w": 540,
+            "thumb_720_h": 720,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1QBL0K8B-1fb110833a\/slack_for_ios_upload_960.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_960_w": 720,
+            "thumb_960_h": 960,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1QBL0K8B-1fb110833a\/slack_for_ios_upload_1024.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_1024_w": 768,
+            "thumb_1024_h": 1024,
+            "image_exif_rotation": 1,
+            "original_w": 2448,
+            "original_h": 3264,
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/demo\/F1QBL0K8B\/slack_for_ios_upload.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F1QBL0K8B-e36d622ce9",
+            "channels": [
+                "C1MGNL6R0"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U1MGNL4KU",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1MGNL4KU|demo>",
+        "bot_id": null,
+        "ts": "1468201164.000449"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "These are the queries we need to show ",
+        "ts": "1468201170.000450"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "save the query you used to get the data just in case",
+        "ts": "1468201210.000451"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "show tables? do they want like describe table or whatever?",
+        "ts": "1468201223.000452"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "or just a list",
+        "ts": "1468201228.000453"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "i think select * From table",
+        "ts": "1468201242.000454"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "for all tables;",
+        "ts": "1468201244.000455"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "hmm ok",
+        "ts": "1468201254.000456"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "first one just needs one person to do it really",
+        "ts": "1468201295.000457"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "everyone write to a notepad document and share it here ifter",
+        "ts": "1468201310.000458"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "ill do it",
+        "ts": "1468201373.000459"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "first one not SHOW TABLES ?",
+        "ts": "1468201384.000460"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "well we can include that too",
+        "ts": "1468201404.000461"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "dont worry about 1 though ill do it now",
+        "ts": "1468201409.000462"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "ok",
+        "ts": "1468201417.000463"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "i think its just show tables; aswell",
+        "ts": "1468201423.000464"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "but if you read further in the document we have to print out all of our tables on top of the queries and describe them",
+        "ts": "1468201460.000465"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "it asks for all the tables, yeah",
+        "ts": "1468201503.000466"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "all the data in them i mean*",
+        "ts": "1468201508.000467"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "yes",
+        "ts": "1468201515.000468"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "so the i suppose 1 is just SHOW TABLES",
+        "ts": "1468201525.000469"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "and then we also have to include all the entries afterwards",
+        "ts": "1468201534.000470"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "i agree",
+        "ts": "1468201541.000471"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "ok",
+        "ts": "1468201543.000472"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "yes",
+        "ts": "1468201545.000473"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Ok who wants to do that?",
+        "ts": "1468201561.000474"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "ill start 3 right now",
+        "ts": "1468201576.000475"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "second one is SELECT * FROM Group_member;",
+        "ts": "1468201608.000476"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "nvm that's 3",
+        "ts": "1468201656.000477"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "#2 is SELECT * from Groups;",
+        "ts": "1468201833.000478"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "#5 is select* from Files where student_id = 10049 and file_id =1;",
+        "ts": "1468201869.000479"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "SELECT first_name AS 'First Name', last_name AS 'Last Name', course_code AS 'Course', section AS 'Section #' \nFROM User U, Courses C, Groups G, Group_member M, Student S\nWHERE G.group_id = 2 AND G.group_id = M.group_id and C.course_id = G.course_id and M.student_id = S.student_id and U.user_id = S.user_id;",
+        "ts": "1468202350.000480"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "for 3",
+        "ts": "1468202351.000481"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "i guess",
+        "ts": "1468202353.000482"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "what do they mean by history??",
+        "ts": "1468202427.000483"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "for 4",
+        "ts": "1468202437.000484"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "file version",
+        "ts": "1468202480.000485"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "so like has 2 versions?",
+        "ts": "1468202524.000486"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "ill do current version, and how many versions",
+        "ts": "1468202539.000487"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "man",
+        "ts": "1468204671.000488"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "im having a hard time finding a way to do this",
+        "ts": "1468204676.000489"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "i want basically submission A: 6 uploads",
+        "ts": "1468204686.000490"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "or whatever",
+        "ts": "1468204687.000491"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "hmmmm",
+        "ts": "1468204758.000492"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "we can reformat teh db",
+        "ts": "1468204966.000493"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "i supposed",
+        "ts": "1468204968.000494"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "im not sure either, is anyone else still working on this?",
+        "ts": "1468205187.000495"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "im assuming we have to print all the tables and queries and submit it in the lecture tomorrow?",
+        "ts": "1468205213.000496"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "yeah",
+        "ts": "1468205237.000497"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "im going to get here at 8:30 or 10:15",
+        "ts": "1468205247.000498"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "one of the two labs",
+        "ts": "1468205250.000499"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "ill ask the ta for help",
+        "ts": "1468205256.000500"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "do you know how to print at school? i've never done it",
+        "ts": "1468205298.000501"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "notepad",
+        "ts": "1468205317.000502"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "then just print it",
+        "ts": "1468205320.000503"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "no i mean printing at school. dont you need a print card or something",
+        "ts": "1468205362.000504"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "youve never printed at shcool?",
+        "ts": "1468205407.000505"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "ill do it",
+        "ts": "1468205408.000506"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "should we continue tomorrow then",
+        "ts": "1468205463.000507"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "i suppose",
+        "ts": "1468205473.000508"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "ill be at the 10:15 lab",
+        "ts": "1468205476.000509"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "what are we missing?",
+        "ts": "1468205497.000510"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "SELECT submission_number, submission_type, COUNT(file_id) FROM Files WHERE group_id =1 GROUP BY submission_number, submission_type;",
+        "ts": "1468218680.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "# 3",
+        "ts": "1468218683.000003"
+    }
+]

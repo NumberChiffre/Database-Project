@@ -1,0 +1,164 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1MGW16JZ|ti_liu> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F1WURN6KB\/assignment_3_comp353.docx|Assignment 3_COMP353.docx> and commented: I double checked Q1, will study again once I wake up",
+        "file": {
+            "id": "F1WURN6KB",
+            "created": 1470042250,
+            "timestamp": 1470042250,
+            "name": "Assignment 3_COMP353.docx",
+            "title": "Assignment 3_COMP353.docx",
+            "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "filetype": "docx",
+            "pretty_type": "Word Document",
+            "user": "U1MGW16JZ",
+            "editable": false,
+            "size": 30061,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1WURN6KB\/assignment_3_comp353.docx?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1WURN6KB\/download\/assignment_3_comp353.docx?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F1WURN6KB\/assignment_3_comp353.docx",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F1WURN6KB-ebd1f5d0ef",
+            "channels": [
+                "C1TL1EPGQ"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc1WULSEAZ",
+                "created": 1470042250,
+                "timestamp": 1470042250,
+                "user": "U1MGW16JZ",
+                "is_intro": true,
+                "comment": "I double checked Q1, will study again once I wake up",
+                "channel": ""
+            }
+        },
+        "user": "U1MGW16JZ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1MGW16JZ|ti_liu>",
+        "bot_id": null,
+        "ts": "1470042251.000008"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1MGW16JZ|ti_liu> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F1X6UDQKH\/assignment_3_comp353.docx|Assignment 3_COMP353.docx> and commented: final",
+        "file": {
+            "id": "F1X6UDQKH",
+            "created": 1470088602,
+            "timestamp": 1470088602,
+            "name": "Assignment 3_COMP353.docx",
+            "title": "Assignment 3_COMP353.docx",
+            "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "filetype": "docx",
+            "pretty_type": "Word Document",
+            "user": "U1MGW16JZ",
+            "editable": false,
+            "size": 24160,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1X6UDQKH\/assignment_3_comp353.docx?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1X6UDQKH\/download\/assignment_3_comp353.docx?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F1X6UDQKH\/assignment_3_comp353.docx",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F1X6UDQKH-58a040cbbc",
+            "channels": [
+                "C1TL1EPGQ"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc1X6KQKGE",
+                "created": 1470088602,
+                "timestamp": 1470088602,
+                "user": "U1MGW16JZ",
+                "is_intro": true,
+                "comment": "final",
+                "channel": ""
+            }
+        },
+        "user": "U1MGW16JZ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1MGW16JZ|ti_liu>",
+        "bot_id": null,
+        "ts": "1470088603.000002"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1MGW16JZ|ti_liu> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F1X6M050Q\/assignment_3_comp353.pdf|Assignment 3_COMP353.pdf> and commented: final",
+        "file": {
+            "id": "F1X6M050Q",
+            "created": 1470088612,
+            "timestamp": 1470088612,
+            "name": "Assignment 3_COMP353.pdf",
+            "title": "Assignment 3_COMP353.pdf",
+            "mimetype": "application\/pdf",
+            "filetype": "pdf",
+            "pretty_type": "PDF",
+            "user": "U1MGW16JZ",
+            "editable": false,
+            "size": 356207,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1X6M050Q\/assignment_3_comp353.pdf?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1X6M050Q\/download\/assignment_3_comp353.pdf?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F1X6M050Q\/assignment_3_comp353.pdf",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F1X6M050Q-5cc3265710",
+            "channels": [
+                "C1TL1EPGQ"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc1X6UES2K",
+                "created": 1470088612,
+                "timestamp": 1470088612,
+                "user": "U1MGW16JZ",
+                "is_intro": true,
+                "comment": "final",
+                "channel": ""
+            }
+        },
+        "user": "U1MGW16JZ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1MGW16JZ|ti_liu>",
+        "bot_id": null,
+        "ts": "1470088612.000003"
+    }
+]

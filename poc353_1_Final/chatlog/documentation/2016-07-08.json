@@ -1,0 +1,114 @@
+[
+    {
+        "user": "U1MGW16JZ",
+        "inviter": "U1MGNL4KU",
+        "text": "<@U1MGW16JZ|ti_liu> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468002046.000002"
+    },
+    {
+        "user": "U1MGW6FUM",
+        "inviter": "U1MGNL4KU",
+        "text": "<@U1MGW6FUM|hussainq> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468002046.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "We reviewed the entire table and made changes. were going to upload a detailed explanation for the relationships between entities soon",
+        "ts": "1468015555.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "So check it over, give us feedback",
+        "ts": "1468015569.000003"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1MGNL4KU|demo> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/demo\/F1Q5SFTB6\/database_schema_comp353.vsdx|database_schema_comp353.vsdx> and commented: Its made with visio, you can download it for free from concorida: <https:\/\/e5.onthehub.com\/WebStore\/ProductsByMajorVersionList.aspx?cmi_cs=1&amp;cmi_mnuMain=bdba23cf-e05e-e011-971f-0030487d8897&amp;ws=8f012e89-3370-e011-971f-0030487d8897&amp;vsro=8>",
+        "file": {
+            "id": "F1Q5SFTB6",
+            "created": 1468015662,
+            "timestamp": 1468015662,
+            "name": "database_schema_comp353.vsdx",
+            "title": "database_schema_comp353.vsdx",
+            "mimetype": "application\/zip",
+            "filetype": "zip",
+            "pretty_type": "Zip",
+            "user": "U1MGNL4KU",
+            "editable": false,
+            "size": 72842,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1Q5SFTB6\/database_schema_comp353.vsdx?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1Q5SFTB6\/download\/database_schema_comp353.vsdx?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/demo\/F1Q5SFTB6\/database_schema_comp353.vsdx",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F1Q5SFTB6-cd9d1b0f8a",
+            "channels": [
+                "C1MGL6NJY"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc1Q630XQX",
+                "created": 1468015662,
+                "timestamp": 1468015662,
+                "user": "U1MGNL4KU",
+                "is_intro": true,
+                "comment": "Its made with visio, you can download it for free from concorida: <https:\/\/e5.onthehub.com\/WebStore\/ProductsByMajorVersionList.aspx?cmi_cs=1&amp;cmi_mnuMain=bdba23cf-e05e-e011-971f-0030487d8897&amp;ws=8f012e89-3370-e011-971f-0030487d8897&amp;vsro=8>",
+                "channel": ""
+            }
+        },
+        "user": "U1MGNL4KU",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1MGNL4KU|demo>",
+        "bot_id": null,
+        "ts": "1468015663.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "we are putting the table creation codes here: <https:\/\/docs.google.com\/document\/d\/1OjDD4apLSy-LexeJrSMC7ItJ6oOG2KGdNi-HJvncvIQ\/edit>",
+        "ts": "1468018573.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "we created the tables in mysql and added some values already",
+        "ts": "1468020884.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": ";0",
+        "ts": "1468020911.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Fill up the tables when you have time, the schema for insert is in the google doc",
+        "ts": "1468021021.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "this is like what we have at school, everything is set up you just need to have ur own account <https:\/\/www.pythonanywhere.com\/>",
+        "ts": "1468045284.000002"
+    }
+]

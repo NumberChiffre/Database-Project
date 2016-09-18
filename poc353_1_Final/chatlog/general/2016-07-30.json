@@ -1,0 +1,170 @@
+[
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "is anyone doing the assignment ?",
+        "ts": "1469883962.000055"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Q1 i have done it",
+        "ts": "1469883984.000056"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Don't worry about that assignment, I'll do it with Terrence ",
+        "ts": "1469905620.000057"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "I already finished the first question ",
+        "ts": "1469905725.000058"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Alright post it here whenever and well put it in ",
+        "ts": "1469908996.000059"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Ok I just need to type it then I'll post it here",
+        "ts": "1469909564.000060"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Just take a picture we can type it out ",
+        "ts": "1469910803.000061"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "either pic or text is fine, we are putting it together now",
+        "ts": "1469919131.000062"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "will post it in a minute",
+        "ts": "1469919222.000063"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "thanks",
+        "ts": "1469919237.000064"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1MGW6FUM|hussainq> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/hussainq\/F1WNWQD3K\/assignment_3_q1.docx|Assignment 3 Q1.docx> and commented: Q1",
+        "file": {
+            "id": "F1WNWQD3K",
+            "created": 1469920292,
+            "timestamp": 1469920292,
+            "name": "Assignment 3 Q1.docx",
+            "title": "Assignment 3 Q1.docx",
+            "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "filetype": "docx",
+            "pretty_type": "Word Document",
+            "user": "U1MGW6FUM",
+            "editable": false,
+            "size": 26181,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1WNWQD3K\/assignment_3_q1.docx?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1WNWQD3K\/download\/assignment_3_q1.docx?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/hussainq\/F1WNWQD3K\/assignment_3_q1.docx",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F1WNWQD3K-164a31aa10",
+            "channels": [
+                "C1MGNL6R0"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc1WNHL0DU",
+                "created": 1469920292,
+                "timestamp": 1469920292,
+                "user": "U1MGW6FUM",
+                "is_intro": true,
+                "comment": "Q1",
+                "channel": ""
+            }
+        },
+        "user": "U1MGW6FUM",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1MGW6FUM|hussainq>",
+        "bot_id": null,
+        "ts": "1469920293.000065"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "i typed for you",
+        "ts": "1469920329.000066"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "it*",
+        "ts": "1469920333.000067"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "also i uploaded some stuff on the server for the admin panel , it has a small bug that making css and js not working",
+        "ts": "1469920405.000068"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "thanks",
+        "ts": "1469920417.000069"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "got it",
+        "ts": "1469920419.000070"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "No problem , have you done Q2 ?",
+        "ts": "1469920447.000071"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "doing it",
+        "ts": "1469920466.000072"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "okay",
+        "ts": "1469920501.000073"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "we havent read on TRC yet, so we've posted and combined on what we all have for Assignment 3 in the homework tab",
+        "ts": "1469924431.000074"
+    }
+]

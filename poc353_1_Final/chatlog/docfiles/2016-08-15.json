@@ -1,0 +1,420 @@
+[
+    {
+        "user": "U1MGNL4KU",
+        "text": "<@U1MGNL4KU|demo> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471301923.000002"
+    },
+    {
+        "user": "U1MGNL4KU",
+        "purpose": "ONLY FILES FOR THE DOC",
+        "text": "<@U1MGNL4KU|demo> set the channel purpose: ONLY FILES FOR THE DOC",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1471301923.000003"
+    },
+    {
+        "user": "U1MGW6FUM",
+        "inviter": "U1MGNL4KU",
+        "text": "<@U1MGW6FUM|hussainq> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471301923.000004"
+    },
+    {
+        "user": "U1PBB7C4T",
+        "inviter": "U1MGNL4KU",
+        "text": "<@U1PBB7C4T|shayne> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471301923.000005"
+    },
+    {
+        "user": "U1PBBB3J7",
+        "inviter": "U1MGNL4KU",
+        "text": "<@U1PBBB3J7|jordan_orsini> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471301923.000006"
+    },
+    {
+        "user": "U1MGW16JZ",
+        "inviter": "U1MGNL4KU",
+        "text": "<@U1MGW16JZ|ti_liu> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471301923.000007"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1MGNL4KU|demo> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/demo\/F21KES0SJ\/readme.txt|README.txt>",
+        "file": {
+            "id": "F21KES0SJ",
+            "created": 1471301942,
+            "timestamp": 1471301942,
+            "name": "README.txt",
+            "title": "README.txt",
+            "mimetype": "text\/plain",
+            "filetype": "text",
+            "pretty_type": "Plain Text",
+            "user": "U1MGNL4KU",
+            "editable": true,
+            "size": 1351,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F21KES0SJ\/readme.txt?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F21KES0SJ\/download\/readme.txt?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/demo\/F21KES0SJ\/readme.txt",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F21KES0SJ-4b5a51f337",
+            "edit_link": "https:\/\/compdatabaseproject.slack.com\/files\/demo\/F21KES0SJ\/readme.txt\/edit",
+            "preview": "\r\nREADME:\r\n\r\nTEAM MEMBERS: \r\n\r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><\/pre><\/div>\n<div><pre>README:<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<div><pre>TEAM MEMBERS: <\/pre><\/div>\n<div><pre><\/pre><\/div>\n<div><pre><\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 73,
+            "lines_more": 68,
+            "channels": [
+                "C21J19CRZ"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U1MGNL4KU",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1MGNL4KU|demo>",
+        "bot_id": null,
+        "ts": "1471301942.000008"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1MGW16JZ|ti_liu> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F21KYVB5F\/report.pdf|report.pdf> and commented: done",
+        "file": {
+            "id": "F21KYVB5F",
+            "created": 1471303513,
+            "timestamp": 1471303513,
+            "name": "report.pdf",
+            "title": "report.pdf",
+            "mimetype": "application\/pdf",
+            "filetype": "pdf",
+            "pretty_type": "PDF",
+            "user": "U1MGW16JZ",
+            "editable": false,
+            "size": 1493699,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F21KYVB5F\/report.pdf?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F21KYVB5F\/download\/report.pdf?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F21KYVB5F\/report.pdf",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F21KYVB5F-a54f9e371b",
+            "channels": [
+                "C21J19CRZ"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc21KYVC65",
+                "created": 1471303513,
+                "timestamp": 1471303513,
+                "user": "U1MGW16JZ",
+                "is_intro": true,
+                "comment": "done",
+                "channel": ""
+            }
+        },
+        "user": "U1MGW16JZ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1MGW16JZ|ti_liu>",
+        "bot_id": null,
+        "ts": "1471303514.000009"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1MGW16JZ|ti_liu> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F21JDCBRR\/report.pdf|report.pdf> and commented: final..",
+        "file": {
+            "id": "F21JDCBRR",
+            "created": 1471305129,
+            "timestamp": 1471305129,
+            "name": "report.pdf",
+            "title": "report.pdf",
+            "mimetype": "application\/pdf",
+            "filetype": "pdf",
+            "pretty_type": "PDF",
+            "user": "U1MGW16JZ",
+            "editable": false,
+            "size": 1472269,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F21JDCBRR\/report.pdf?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F21JDCBRR\/download\/report.pdf?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F21JDCBRR\/report.pdf",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F21JDCBRR-0aba83ab69",
+            "channels": [
+                "C21J19CRZ"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc21L0GW13",
+                "created": 1471305129,
+                "timestamp": 1471305129,
+                "user": "U1MGW16JZ",
+                "is_intro": true,
+                "comment": "final..",
+                "channel": ""
+            }
+        },
+        "user": "U1MGW16JZ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1MGW16JZ|ti_liu>",
+        "bot_id": null,
+        "ts": "1471305130.000028"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1MGW16JZ|ti_liu> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F21KQSCBW\/readme.txt|README.txt> and commented: with an installation guide..",
+        "file": {
+            "id": "F21KQSCBW",
+            "created": 1471305138,
+            "timestamp": 1471305138,
+            "name": "README.txt",
+            "title": "README.txt",
+            "mimetype": "text\/plain",
+            "filetype": "text",
+            "pretty_type": "Plain Text",
+            "user": "U1MGW16JZ",
+            "editable": true,
+            "size": 1685,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F21KQSCBW\/readme.txt?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F21KQSCBW\/download\/readme.txt?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F21KQSCBW\/readme.txt",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F21KQSCBW-6635d849d3",
+            "edit_link": "https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F21KQSCBW\/readme.txt\/edit",
+            "preview": "\r\nREADME:\r\n\r\nTEAM MEMBERS: \r\n\r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><\/pre><\/div>\n<div><pre>README:<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<div><pre>TEAM MEMBERS: <\/pre><\/div>\n<div><pre><\/pre><\/div>\n<div><pre><\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 83,
+            "lines_more": 78,
+            "channels": [
+                "C21J19CRZ"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc21KSUB5L",
+                "created": 1471305138,
+                "timestamp": 1471305138,
+                "user": "U1MGW16JZ",
+                "is_intro": true,
+                "comment": "with an installation guide..",
+                "channel": ""
+            }
+        },
+        "user": "U1MGW16JZ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1MGW16JZ|ti_liu>",
+        "bot_id": null,
+        "ts": "1471305139.000029"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1MGNL4KU|demo> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/demo\/F21LFDSJW\/sqlscripts.txt|SQLScripts.txt> and commented: The scripts for sql",
+        "file": {
+            "id": "F21LFDSJW",
+            "created": 1471306632,
+            "timestamp": 1471306632,
+            "name": "SQLScripts.txt",
+            "title": "SQLScripts.txt",
+            "mimetype": "text\/plain",
+            "filetype": "text",
+            "pretty_type": "Plain Text",
+            "user": "U1MGNL4KU",
+            "editable": true,
+            "size": 9608,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F21LFDSJW\/sqlscripts.txt?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F21LFDSJW\/download\/sqlscripts.txt?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/demo\/F21LFDSJW\/sqlscripts.txt",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F21LFDSJW-e47759fa13",
+            "edit_link": "https:\/\/compdatabaseproject.slack.com\/files\/demo\/F21LFDSJW\/sqlscripts.txt\/edit",
+            "preview": "\r\n\r\n----------------------CREATE TABLE SCRIPT----------------------\r\n\r\n CREATE TABLE `Groups` (\r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><\/pre><\/div>\n<div><pre><\/pre><\/div>\n<div><pre>----------------------CREATE TABLE SCRIPT----------------------<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<div><pre> CREATE TABLE `Groups` (<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 291,
+            "lines_more": 286,
+            "channels": [
+                "C21J19CRZ"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc21L5T085",
+                "created": 1471306632,
+                "timestamp": 1471306632,
+                "user": "U1MGNL4KU",
+                "is_intro": true,
+                "comment": "The scripts for sql",
+                "channel": ""
+            }
+        },
+        "user": "U1MGNL4KU",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1MGNL4KU|demo>",
+        "bot_id": null,
+        "ts": "1471306632.000030"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1MGW16JZ|ti_liu> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F21KYLEES\/poc353_1_code.zip|poc353_1_code.zip>",
+        "file": {
+            "id": "F21KYLEES",
+            "created": 1471306736,
+            "timestamp": 1471306736,
+            "name": "poc353_1_code.zip",
+            "title": "poc353_1_code.zip",
+            "mimetype": "application\/zip",
+            "filetype": "zip",
+            "pretty_type": "Zip",
+            "user": "U1MGW16JZ",
+            "editable": false,
+            "size": 44593,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F21KYLEES\/poc353_1_code.zip?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F21KYLEES\/download\/poc353_1_code.zip?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F21KYLEES\/poc353_1_code.zip",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F21KYLEES-149e6345c1",
+            "channels": [
+                "C21J19CRZ"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U1MGW16JZ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1MGW16JZ|ti_liu>",
+        "bot_id": null,
+        "ts": "1471306736.000031"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1MGNL4KU|demo> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/demo\/F21L27B6U\/table_contents.txt|table contents.txt>",
+        "file": {
+            "id": "F21L27B6U",
+            "created": 1471307634,
+            "timestamp": 1471307634,
+            "name": "table contents.txt",
+            "title": "table contents.txt",
+            "mimetype": "text\/plain",
+            "filetype": "text",
+            "pretty_type": "Plain Text",
+            "user": "U1MGNL4KU",
+            "editable": true,
+            "size": 38077,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F21L27B6U\/table_contents.txt?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F21L27B6U\/download\/table_contents.txt?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/demo\/F21L27B6U\/table_contents.txt",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F21L27B6U-bc76941ec3",
+            "edit_link": "https:\/\/compdatabaseproject.slack.com\/files\/demo\/F21L27B6U\/table_contents.txt\/edit",
+            "preview": "\r\nUsers: \r\n\r\n+---------+-----------+----------+------------+----------+-----------+-------+----------+---------------------+\r\n| user_id | firstname | last     | username   | password | user_type | grade | group_id | lastlogin           |\r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><\/pre><\/div>\n<div><pre>Users: <\/pre><\/div>\n<div><pre><\/pre><\/div>\n<div><pre>+---------+-----------+----------+------------+----------+-----------+-------+----------+---------------------+<\/pre><\/div>\n<div><pre>| user_id | firstname | last     | username   | password | user_type | grade | group_id | lastlogin           |<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 283,
+            "lines_more": 278,
+            "channels": [
+                "C21J19CRZ"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U1MGNL4KU",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1MGNL4KU|demo>",
+        "bot_id": null,
+        "ts": "1471307635.000032"
+    }
+]

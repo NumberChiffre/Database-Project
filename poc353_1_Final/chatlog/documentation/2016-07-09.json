@@ -1,0 +1,128 @@
+[
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Nice",
+        "ts": "1468077634.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "ok thats a nice diagram",
+        "ts": "1468077838.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "but do you have an ER diagram?",
+        "ts": "1468077845.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i was there when another group showed the TA something similar and she was like this is not an ER diagram where are the trangles!",
+        "ts": "1468077876.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Ugh that's so dumb. We replaced triangles with words because we didn't find triangles ",
+        "ts": "1468078210.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "I'm sure it's there but if we have to then we go over it again and add them in ",
+        "ts": "1468078225.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "yeah i was just sitting behind them in like the second lab",
+        "ts": "1468078247.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "she wante triangles and the stupid bubbles for the attributes and all",
+        "ts": "1468078265.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Damn it ",
+        "ts": "1468078296.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "yeah",
+        "ts": "1468079189.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i mean i think the diagram you guys made is way more helpful than an ER",
+        "ts": "1468079209.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "just not sure if its what she wants",
+        "ts": "1468079234.000013"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1MGW6FUM|hussainq> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/hussainq\/F1Q9X4BEU\/assignment.pdf|assignment.pdf> and commented: i worked on the assignment on q1 part 1&amp;2 , and q2\nplease have a look at it, and if anyone has worked on it please do share it so we can compare and learn if there's any mistake.",
+        "file": {
+            "id": "F1Q9X4BEU",
+            "created": 1468113621,
+            "timestamp": 1468113621,
+            "name": "assignment.pdf",
+            "title": "assignment.pdf",
+            "mimetype": "application\/pdf",
+            "filetype": "pdf",
+            "pretty_type": "PDF",
+            "user": "U1MGW6FUM",
+            "editable": false,
+            "size": 341542,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1Q9X4BEU\/assignment.pdf?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1Q9X4BEU\/download\/assignment.pdf?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/hussainq\/F1Q9X4BEU\/assignment.pdf",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F1Q9X4BEU-2c0283cf5b",
+            "channels": [
+                "C1MGL6NJY"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc1Q9THBL6",
+                "created": 1468113621,
+                "timestamp": 1468113621,
+                "user": "U1MGW6FUM",
+                "is_intro": true,
+                "comment": "i worked on the assignment on q1 part 1&amp;2 , and q2\nplease have a look at it, and if anyone has worked on it please do share it so we can compare and learn if there's any mistake.",
+                "channel": ""
+            }
+        },
+        "user": "U1MGW6FUM",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1MGW6FUM|hussainq>",
+        "bot_id": null,
+        "ts": "1468113622.000002"
+    }
+]

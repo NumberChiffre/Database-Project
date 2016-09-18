@@ -1,0 +1,1430 @@
+[
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "the zip is done",
+        "ts": "1471273407.000116"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "dont have access permission to the doc",
+        "ts": "1471274704.000117"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "cannot access the doc as well",
+        "ts": "1471277559.000118"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "What are ur emails?",
+        "ts": "1471284524.000119"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Just woke up..",
+        "ts": "1471284527.000120"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "<mailto:jordan__o@hotmail.com|jordan__o@hotmail.com>",
+        "ts": "1471284598.000121"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "<mailto:shaynemclevy@gmail.com|shaynemclevy@gmail.com>",
+        "ts": "1471284685.000122"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": " Sent",
+        "ts": "1471284763.000123"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "did not receive anything",
+        "ts": "1471285008.000124"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Oh my bad",
+        "ts": "1471285049.000125"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Didnt notice the two underscores",
+        "ts": "1471285056.000126"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "lol some random guy now has our report",
+        "ts": "1471285125.000127"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "i took him out now lol",
+        "ts": "1471285250.000128"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "can you double check what is missing?",
+        "ts": "1471285278.000129"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i did all i wanted for the php, just remember to try to add some comments for stuff u did if u can",
+        "ts": "1471285356.000130"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "like comments in the code",
+        "ts": "1471285374.000131"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Okay will do once i add the code",
+        "ts": "1471285456.000132"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Check if anything is missing in the report",
+        "ts": "1471285472.000133"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "<mailto:Viuy@hotmail.com|Viuy@hotmail.com>",
+        "ts": "1471285543.000134"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Add me plz",
+        "ts": "1471285546.000135"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "done",
+        "ts": "1471285675.000136"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "right we need to download all the code and zip it into the file also",
+        "ts": "1471286360.000137"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "and have an install guide",
+        "ts": "1471286369.000138"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "tell them to run our sql file and put all your code in the main directory haha",
+        "ts": "1471286388.000139"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "also dont forget to put the login info on the first page",
+        "ts": "1471286430.000140"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "and a link",
+        "ts": "1471286434.000141"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "yeah the readme doc",
+        "ts": "1471286907.000142"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "so is all the code in final version now?",
+        "ts": "1471286919.000143"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "no new attributes in the database?",
+        "ts": "1471286932.000144"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "you added sizechange?",
+        "ts": "1471287032.000145"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "the code i moved the classes inside files to separate files",
+        "ts": "1471287045.000146"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "assignment.php, userstats.php, log.php, and version.php",
+        "ts": "1471287069.000147"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "and added some comments",
+        "ts": "1471287076.000148"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "but yeah im done now",
+        "ts": "1471287079.000149"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "unless others are adding comments or wtv",
+        "ts": "1471287088.000150"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "yeah i added sizechange yesterday",
+        "ts": "1471287183.000151"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "well read the report and tell me if anything needs to be added for the design\/assumptions part",
+        "ts": "1471287217.000152"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "that would be great",
+        "ts": "1471287221.000153"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "our users is 1 table",
+        "ts": "1471287421.000154"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "\"We designed our database so that only users of type 4, which are students, can enroll into groups.\"",
+        "ts": "1471287494.000155"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i think we designed our application to prevent that, not database",
+        "ts": "1471287508.000156"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Can edit on the google doc?",
+        "ts": "1471287566.000157"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "you want me to change it?",
+        "ts": "1471287587.000158"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Yup go for it",
+        "ts": "1471287750.000159"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Change\/add anything you need to",
+        "ts": "1471287772.000160"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Im formatting so let me know where you made the edits",
+        "ts": "1471287803.000161"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "looks good",
+        "ts": "1471288004.000162"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i didnt change much",
+        "ts": "1471288008.000163"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "and it was just like adding a word in a paragraph",
+        "ts": "1471288017.000164"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "or at the end of one",
+        "ts": "1471288039.000165"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "so fomatting shoudl be fine",
+        "ts": "1471288046.000166"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Can you double check database assumptions?",
+        "ts": "1471288128.000167"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "yeah they look fine",
+        "ts": "1471288305.000168"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1MGW16JZ|ti_liu> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F21H82GQG\/report.pdf|report.pdf>",
+        "file": {
+            "id": "F21H82GQG",
+            "created": 1471288398,
+            "timestamp": 1471288398,
+            "name": "report.pdf",
+            "title": "report.pdf",
+            "mimetype": "application\/pdf",
+            "filetype": "pdf",
+            "pretty_type": "PDF",
+            "user": "U1MGW16JZ",
+            "editable": false,
+            "size": 300842,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F21H82GQG\/report.pdf?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F21H82GQG\/download\/report.pdf?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F21H82GQG\/report.pdf",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F21H82GQG-63d27f4942",
+            "channels": [
+                "C1MGNL6R0"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U1MGW16JZ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1MGW16JZ|ti_liu>",
+        "bot_id": null,
+        "ts": "1471288398.000169"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "<!channel>:  are you guys fine with the formatting?",
+        "ts": "1471288408.000170"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "yeah",
+        "ts": "1471288514.000171"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "as long as pg 1 gets the stuff the ta yelled at everyone for",
+        "ts": "1471288538.000172"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "What was it again lol",
+        "ts": "1471288576.000173"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Password for the website?",
+        "ts": "1471288588.000174"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "link",
+        "ts": "1471288712.000175"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "login info to access our site",
+        "ts": "1471288720.000176"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "poc353_1",
+        "ts": "1471288725.000177"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "353CoMp1",
+        "ts": "1471288731.000178"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "or wtv",
+        "ts": "1471288733.000179"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "and i assume login details for every type of user",
+        "ts": "1471288743.000180"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Kk",
+        "ts": "1471288781.000181"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "By the way, our tables are already in 3nf form, like we didnt had to make new ones because there were no violation",
+        "ts": "1471288886.000182"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Is everything okay with that part of the report?",
+        "ts": "1471288908.000183"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "I thinking u should mention that and put reasons ",
+        "ts": "1471288958.000184"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "For 3nf",
+        "ts": "1471288963.000185"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "^i guess",
+        "ts": "1471289105.000186"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "a couple of things, we need to provide the relational model for our database not the relational chart. ex: tablename(primary key, header, header, foreign key)",
+        "ts": "1471289632.000187"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "we also need to prove that each table is in 3nf",
+        "ts": "1471289650.000188"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "like shayne said we also need to include our website link and login details as well as login credentials for each user type ie: teacher, admin , student, ta",
+        "ts": "1471289803.000189"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "im not too sure about the relational model part",
+        "ts": "1471289923.000190"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "based on google, relational model is just a bunch of tables with attributes inside",
+        "ts": "1471289947.000191"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "she specifically said during our demo to include the relational model like the example i gave above, you can keep the relational chart as well but remember we lost 20 points on our warmup project by not including relations like the example above",
+        "ts": "1471290018.000192"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "alright",
+        "ts": "1471290036.000193"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "so explain why our tables are 3nf, relational model format, and readme.doc",
+        "ts": "1471290088.000194"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "is it explained somewhere that to get a zip of everything you need to click download logged in as an admin?",
+        "ts": "1471292283.000195"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "we can change the label",
+        "ts": "1471292369.000196"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "to like",
+        "ts": "1471292372.000197"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "archive course",
+        "ts": "1471292376.000198"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "that works, will the screenshot have to be updates?",
+        "ts": "1471292464.000199"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "updated",
+        "ts": "1471292467.000200"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i guess",
+        "ts": "1471292502.000201"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "idk whiever we wanna do",
+        "ts": "1471292511.000202"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "should i keep the labelling of my archive buttons in group.php",
+        "ts": "1471292651.000203"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "or change them",
+        "ts": "1471292656.000204"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "i think if we rename yours to archive course it would be fine",
+        "ts": "1471292688.000205"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "yeah should be fine",
+        "ts": "1471292731.000206"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "but in the specs",
+        "ts": "1471292742.000207"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "we need to explain what yours does",
+        "ts": "1471292748.000208"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "and what mine does",
+        "ts": "1471292751.000209"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "in my contributions i detailed what mine does",
+        "ts": "1471292767.000210"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "<@U1PBBB3J7>:  i didnt explain the submit button in doc yesterday because it didnt work",
+        "ts": "1471292820.000211"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "You guys can add anything you think its missing",
+        "ts": "1471292860.000212"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "need to update the picture of the admin course page anyway",
+        "ts": "1471292914.000213"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "cause those submit buttons are not there",
+        "ts": "1471292922.000214"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "so i'll change the label",
+        "ts": "1471292928.000215"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "i wasnt responsible for the submit buttons",
+        "ts": "1471293029.000216"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Its better if you guys add what you've updated\/changed",
+        "ts": "1471293079.000217"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "are you working on the relational model?",
+        "ts": "1471293102.000218"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "On my part ill follow the guidelines of the report",
+        "ts": "1471293110.000219"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "<@U1MGW16JZ>: are you working on the relational model?",
+        "ts": "1471293148.000220"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Submit buttons are useless just remove them",
+        "ts": "1471293184.000221"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Yup",
+        "ts": "1471293184.000222"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i already removed them yesterday but the pic in the doc is old",
+        "ts": "1471293204.000223"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i updated the picture",
+        "ts": "1471293213.000224"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "For now, its just converting the relational model into what the tas want",
+        "ts": "1471293222.000225"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "on pg 16 in the google doc i changed it",
+        "ts": "1471293235.000226"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Thabks",
+        "ts": "1471293252.000227"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "where would i write the specs for archive? under the screenshot?",
+        "ts": "1471293590.000228"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "On top of ur screenshot",
+        "ts": "1471293637.000229"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "can I put the screenshots in my formatted ppt now?",
+        "ts": "1471293974.000230"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "im done",
+        "ts": "1471294052.000231"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "ive also put relational model according to <@U1PBBB3J7>",
+        "ts": "1471294119.000232"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "for queries, is there anything missing?",
+        "ts": "1471294131.000233"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "page 13",
+        "ts": "1471294147.000234"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Woo!",
+        "ts": "1471294161.000235"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Just finish my test ",
+        "ts": "1471294164.000236"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "What's left to do ",
+        "ts": "1471294168.000237"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Im doing it from home, coming to school by 5:50",
+        "ts": "1471294324.000238"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Ill show u soon",
+        "ts": "1471294336.000239"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "I'm going to get food then start working on what's left ",
+        "ts": "1471294393.000240"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Ok sounds good ",
+        "ts": "1471294405.000241"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1MGW16JZ|ti_liu> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F21JQ7FH7\/report.pdf|report.pdf> and commented: i'll add the queries and screenshots once everyone approves on the google doc",
+        "file": {
+            "id": "F21JQ7FH7",
+            "created": 1471294596,
+            "timestamp": 1471294596,
+            "name": "report.pdf",
+            "title": "report.pdf",
+            "mimetype": "application\/pdf",
+            "filetype": "pdf",
+            "pretty_type": "PDF",
+            "user": "U1MGW16JZ",
+            "editable": false,
+            "size": 442603,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F21JQ7FH7\/report.pdf?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F21JQ7FH7\/download\/report.pdf?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F21JQ7FH7\/report.pdf",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F21JQ7FH7-a988f48fe0",
+            "channels": [
+                "C1MGNL6R0"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc21JMGMAT",
+                "created": 1471294596,
+                "timestamp": 1471294596,
+                "user": "U1MGW16JZ",
+                "is_intro": true,
+                "comment": "i'll add the queries and screenshots once everyone approves on the google doc",
+                "channel": ""
+            }
+        },
+        "user": "U1MGW16JZ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1MGW16JZ|ti_liu>",
+        "bot_id": null,
+        "ts": "1471294597.000242"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "<!channel>:  for apps supported, i only wrote Mozilla Firefox, Internet Explorer, Chrome, anything else to add?",
+        "ts": "1471294624.000243"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i think those are fine for apps",
+        "ts": "1471294984.000244"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Why even mention it ",
+        "ts": "1471295000.000245"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Honestly what do they expect for that",
+        "ts": "1471295012.000246"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "lol its written in the guidelines",
+        "ts": "1471295021.000247"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "ill add the functional dependencies",
+        "ts": "1471295083.000248"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "I know that ",
+        "ts": "1471295084.000249"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "I'm wondering why they think it's necessary ",
+        "ts": "1471295101.000250"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "1 sec i still have to add some specs",
+        "ts": "1471295107.000251"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "on the photos",
+        "ts": "1471295111.000252"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "where is the relational model? i am editing the word file is that the current one still?",
+        "ts": "1471295159.000253"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "i just sent you guys a pdf file..",
+        "ts": "1471295282.000254"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "now im adding the dependencies",
+        "ts": "1471295289.000255"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "i know but if im editing the word file is that okay or is it outdated",
+        "ts": "1471295313.000256"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "im adding screen shots of what it looks like when the course is over",
+        "ts": "1471295377.000257"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "since there are none",
+        "ts": "1471295385.000258"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "None of this project makes any sense ",
+        "ts": "1471295419.000259"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Why do they need screenshots when they can see the webpages ",
+        "ts": "1471295431.000260"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "documentation",
+        "ts": "1471295437.000261"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "<@U1PBBB3J7>:  i havent added the screenshots yet, i'll wait until you are done to add them in the pdf",
+        "ts": "1471295525.000262"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1MGW16JZ|ti_liu> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F21JHTVBQ\/report.pdf|report.pdf>",
+        "file": {
+            "id": "F21JHTVBQ",
+            "created": 1471295534,
+            "timestamp": 1471295534,
+            "name": "report.pdf",
+            "title": "report.pdf",
+            "mimetype": "application\/pdf",
+            "filetype": "pdf",
+            "pretty_type": "PDF",
+            "user": "U1MGW16JZ",
+            "editable": false,
+            "size": 444693,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F21JHTVBQ\/report.pdf?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F21JHTVBQ\/download\/report.pdf?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F21JHTVBQ\/report.pdf",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F21JHTVBQ-59b5e1d66a",
+            "channels": [
+                "C1MGNL6R0"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U1MGW16JZ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1MGW16JZ|ti_liu>",
+        "bot_id": null,
+        "ts": "1471295535.000263"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "<@U1PBBB3J7>:  please check page 9 of the pdf",
+        "ts": "1471295545.000264"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "nice work",
+        "ts": "1471295607.000265"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "thanks Jordan, can you double check page 9 for the functional dependencies?",
+        "ts": "1471295659.000266"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "<@U1MGW16JZ>: hey trying to text you by my phone isn't sending the messages, you here yet? Walking there now I'll be 5 minutes ",
+        "ts": "1471298023.000267"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "it does look like we have any screenshots for the ta",
+        "ts": "1471298240.000268"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "or as a student who is not a group leader",
+        "ts": "1471298248.000269"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "There was an unecessary header in the ta php course file yesterday, im not sure if its taken care of",
+        "ts": "1471298317.000270"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Thats why i didnt document it ",
+        "ts": "1471298326.000271"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "i'll document the ta",
+        "ts": "1471298414.000272"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "as well as a student who is not group leader",
+        "ts": "1471298421.000273"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "we should mention which of our student are group leaders ie: student_2",
+        "ts": "1471298444.000274"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Sure",
+        "ts": "1471298724.000275"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "What header",
+        "ts": "1471299162.000276"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "im at school now i'll do it",
+        "ts": "1471299220.000277"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "nvm for the header in TA, its not really a problem...",
+        "ts": "1471299365.000278"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "<@U1PBBB3J7>:  let me know once uve put screenshots of a non-student leader in the google doc",
+        "ts": "1471299412.000279"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "i'll put all the screenshots all at once in pdf",
+        "ts": "1471299421.000280"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "are you doing the ta or should i do it?",
+        "ts": "1471299701.000281"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "only the manage versions page is different for a student that is not a group leader. they are unable to roll back. ill just add a screenshot of this page",
+        "ts": "1471299749.000282"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "<@U1PBBB3J7>: i'll do it now, dont worry",
+        "ts": "1471299942.000283"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "<@U1PBBB3J7>: so i'll add for TA now",
+        "ts": "1471299959.000284"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "<@U1PBBB3J7>:  done for TA, let me know once ur done with non-leader screenshots, thanks",
+        "ts": "1471300211.000285"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "yup give me 5 minutes",
+        "ts": "1471300227.000286"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "are you guyz at school?",
+        "ts": "1471300261.000287"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "i am not",
+        "ts": "1471300269.000288"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "only <@U1MGW16JZ>  ?",
+        "ts": "1471300298.000289"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "im at school",
+        "ts": "1471300623.000290"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "with demo",
+        "ts": "1471300627.000291"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Where are u guys? ",
+        "ts": "1471300653.000292"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "847",
+        "ts": "1471300705.000293"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "i'm done my adjustments thanks. i added a screenshot for ta when the course is over as well",
+        "ts": "1471300787.000294"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "oh yeah i didnt do that",
+        "ts": "1471300813.000295"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "thanks Jordan",
+        "ts": "1471300816.000296"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "okay i'll add the screenshots in my ppt now",
+        "ts": "1471300832.000297"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "we are also doing the readme.doc, has anyone made it in previous projects before?",
+        "ts": "1471300850.000298"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "nope but i would put the sites link and login info in there for sure",
+        "ts": "1471301591.000299"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "and maybe some user login info",
+        "ts": "1471301600.000300"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "student, ta, admin, teacher etc.",
+        "ts": "1471301607.000301"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "and what browser to user",
+        "ts": "1471301632.000302"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Yeah added",
+        "ts": "1471301640.000303"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1MGW16JZ|ti_liu> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F21L44CSE\/report.pptx|report.pptx> and commented: final",
+        "file": {
+            "id": "F21L44CSE",
+            "created": 1471303488,
+            "timestamp": 1471303488,
+            "name": "report.pptx",
+            "title": "report.pptx",
+            "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+            "filetype": "pptx",
+            "pretty_type": "PowerPoint Presentation",
+            "user": "U1MGW16JZ",
+            "editable": false,
+            "size": 2760022,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F21L44CSE\/report.pptx?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F21L44CSE\/download\/report.pptx?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F21L44CSE\/report.pptx",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F21L44CSE-fcf0c34424",
+            "channels": [
+                "C1MGNL6R0"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc21KMGVK2",
+                "created": 1471303488,
+                "timestamp": 1471303488,
+                "user": "U1MGW16JZ",
+                "is_intro": true,
+                "comment": "final",
+                "channel": ""
+            }
+        },
+        "user": "U1MGW16JZ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1MGW16JZ|ti_liu>",
+        "bot_id": null,
+        "ts": "1471303489.000304"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "I already did the group evaluation and you guyz scored 100   don't forget to do it otherwise you'll get a zero",
+        "ts": "1471303794.000305"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "is everything finilized?",
+        "ts": "1471306341.000306"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "<@U1PBBB3J7>:  go to docfiles, report and readme are there",
+        "ts": "1471306394.000307"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "<@U1PBBB3J7>: we are almost done with the sql codes",
+        "ts": "1471306410.000308"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "yup i have seen them",
+        "ts": "1471306414.000309"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "<!channel>:  weird thing is the prof extended the deadline till aug 19th without email notice",
+        "ts": "1471306445.000310"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "i would not chance it",
+        "ts": "1471306552.000311"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "the best would be to submit tonight",
+        "ts": "1471306565.000312"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "yes we are",
+        "ts": "1471306588.000313"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "lol ",
+        "ts": "1471306672.000314"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "That guy man ",
+        "ts": "1471306674.000315"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Hey, so are you guys going to change anything else with the code?",
+        "ts": "1471306750.000316"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "i think we are good",
+        "ts": "1471306779.000317"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "did you guys read the Design decisions?",
+        "ts": "1471306890.000318"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "and the database assumptions?",
+        "ts": "1471306904.000319"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "anything missing, now its the time to add",
+        "ts": "1471306912.000320"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Looks fine",
+        "ts": "1471307054.000321"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "give me a sec",
+        "ts": "1471307638.000322"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "im merging everything",
+        "ts": "1471307641.000323"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "<!channel>:  then please look at it before we submit",
+        "ts": "1471307667.000324"
+    }
+]

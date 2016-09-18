@@ -1,0 +1,290 @@
+
+
+----------------------CREATE TABLE SCRIPT----------------------
+
+ CREATE TABLE `Groups` (
+  `group_id` int(11) NOT NULL AUTO_INCREMENT,
+  `data_taken` int(11) DEFAULT NULL,
+  PRIMARY KEY (`group_id`),
+) ENGINE=InnoDB AUTO_INCREMENT=7 DEFAULT CHARSET=latin1
+
+
+CREATE TABLE `Users` (
+  `user_id` int(11) NOT NULL AUTO_INCREMENT,
+  `firstname` varchar(20) NOT NULL,
+  `last` varchar(20) NOT NULL,
+  `username` varchar(20) NOT NULL,
+  `password` varchar(20) NOT NULL,
+  `user_type` varchar(20) NOT NULL,
+  `grade` varchar(5) DEFAULT NULL,
+  `group_id` int(11) DEFAULT NULL,
+  `lastlogin` datetime NOT NULL,
+  PRIMARY KEY (`user_id`),
+  KEY `group_id` (`group_id`),
+  CONSTRAINT `Users_ibfk_1` FOREIGN KEY (`group_id`) REFERENCES `Groups` (`group_id`) 
+  ON DELETE CASCADE ON UPDATE CASCADE
+) ENGINE=InnoDB AUTO_INCREMENT=35 DEFAULT CHARSET=latin
+
+
+// we must create the user table before we add the link to it in group
+ALTER TABLE Groups
+    ADD leader_id INTEGER,
+    ADD CONSTRAINT FOREIGN KEY(leader_id) REFERENCES User(user_id);
+
+
+CREATE TABLE `System_details` (
+  `start_date` datetime NOT NULL,
+  `end_date` datetime NOT NULL,
+  `max_data` int(11) DEFAULT NULL,
+  `singleton` enum('a') NOT NULL,
+  UNIQUE KEY `singleton` (`singleton`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 
+
+
+
+CREATE TABLE `Assignments` (
+  `assignment_id` int(11) NOT NULL AUTO_INCREMENT,
+  `assignment_type` varchar(20) NOT NULL,
+  PRIMARY KEY (`assignment_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=7 DEFAULT CHARSET=latin1 
+
+
+
+CREATE TABLE `Files` (
+  `file_id` int(11) NOT NULL AUTO_INCREMENT,
+  `is_archived` int(1) DEFAULT NULL,
+  `group_id` int(11) NOT NULL,
+  `assignment_id` int(11) NOT NULL,
+  PRIMARY KEY (`file_id`),
+  KEY `group_id` (`group_id`),
+  KEY `assignment_id` (`assignment_id`),
+  CONSTRAINT `Files_ibfk_1` FOREIGN KEY (`group_id`) 
+  REFERENCES `Groups` (`group_id`) ON DELETE CASCADE ON UPDATE CASCADE,
+  CONSTRAINT `Files_ibfk_2` FOREIGN KEY (`assignment_id`) 
+  REFERENCES `Assignments` (`assignment_id`) ON DELETE CASCADE ON UPDATE CASCADE
+) ENGINE=InnoDB AUTO_INCREMENT=37 DEFAULT CHARSET=latin1
+
+
+
+CREATE TABLE `File_versions` (
+  `version_number` int(11) NOT NULL AUTO_INCREMENT,
+  `is_current` int(1) DEFAULT NULL,
+  `data` longblob,
+  `checksum` varchar(40) NOT NULL,
+  `upload_ip` varchar(40) NOT NULL,
+  `size` int(11) DEFAULT NULL,
+  `upload_date` datetime NOT NULL,
+  `name` varchar(20) NOT NULL,
+  `is_deleted` int(11) NOT NULL,
+  `upload_id` int(11) NOT NULL,
+  `file_id` int(11) NOT NULL,
+  `file_type` varchar(30) NOT NULL,
+  `sizechange` int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY (`version_number`,`file_id`),
+  KEY `upload_id` (`upload_id`),
+  KEY `file_id` (`file_id`),
+  CONSTRAINT `File_versions_ibfk_1` FOREIGN KEY (`upload_id`) 
+  REFERENCES `Users` (`user_id`) ON DELETE CASCADE ON UPDATE CASCADE,
+  CONSTRAINT `File_versions_ibfk_2` FOREIGN KEY (`file_id`) 
+  REFERENCES `Files` (`file_id`) ON DELETE CASCADE ON UPDATE CASCADE
+) ENGINE=InnoDB AUTO_INCREMENT=19 DEFAULT CHARSET=latin1 
+
+
+
+CREATE TABLE `Downloads` (
+  `download_id` int(11) NOT NULL,
+  `version_number` int(11) NOT NULL,
+  `file_id` int(11) NOT NULL,
+  `download_date` datetime NOT NULL,
+  PRIMARY KEY (`download_id`,`version_number`,`file_id`,`download_date`),
+  KEY `version_number` (`version_number`),
+  KEY `file_id` (`file_id`),
+  CONSTRAINT `Downloads_ibfk_1` FOREIGN KEY (`download_id`) 
+  REFERENCES `Users` (`user_id`) ON DELETE CASCADE ON UPDATE CASCADE,
+  CONSTRAINT `Downloads_ibfk_2` FOREIGN KEY (`version_number`) 
+  REFERENCES `File_versions` (`version_number`) ON DELETE CASCADE ON UPDATE CASCADE,
+  CONSTRAINT `Downloads_ibfk_3` FOREIGN KEY (`file_id`) 
+  REFERENCES `Files` (`file_id`) ON DELETE CASCADE ON UPDATE CASCADE
+) ENGINE=InnoDB DEFAULT CHARSET=latin1
+
+
+
+CREATE TABLE `Rollbacks` (
+  `rollback_id` int(11) NOT NULL,
+  `version_number` int(11) NOT NULL,
+  `file_id` int(11) NOT NULL,
+  `rollback_date` datetime NOT NULL,
+  PRIMARY KEY (`rollback_id`,`version_number`,`file_id`,`rollback_date`),
+  KEY `version_number` (`version_number`),
+  KEY `file_id` (`file_id`),
+  CONSTRAINT `Rollbacks_ibfk_1` FOREIGN KEY (`rollback_id`) 
+  REFERENCES `Users` (`user_id`) ON DELETE CASCADE ON UPDATE CASCADE,
+  CONSTRAINT `Rollbacks_ibfk_2` FOREIGN KEY (`version_number`) 
+  REFERENCES `File_versions` (`version_number`) ON DELETE CASCADE ON UPDATE CASCADE,
+  CONSTRAINT `Rollbacks_ibfk_3` FOREIGN KEY (`file_id`) 
+  REFERENCES `Files` (`file_id`) ON DELETE CASCADE ON UPDATE CASCADE
+) ENGINE=InnoDB DEFAULT CHARSET=latin1
+
+
+CREATE TABLE `Recovers` (
+  `recover_id` int(11) NOT NULL,
+  `version_number` int(11) NOT NULL,
+  `file_id` int(11) NOT NULL,
+  `recover_date` datetime NOT NULL,
+  PRIMARY KEY (`recover_id`,`version_number`,`file_id`,`recover_date`),
+  KEY `version_number` (`version_number`),
+  KEY `file_id` (`file_id`),
+  CONSTRAINT `Recovers_ibfk_1` FOREIGN KEY (`recover_id`) 
+  REFERENCES `Users` (`user_id`) ON DELETE CASCADE ON UPDATE CASCADE,
+  CONSTRAINT `Recovers_ibfk_2` FOREIGN KEY (`version_number`) 
+  REFERENCES `File_versions` (`version_number`) ON DELETE CASCADE ON UPDATE CASCADE,
+  CONSTRAINT `Recovers_ibfk_3` FOREIGN KEY (`file_id`) 
+  REFERENCES `Files` (`file_id`) ON DELETE CASCADE ON UPDATE CASCADE
+) ENGINE=InnoDB DEFAULT CHARSET=latin1
+
+
+
+CREATE TABLE `Deletes` (
+  `delete_id` int(11) NOT NULL AUTO_INCREMENT,
+  `version_number` int(11) NOT NULL,
+  `file_id` int(11) NOT NULL,
+  `delete_date` datetime NOT NULL,
+  PRIMARY KEY (`delete_id`,`version_number`,`file_id`,`delete_date`),
+  KEY `version_number` (`version_number`),
+  KEY `file_id` (`file_id`),
+  CONSTRAINT `Deletes_ibfk_1` FOREIGN KEY (`delete_id`) 
+  REFERENCES `Users` (`user_id`) ON DELETE CASCADE ON UPDATE CASCADE,
+  CONSTRAINT `Deletes_ibfk_2` FOREIGN KEY (`version_number`) 
+  REFERENCES `File_versions` (`version_number`) ON DELETE CASCADE ON UPDATE CASCADE,
+  CONSTRAINT `Deletes_ibfk_3` FOREIGN KEY (`file_id`) 
+  REFERENCES `Files` (`file_id`) ON DELETE CASCADE ON UPDATE CASCADE
+) ENGINE=InnoDB AUTO_INCREMENT=7 DEFAULT CHARSET=latin1
+
+----- TRIGGERS -----
+
+CREATE TRIGGER DeleteVersion 
+AFTER UPDATE ON Users 
+FOR EACH ROW UPDATE File_versions v SET v.data = NULL,
+v.is_current = 0 
+WHERE v.is_deleted = 1 
+AND (
+SELECT MAX(delete_date) 
+FROM Deletes WHERE file_id = v.file_id 
+AND version_number = v.version_number 
+GROUP BY file_id, version_number
+) < NOW() - INTERVAL 1 DAY;
+
+
+
+----------------------FILL TABLE SCRIPTS----------------------
+
+
+
+Groups:
+
+	INSERT INTO Groups (data_taken,leader_id) 
+	VALUES(0,INT x); 
+
+		// 0 because initial data size is 0
+		// x is the user_id of a student
+
+Users:
+
+
+	INSERT INTO Users 
+	(firstname,last,username,password,user_type)
+	VALUES( VARCHAR 'first',VARCHAR 'last', VARCHAR 'username', VARCHAR 'password',INT type);
+
+		// first is firstname, last is lastname, username is the username, password is password 
+		//and type is integer from 1-4
+
+
+System_details:
+
+	INSERT INTO System_details values ( DATE start_date, DATE end_ate, INT max_data, 'a');
+
+		// start_date and end_date are date values
+		// max_data is an integer used to describe the maximum data a group has
+		// the final parameter is to ensure only 1 row can exist at once
+
+
+
+Assignments:
+
+	INSERT INTO Assignments (assignment_type)
+	VALUES( VARCHAR 'x');
+
+		// x is either 'Assignment' or 'Project' 
+
+Files:
+	
+	INSERT INTO Files (group_id, assignment_id)
+	VALUES( INT G, int A);
+
+		// G is the group_id for the file 
+		// A is the assignment_id for the file we are submitting
+
+File_version:
+
+	INSERT INTO File_versions (data, checksum, upload_ip, size, 
+				upload_date, name, upload_id, file_id, file_type) 
+	VALUES( LONGBLOB D, VARCHAR C, VARCHAR I, INT S, DATETIME UD,
+                                VARCHAR N, INT UID, INT FID, VARCHAR T, INT SC);
+
+		//D is the data we are inserting
+		//C is the checksum of the file
+		//I is the uploaders IP adress
+		//S is the size of the file
+		//UD is the upload date
+		//N is the filename
+		//UID is the uploaders user id
+		//FID is the file we uploading a versoin for's file ID
+		//T is the file type ('Project' or 'Assignment')
+		//SC is the change in filesize between this version and the last
+
+
+Downloads:
+		
+	INSERT INTO Downloads 
+	VALUES(INT DID, INT VN, INT FID, DATETIME DD);
+
+		//DID is the downloaders user_id
+		//VN is the vesion_number of the file that was downloaded
+		//FID is the file_id for the file that was downloaded
+		//DD is the date and time the download was done
+
+
+Recovers;
+		
+	INSERT INTO Recovers
+	VALUES(INT RID, INT VN, INT FID, DATETIME RD);
+
+		//RID is the recovering users user_id
+		//VN is the vesion_number of the file that was recovered
+		//FID is the file_id for the file that was recovered
+		//RD is the date and time the recover was done
+
+
+Rollbacks
+		
+	INSERT INTO Rollbacks
+	VALUES(INT RID, INT VN, INT FID, DATETIME RD);
+	
+		//RID is the rollbacking users user_id
+		//VN is the vesion_number of the file that was rolled-back
+		//FID is the file_id for the file that was rolled-back
+		//RD is the date and time the rollbackwas done
+
+
+Deletes:
+		
+	INSERT INTO Downloads 
+	VALUES(INT DID, INT VN, INT FID, DATETIME DD);
+
+		//DID is the deleting users user_id
+		//VN is the vesion_number of the file that was deleted
+		//FID is the file_id for the file that was deleted
+		//DD is the date and time the delete was done
+
+
+

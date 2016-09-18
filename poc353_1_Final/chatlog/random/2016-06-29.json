@@ -1,0 +1,23 @@
+[
+    {
+        "user": "U1MGNL4KU",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1MGNL4KU|demo> has joined the channel",
+        "ts": "1467232968.000002"
+    },
+    {
+        "user": "U1MGW16JZ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1MGW16JZ|ti_liu> has joined the channel",
+        "ts": "1467236138.000002"
+    },
+    {
+        "user": "U1MGW6FUM",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1MGW6FUM|hussainq> has joined the channel",
+        "ts": "1467236180.000003"
+    }
+]

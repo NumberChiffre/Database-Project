@@ -1,0 +1,136 @@
+[
+    {
+        "user": "U1PBB7C4T",
+        "text": "<@U1PBB7C4T|shayne> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1467837832.000002"
+    },
+    {
+        "user": "U1PBBB3J7",
+        "text": "<@U1PBBB3J7|jordan_orsini> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1467837858.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "I sent an email with stuff I did during the lecture lol",
+        "ts": "1467838360.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Yeah, lets start posting stuff here then",
+        "ts": "1467838395.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "or facebook",
+        "ts": "1467838401.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "theres different channels i'm not sure if you can see it but there's planning, code, documentation general and random",
+        "ts": "1467838429.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "i just see general and random",
+        "ts": "1467838484.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "nvm",
+        "ts": "1467838542.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "We can integrate git and other things in with this",
+        "ts": "1467838708.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "once we start coding",
+        "ts": "1467838712.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "i made an excel chart, but not as detailed what shayne posted",
+        "ts": "1467838718.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "anyone wanna go upstairs right away?",
+        "ts": "1467838771.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "i dont see how git can be used with mysql tho",
+        "ts": "1467838776.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Yeah, we might not need it for sql but html, php and java we can use",
+        "ts": "1467838801.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "But yeah do you want to skip the rest of this class?",
+        "ts": "1467838825.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "yes im down to leave",
+        "ts": "1467838841.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "where to?",
+        "ts": "1467838848.000018"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "I'm not in class already",
+        "ts": "1467838855.000019"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "\u00af\\_(\u30c4)_\/\u00af",
+        "ts": "1467838860.000020"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "8th floor I guess",
+        "ts": "1467838874.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "or well just meet outside for now",
+        "ts": "1467838880.000022"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "1st quiz on wednesday. on er diagrams and simple sql.",
+        "ts": "1467839095.000023"
+    }
+]

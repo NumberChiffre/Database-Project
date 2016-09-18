@@ -1,0 +1,304 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1MGW16JZ|ti_liu> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F218Z8W2G\/finalsqlcode.txt|finalSQLCode.txt> and commented: very final now",
+        "file": {
+            "id": "F218Z8W2G",
+            "created": 1471213933,
+            "timestamp": 1471213933,
+            "name": "finalSQLCode.txt",
+            "title": "finalSQLCode.txt",
+            "mimetype": "text\/plain",
+            "filetype": "text",
+            "pretty_type": "Plain Text",
+            "user": "U1MGW16JZ",
+            "editable": true,
+            "size": 6454,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F218Z8W2G\/finalsqlcode.txt?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F218Z8W2G\/download\/finalsqlcode.txt?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F218Z8W2G\/finalsqlcode.txt",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F218Z8W2G-be6bf07c9f",
+            "edit_link": "https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F218Z8W2G\/finalsqlcode.txt\/edit",
+            "preview": "\r\n\r\nCREATE TABLE `Groups` (\r\n  `group_id` int(11) NOT NULL AUTO_INCREMENT,\r\n  `data_taken` int(11) NOT NULL,\r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><\/pre><\/div>\n<div><pre><\/pre><\/div>\n<div><pre>CREATE TABLE `Groups` (<\/pre><\/div>\n<div><pre>  `group_id` int(11) NOT NULL AUTO_INCREMENT,<\/pre><\/div>\n<div><pre>  `data_taken` int(11) NOT NULL,<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 145,
+            "lines_more": 140,
+            "channels": [
+                "C1MGL6NJY"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc21921R4G",
+                "created": 1471213933,
+                "timestamp": 1471213933,
+                "user": "U1MGW16JZ",
+                "is_intro": true,
+                "comment": "very final now",
+                "channel": ""
+            }
+        },
+        "user": "U1MGW16JZ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1MGW16JZ|ti_liu>",
+        "bot_id": null,
+        "ts": "1471213934.000002"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1MGW16JZ|ti_liu> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F21925KS4\/comp353_er.xml|Comp353_ER.xml> and commented: probably our last one",
+        "file": {
+            "id": "F21925KS4",
+            "created": 1471214043,
+            "timestamp": 1471214043,
+            "name": "Comp353_ER.xml",
+            "title": "Comp353_ER.xml",
+            "mimetype": "text\/plain",
+            "filetype": "xml",
+            "pretty_type": "XML",
+            "user": "U1MGW16JZ",
+            "editable": true,
+            "size": 5323,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F21925KS4\/comp353_er.xml?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F21925KS4\/download\/comp353_er.xml?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F21925KS4\/comp353_er.xml",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F21925KS4-5a1de12179",
+            "edit_link": "https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F21925KS4\/comp353_er.xml\/edit",
+            "preview": "<mxfile userAgent=\"Mozilla\/5.0 (Windows NT 6.1; WOW64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/52.0.2743.116 Safari\/537.36\" version=\"5.5.5.8\" editor=\"www.draw.io\" type=\"device\"><diagram>7V1bc+I6Ev41eUwKY3N7zFzOzFbtqTq1s9enlAc84B2DWWMmyf7607b1CclWYjJYbjkTXgABRu5utbo\/9eXKf799+JSF+83v6SpKrsaj1cOV\/+FqTA9\/RE\/FyGM14i1GQTWyzuJVNSa+Ugx8if8fiS9i9BivooMYq4byNE3yeK8PLtPdLlrm2liYZem9\/rVvaSL+VQzswzX+8TTwZRkmzdF\/xat8U43OJ2J6xfjnKF5v8M\/eSHzyNVx+X2fpcSf+72rsfysf1cfbENcS3z9swlV6rwz5H4mwWZrSlYtX24f3UVIQVyfbb098KuedRTsxt5YfTCdiIvkjbj5aES3E2zTLN+k63YXJx9Pou\/IGo+ISI3q3ybcJvfToZfQQ5\/8Ww8Xr\/xSvb8aT4u1udVtwhkZ26a64Co38FtNsqq\/\/N8rzRyEJ4TFPaej0539N0734i+Ydips+pMdsKW6B3pcyE2brSHxLCGBxc8rPBFU+Rek2yrNH+kIWJWEe\/9AFIRTytJbfO9GUXgiyPkXimRUS35RUBZFLetLMlI+Kt8Vn5a+YqT9no\/5CMN6mgEtyFx9V5Ba0x2e81J9yUX88s6Nebui6JwZIilefTX2dA6PZHAN\/RFlMNxFl4toHolJeY005pjCHm3keTZ+LfQtMsUf2jWeBzj9P8nOI7BPKv3\/m+TM7zDNt7U+rviGwSOgoDhZZMg209aXbBnXLYBAqcLLgYlHgib+2uYoqdg18FflwJRiYJKfYKZPw2qTq1PdDWkr+jG8pBcIO7W8padpuOEvJG4nvMZh81SV+hMlRXPQfhyg7NBh3yLP0uwRHaGrv7jdx...",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-tag cm-bracket\">&lt;<\/span><span class=\"cm-tag\">mxfile<\/span> <span class=\"cm-attribute\">userAgent<\/span>=<span class=\"cm-string\">&quot;Mozilla\/5.0 (Windows NT 6.1; WOW64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/52.0.2743.116 Safari\/537.36&quot;<\/span> <span class=\"cm-attribute\">version<\/span>=<span class=\"cm-string\">&quot;5.5.5.8&quot;<\/span> <span class=\"cm-attribute\">editor<\/span>=<span class=\"cm-string\">&quot;www.draw.io&quot;<\/span> <span class=\"cm-attribute\">type<\/span>=<span class=\"cm-string\">&quot;device&quot;<\/span><span class=\"cm-tag cm-bracket\">&gt;<\/span><span class=\"cm-tag cm-bracket\">&lt;<\/span><span class=\"cm-tag\">diagram<\/span><span class=\"cm-tag cm-bracket\">&gt;<\/span>7V1bc+I6Ev41eUwKY3N7zFzOzFbtqTq1s9enlAc84B2DWWMmyf7607b1CclWYjJYbjkTXgABRu5utbo\/9eXKf799+JSF+83v6SpKrsaj1cOV\/+FqTA9\/RE\/FyGM14i1GQTWyzuJVNSa+Ugx8if8fiS9i9BivooMYq4byNE3yeK8PLtPdLlrm2liYZem9\/rVvaSL+VQzswzX+8TTwZRkmzdF\/xat8U43OJ2J6xfjnKF5v8M\/eSHzyNVx+X2fpcSf+72rsfysf1cfbENcS3z9swlV6rwz5H4mwWZrSlYtX24f3UVIQVyfbb098KuedRTsxt5YfTCdiIvkjbj5aES3E2zTLN+k63YXJx9Pou\/IGo+ISI3q3ybcJvfToZfQQ5\/8Ww8Xr\/xSvb8aT4u1udVtwhkZ26a64Co38FtNsqq\/\/N8rzRyEJ4TFPaej0539N0734i+Ydips+pMdsKW6B3pcyE2brSHxLCGBxc8rPBFU+Rek2yrNH+kIWJWEe\/9AFIRTytJbfO9GUXgiyPkXimRUS35RUBZFLetLMlI+Kt8Vn5a+YqT9no\/5CMN6mgEtyFx9V5Ba0x2e81J9yUX88s6Nebui6JwZIilefTX2dA6PZHAN\/RFlMNxFl4toHolJeY005pjCHm3keTZ+LfQtMsUf2jWeBzj9P8nOI7BPKv3\/m+TM7zDNt7U+rviGwSOgoDhZZMg209aXbBnXLYBAqcLLgYlHgib+2uYoqdg18FflwJRiYJKfYKZPw2qTq1PdDWkr+jG8pBcIO7W8padpuOEvJG4nvMZh81SV+hMlRXPQfhyg7NBh3yLP0uwRHaGrv7jdx...<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 1,
+            "lines_more": 0,
+            "channels": [
+                "C1MGL6NJY"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc21925L6L",
+                "created": 1471214043,
+                "timestamp": 1471214043,
+                "user": "U1MGW16JZ",
+                "is_intro": true,
+                "comment": "probably our last one",
+                "channel": ""
+            }
+        },
+        "user": "U1MGW16JZ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1MGW16JZ|ti_liu>",
+        "bot_id": null,
+        "ts": "1471214043.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "cool",
+        "ts": "1471214645.000004"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1MGNL4KU|demo> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/demo\/F2195ULM6\/relation_datatbase_design.xml|Relation datatbase design.xml> and commented: Relational Database Design",
+        "file": {
+            "id": "F2195ULM6",
+            "created": 1471216726,
+            "timestamp": 1471216726,
+            "name": "Relation datatbase design.xml",
+            "title": "Relation datatbase design.xml",
+            "mimetype": "text\/plain",
+            "filetype": "xml",
+            "pretty_type": "XML",
+            "user": "U1MGNL4KU",
+            "editable": true,
+            "size": 3392,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F2195ULM6\/relation_datatbase_design.xml?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F2195ULM6\/download\/relation_datatbase_design.xml?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/demo\/F2195ULM6\/relation_datatbase_design.xml",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F2195ULM6-3da87ddb62",
+            "edit_link": "https:\/\/compdatabaseproject.slack.com\/files\/demo\/F2195ULM6\/relation_datatbase_design.xml\/edit",
+            "preview": "<mxfile userAgent=\"Mozilla\/5.0 (Windows NT 10.0; WOW64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/52.0.2743.116 Safari\/537.36\" version=\"5.5.5.8\" editor=\"www.draw.io\" type=\"device\"><diagram>7V1dc+I6Ev01eU0Bxnw8XnJnZqs2UzuV7NbuPlEKVsB3bIuyRQjz62\/LkoxtmQCOpXgqDRRg+VM6R9LpVlu+8e7i128p2W6+s4BGN6NB8Hrj\/XkzGg1H\/hR+RMpBpkwHnkxYp2GgNjomPIa\/qEocqNRdGNCssiFnLOLhtpq4YklCV7ySRtKU7aubPbOoetYtWeszHhMeVyQyU\/8bBnwjU2ejyTH9HzRcb\/SZh5O5XPNEVj\/XKdsl6nw3I+85f8nVMdHHUhnNNiRg+1KS9wXKNWUMjiz+xa93NBJlq4tN7vf1xNriulOaqGt7ewdYJXZ4IdFOZf0bXD2Usrw6ftAlku3DOCIJLC02PI4gcQh\/n1nCH9VGA1hebcIouCcHthNnzziUhl5abFga\/oLtid4ZVqdcYQ8lC0cLo+iORSzNT+nRgXhX9nwUR1TnSmkG+\/7QWRVHlEn3JBMJ+fWwKCLbLHzKr1BsEpN0HSYLxjmL1UY6a1+rp1e4eQsShesE0lZwIgorF6rMaMqpZrxZ7nmSKvRvlMWUpwfYRO1QMF1VkLmqMPsj24YTtcmmwjSVSBTD18WhjyjDHwV0M+iqLpZAF5TdLmG9oMuExFvIZSRA+\/HPYnktlg1eQBHk4B45kfGU\/aS6IBOWc6YMrUrKtmQVJut7+izyNj6mPKjsiqT9JuT0EdLF6fbQ2EAag5J\/jvJaswmDgAI2i5RxwomEWWC6ZWHC8yLyF\/CBXN0Nbv0bHy75DpYBHL0MH7F5yu9YApdOYD\/YjQKH9lTw6DK083pkoq3Q1e3GOXT1du8Bd2yAG0DJLDn5CQWF6LVAz1eNpAv...",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-tag cm-bracket\">&lt;<\/span><span class=\"cm-tag\">mxfile<\/span> <span class=\"cm-attribute\">userAgent<\/span>=<span class=\"cm-string\">&quot;Mozilla\/5.0 (Windows NT 10.0; WOW64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/52.0.2743.116 Safari\/537.36&quot;<\/span> <span class=\"cm-attribute\">version<\/span>=<span class=\"cm-string\">&quot;5.5.5.8&quot;<\/span> <span class=\"cm-attribute\">editor<\/span>=<span class=\"cm-string\">&quot;www.draw.io&quot;<\/span> <span class=\"cm-attribute\">type<\/span>=<span class=\"cm-string\">&quot;device&quot;<\/span><span class=\"cm-tag cm-bracket\">&gt;<\/span><span class=\"cm-tag cm-bracket\">&lt;<\/span><span class=\"cm-tag\">diagram<\/span><span class=\"cm-tag cm-bracket\">&gt;<\/span>7V1dc+I6Ev01eU0Bxnw8XnJnZqs2UzuV7NbuPlEKVsB3bIuyRQjz62\/LkoxtmQCOpXgqDRRg+VM6R9LpVlu+8e7i128p2W6+s4BGN6NB8Hrj\/XkzGg1H\/hR+RMpBpkwHnkxYp2GgNjomPIa\/qEocqNRdGNCssiFnLOLhtpq4YklCV7ySRtKU7aubPbOoetYtWeszHhMeVyQyU\/8bBnwjU2ejyTH9HzRcb\/SZh5O5XPNEVj\/XKdsl6nw3I+85f8nVMdHHUhnNNiRg+1KS9wXKNWUMjiz+xa93NBJlq4tN7vf1xNriulOaqGt7ewdYJXZ4IdFOZf0bXD2Usrw6ftAlku3DOCIJLC02PI4gcQh\/n1nCH9VGA1hebcIouCcHthNnzziUhl5abFga\/oLtid4ZVqdcYQ8lC0cLo+iORSzNT+nRgXhX9nwUR1TnSmkG+\/7QWRVHlEn3JBMJ+fWwKCLbLHzKr1BsEpN0HSYLxjmL1UY6a1+rp1e4eQsShesE0lZwIgorF6rMaMqpZrxZ7nmSKvRvlMWUpwfYRO1QMF1VkLmqMPsj24YTtcmmwjSVSBTD18WhjyjDHwV0M+iqLpZAF5TdLmG9oMuExFvIZSRA+\/HPYnktlg1eQBHk4B45kfGU\/aS6IBOWc6YMrUrKtmQVJut7+izyNj6mPKjsiqT9JuT0EdLF6fbQ2EAag5J\/jvJaswmDgAI2i5RxwomEWWC6ZWHC8yLyF\/CBXN0Nbv0bHy75DpYBHL0MH7F5yu9YApdOYD\/YjQKH9lTw6DK083pkoq3Q1e3GOXT1du8Bd2yAG0DJLDn5CQWF6LVAz1eNpAv...<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 1,
+            "lines_more": 0,
+            "channels": [
+                "C1MGL6NJY"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc219EHNA3",
+                "created": 1471216726,
+                "timestamp": 1471216726,
+                "user": "U1MGNL4KU",
+                "is_intro": true,
+                "comment": "Relational Database Design",
+                "channel": ""
+            }
+        },
+        "user": "U1MGNL4KU",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1MGNL4KU|demo>",
+        "bot_id": null,
+        "ts": "1471216726.000005"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1MGNL4KU|demo> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/demo\/F219QQ2EM\/queries.txt|Queries.txt> and commented: Used the queries from warmup project",
+        "file": {
+            "id": "F219QQ2EM",
+            "created": 1471221470,
+            "timestamp": 1471221470,
+            "name": "Queries.txt",
+            "title": "Queries.txt",
+            "mimetype": "text\/plain",
+            "filetype": "text",
+            "pretty_type": "Plain Text",
+            "user": "U1MGNL4KU",
+            "editable": true,
+            "size": 15257,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F219QQ2EM\/queries.txt?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F219QQ2EM\/download\/queries.txt?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/demo\/F219QQ2EM\/queries.txt",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F219QQ2EM-5629101408",
+            "edit_link": "https:\/\/compdatabaseproject.slack.com\/files\/demo\/F219QQ2EM\/queries.txt\/edit",
+            "preview": "\r\n\r\n1. Show all of your tables \r\n\r\nmysql> Show tables;\r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><\/pre><\/div>\n<div><pre><\/pre><\/div>\n<div><pre>1. Show all of your tables <\/pre><\/div>\n<div><pre><\/pre><\/div>\n<div><pre>mysql&gt; Show tables;<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 191,
+            "lines_more": 186,
+            "channels": [
+                "C1MGL6NJY"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc219N5Y4F",
+                "created": 1471221470,
+                "timestamp": 1471221470,
+                "user": "U1MGNL4KU",
+                "is_intro": true,
+                "comment": "Used the queries from warmup project",
+                "channel": ""
+            }
+        },
+        "user": "U1MGNL4KU",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1MGNL4KU|demo>",
+        "bot_id": null,
+        "ts": "1471221470.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "one note",
+        "ts": "1471232588.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "our final SQL code",
+        "ts": "1471232593.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "is not going to work",
+        "ts": "1471232598.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "we need to add column leader_id to the groups table after we create the users table",
+        "ts": "1471232632.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "cause its trying to reference a table that doesnt exist",
+        "ts": "1471232660.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "also idk if you should add inserting default sys_details and creating the admin to the SQL",
+        "ts": "1471232685.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "should def add the trigger creation tho",
+        "ts": "1471232703.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "CREATE TRIGGER DeleteVersion AFTER UPDATE ON Users FOR EACH ROW UPDATE File_versions v SET v.data = NULL, v.is_current = 0 WHERE v.is_deleted = 1 and (SELECT MAX(delete_date) FROM Deletes where file_id = v.file_id and version_number = v.version_number GROUP BY file_id, version_number) &lt; NOW() - INTERVAL 1 DAY;",
+        "ts": "1471232704.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Ill add this tmrw",
+        "ts": "1471236820.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Thanks!",
+        "ts": "1471236826.000016"
+    }
+]

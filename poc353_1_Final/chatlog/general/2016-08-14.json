@@ -1,0 +1,1056 @@
+[
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "What's the plan?",
+        "ts": "1471177952.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "We made a list of what we have done for the report snd whats left on friday and posted on slack",
+        "ts": "1471182465.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "So far we finished the database assumptions, rational explanations, descriptions, updated er diagram and sql",
+        "ts": "1471182531.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Need to do on limitations, why we designed the database in a certain way, have a log of what we did, and the source code",
+        "ts": "1471182583.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Also BCNF OR 3NF for each ",
+        "ts": "1471185953.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "<@U1MGW6FUM>: yeah",
+        "ts": "1471186669.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Well just 3nf",
+        "ts": "1471186678.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "okay, im still trying to find a way for archive but couldnt achieve anything",
+        "ts": "1471186966.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "the deadline is tomorrow",
+        "ts": "1471186979.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "and also we have to dthe file size",
+        "ts": "1471186994.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "yeah",
+        "ts": "1471187697.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "for file size",
+        "ts": "1471187702.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "do you think we should take the size of the previous version and compare it to the new one",
+        "ts": "1471187727.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "or do you think we should take the size of the current version and compare it to the new one",
+        "ts": "1471187752.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "need to add a new db column definitely for the second one",
+        "ts": "1471187768.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "the first option is better , since we dont need to modify the db",
+        "ts": "1471187811.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "do u guyz wanna meet today and try to finish it",
+        "ts": "1471187828.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "yeah but idk if thats what they really want",
+        "ts": "1471187829.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "lol im not meeting",
+        "ts": "1471187843.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "need to finish my stupid soen thing",
+        "ts": "1471187872.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "but i can do the size",
+        "ts": "1471187885.000018"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "okay, yea please do it",
+        "ts": "1471187893.000019"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "at least we cover one thing",
+        "ts": "1471187902.000020"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "has anyone emailed the ta ?",
+        "ts": "1471187922.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "just need to know how we are gonna do it",
+        "ts": "1471187922.000022"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "she wants to see the file size when it's uploaded i guess",
+        "ts": "1471187971.000023"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "we already keep the file size",
+        "ts": "1471188049.000024"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "she wants the change in size",
+        "ts": "1471188055.000025"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "then we simply compare the files as you suggested",
+        "ts": "1471188190.000026"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "yes i was asking which we should compare it to",
+        "ts": "1471188217.000027"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "like if you upload version 4 do we compare it to version 3",
+        "ts": "1471188229.000028"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "or do we compare it to the current version at the time of the upload (maybe version 2)",
+        "ts": "1471188248.000029"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "i think the 2nd way?",
+        "ts": "1471188378.000030"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "ok we need to add a new db column",
+        "ts": "1471188470.000031"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "but if the first one works without adding anything to db , its better",
+        "ts": "1471188926.000032"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "idk it might but idk if thats what they want",
+        "ts": "1471188956.000033"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "so the size thing is done",
+        "ts": "1471196768.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "but its not retroactive",
+        "ts": "1471196774.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "so any files before when i impleneted this have their sizechange to 0",
+        "ts": "1471196792.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "basically i added a new column to the File_versions table called size change",
+        "ts": "1471196815.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "and i added the data to the Member Stats and Activity Log tables on the group page teacher\/ta view",
+        "ts": "1471196850.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "<!channel>: send me ur responsibilities in a word doc please, only Hussain has done it so far",
+        "ts": "1471212264.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Let me know once you are done with editing the codes so I can document them",
+        "ts": "1471212299.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Or any changes uve made on the database",
+        "ts": "1471212316.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "do you want like an actual paragraph or just like point form or wtv?",
+        "ts": "1471212449.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "<@U1PBB7C4T>: a paragraph would be great, like just state what .php files you've contributed and who helped you along the way, and yeah you also designed the E-R",
+        "ts": "1471212776.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "lol i forgot about that",
+        "ts": "1471212851.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "<@U1PBB7C4T>: I'll add whatever you forget",
+        "ts": "1471212932.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "ok I'll do it now",
+        "ts": "1471213129.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "@thanks!",
+        "ts": "1471213133.000010"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1MGW16JZ|ti_liu> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F219CPWM7\/pasted_image_at_2016_08_14_06_25_pm.png|Pasted image at 2016-08-14, 6:25 PM>",
+        "file": {
+            "id": "F219CPWM7",
+            "created": 1471213518,
+            "timestamp": 1471213518,
+            "name": "Pasted image at 2016_08_14 06_25 PM.png",
+            "title": "Pasted image at 2016-08-14, 6:25 PM",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U1MGW16JZ",
+            "editable": false,
+            "size": 108675,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F219CPWM7\/pasted_image_at_2016_08_14_06_25_pm.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F219CPWM7\/download\/pasted_image_at_2016_08_14_06_25_pm.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F219CPWM7-348ff93920\/pasted_image_at_2016_08_14_06_25_pm_64.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F219CPWM7-348ff93920\/pasted_image_at_2016_08_14_06_25_pm_80.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F219CPWM7-348ff93920\/pasted_image_at_2016_08_14_06_25_pm_360.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_360_w": 360,
+            "thumb_360_h": 358,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F219CPWM7-348ff93920\/pasted_image_at_2016_08_14_06_25_pm_480.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_480_w": 480,
+            "thumb_480_h": 477,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F219CPWM7-348ff93920\/pasted_image_at_2016_08_14_06_25_pm_160.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F219CPWM7-348ff93920\/pasted_image_at_2016_08_14_06_25_pm_720.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_720_w": 720,
+            "thumb_720_h": 715,
+            "image_exif_rotation": 1,
+            "original_w": 774,
+            "original_h": 769,
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F219CPWM7\/pasted_image_at_2016_08_14_06_25_pm.png",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F219CPWM7-3cbcf70823",
+            "channels": [
+                "C1MGNL6R0"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U1MGW16JZ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1MGW16JZ|ti_liu>",
+        "bot_id": null,
+        "ts": "1471213520.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "<!channel>:  just to be sure, anything wrong with this?",
+        "ts": "1471213539.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "need to add sizechanged to File_versions",
+        "ts": "1471213664.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "kk",
+        "ts": "1471213686.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "i'll finalize tomorrow if you are have anything to add",
+        "ts": "1471213724.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "<@U1PBBB3J7>: are you alive :eyes:",
+        "ts": "1471214672.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "<!channel>: when Im trying to think for limitations of our platform, we actually dont have grades for assignments, but only the final grade for a student",
+        "ts": "1471218763.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "do we actually need grades for each assignment?",
+        "ts": "1471218782.000018"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i geuss thats a limitation",
+        "ts": "1471221594.000019"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "idk",
+        "ts": "1471221595.000020"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "wasnt in the specs",
+        "ts": "1471221600.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "also limitation",
+        "ts": "1471221604.000022"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "the prof cant upload assignment instructions lol",
+        "ts": "1471221615.000023"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "yeah lol",
+        "ts": "1471221621.000024"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "based on our E-R, our tables is already in 3NF...",
+        "ts": "1471221642.000025"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "I am making screenshots for each php file..",
+        "ts": "1471221668.000026"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "should we take screenshots of each page?",
+        "ts": "1471221720.000027"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "im doing it now",
+        "ts": "1471222371.000028"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "i finished for admins and teachers",
+        "ts": "1471222380.000029"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "now i just got into TAs, seems there an extra title, can anyone take it out?",
+        "ts": "1471222403.000030"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1MGW16JZ|ti_liu> shared a file: <https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F219SLY5D\/comp353_final_report|Comp353_Final_Report>",
+        "file": {
+            "id": "F219SLY5D",
+            "created": 1471223887,
+            "timestamp": 1471223887,
+            "name": "Comp353_Final_Report",
+            "title": "Comp353_Final_Report",
+            "mimetype": "application\/vnd.google-apps.document",
+            "filetype": "gdoc",
+            "pretty_type": "GDocs Document",
+            "user": "U1MGW16JZ",
+            "editable": false,
+            "size": 28972,
+            "mode": "external",
+            "is_external": true,
+            "external_type": "gdrive",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/docs.google.com\/document\/d\/1u8jN1i3OeNOcXdnx8pUCsfE4rB6LFcFjHnVVvWafO5E\/edit?usp=drivesdk",
+            "thumb_64": "https:\/\/a.slack-edge.com\/66f9\/img\/files\/gdraw_64.png",
+            "thumb_360": "https:\/\/a.slack-edge.com\/272a\/img\/files\/gdoc_360.png",
+            "thumb_360_w": 360,
+            "thumb_360_h": 167,
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F219SLY5D\/comp353_final_report",
+            "channels": [
+                "C1MGNL6R0"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U1MGW16JZ",
+        "upload": false,
+        "display_as_bot": false,
+        "username": "<@U1MGW16JZ|ti_liu>",
+        "bot_id": null,
+        "ts": "1471223887.000032"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "<@U1PBBB3J7>:  Please send me your responsibilities paragraph",
+        "ts": "1471223919.000034"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "if anyone is working on the php codes, can someone just get rid of the extra header? I only left TAs undocumented for now..",
+        "ts": "1471223949.000035"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "<!channel>:  tomorrow i'll wait on updates on archiving and file size, after that I will document. I think most of the descriptive parts are done, but feel free let me know what to add",
+        "ts": "1471224003.000036"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "what do u mean extra header?",
+        "ts": "1471224436.000037"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "file size is done",
+        "ts": "1471224452.000038"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Login as ta and ull see",
+        "ts": "1471224679.000039"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "why is there submit buttons on the admin page? and are we keeping the old archive functionality?",
+        "ts": "1471230130.000040"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "ill submit my contributions in a sec <@U1MGW16JZ> sorry for the delay",
+        "ts": "1471230153.000041"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "uhhh idk what those buttons are",
+        "ts": "1471230172.000042"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "also the ta mentioned to make sure to include login details in the report including our group user name and password",
+        "ts": "1471230211.000043"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "and also there is missing a space between the download button on the admin page",
+        "ts": "1471230252.000044"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "yo wtf are these submit buttons",
+        "ts": "1471230300.000045"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "and you cant just use",
+        "ts": "1471230306.000046"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "if($_SERVER['REQUEST_METHOD']=='POST'){",
+        "ts": "1471230307.000047"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "to check if the archive should run in the course page",
+        "ts": "1471230321.000048"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "theres other post functions on the course page",
+        "ts": "1471230343.000049"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "The submit buttons was supposed to be for the archive but didn't work, feel free to remove it ",
+        "ts": "1471230441.000050"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "ive made progress on archive",
+        "ts": "1471231253.000051"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "i can meet at school tomorrow to finalize the report if necessary. if not i can work from home",
+        "ts": "1471231254.000052"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "dont change zipper",
+        "ts": "1471231258.000053"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "I AM YOUR ZIPPER GOD",
+        "ts": "1471231361.000054"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "YESSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+        "ts": "1471231377.000055"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Lool gd job my friend ",
+        "ts": "1471231393.000056"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "if you click download it works",
+        "ts": "1471231406.000057"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i'll finish it tmr",
+        "ts": "1471231410.000058"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "THE PROBLEM",
+        "ts": "1471231415.000059"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "was",
+        "ts": "1471231416.000060"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "it puts the goddamn zip file",
+        "ts": "1471231422.000061"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": ":+1::ok_hand:",
+        "ts": "1471231426.000062"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "in \/groups\/p\/po_comp353_1",
+        "ts": "1471231443.000063"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "instead of",
+        "ts": "1471231446.000064"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "the \/www\/groups\/p\/po_comp353_1",
+        "ts": "1471231455.000065"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "kill me",
+        "ts": "1471231474.000066"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "is that why the disk quota was causing issues",
+        "ts": "1471231474.000067"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "no idea",
+        "ts": "1471231480.000068"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "think it was unrelated",
+        "ts": "1471231488.000069"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i'll finish the zip tomorrow morning",
+        "ts": "1471231505.000070"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "gonna just have 1 button",
+        "ts": "1471231514.000071"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "with sub folders in the zip for each group",
+        "ts": "1471231528.000072"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Ok thanks ",
+        "ts": "1471231530.000073"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "im gonna look over everything one last time tomorrow before we submit",
+        "ts": "1471231537.000074"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "and idk i'll put just the current versions inside the subfolders?",
+        "ts": "1471231552.000075"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "just need to under the submits on course",
+        "ts": "1471231577.000076"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "undo*",
+        "ts": "1471231582.000077"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "when you archive it or zip it what happens to the files in the database?",
+        "ts": "1471231601.000078"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "and add comments everywhere",
+        "ts": "1471231602.000079"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "nothing they stay there",
+        "ts": "1471231610.000080"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i assume the archive means",
+        "ts": "1471231616.000081"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "you download everything from the course",
+        "ts": "1471231622.000082"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "which idk they'd use if they were gonna delete the course?",
+        "ts": "1471231637.000083"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "are we keeping the old archove functionality as well? we can rename it to hide and unhide or something",
+        "ts": "1471231665.000084"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "idk",
+        "ts": "1471231746.000085"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "up to you",
+        "ts": "1471231750.000086"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "What was the problem in zipper?",
+        "ts": "1471231811.000087"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "in \/groups\/p\/po_comp353_1\n\n[11:24]  \ninstead of\n\n[11:24]  \nthe \/www\/groups\/p\/po_comp353_1",
+        "ts": "1471231838.000088"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "put the file in a dif directory",
+        "ts": "1471231847.000089"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "also",
+        "ts": "1471231849.000090"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "dont think we had access to do what we needed in the root \/groups\/p\/po_comp353_1",
+        "ts": "1471231873.000091"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "cause like it would be liek error renaming temp file blah blah",
+        "ts": "1471231898.000092"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "but when i added another folder it couldnt find it",
+        "ts": "1471231909.000093"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Ohhhh, thats why it worked in my localhost only ",
+        "ts": "1471231916.000094"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "so it was def there",
+        "ts": "1471231960.000095"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "so i added a sub folder and set the permissions to full for everyone",
+        "ts": "1471231965.000096"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "and put the temp file in that full access folder and it works fine",
+        "ts": "1471231989.000097"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "yeah proabbly why",
+        "ts": "1471231996.000098"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Okk",
+        "ts": "1471231998.000099"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "dumbest mistake",
+        "ts": "1471232023.000100"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "<!channel>: peer review is up",
+        "ts": "1471233134.000101"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "have until the 19th",
+        "ts": "1471233229.000102"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "i dont get it, do we have to submit a peer review for every single submission. or just 1 peer review total",
+        "ts": "1471233346.000103"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "what",
+        "ts": "1471233475.000104"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "you rate each team member",
+        "ts": "1471233498.000105"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "i know but if you go on the course documents page with all the assignments, there is a link to peer review for each assignment",
+        "ts": "1471233546.000106"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "it just brings you to the peer review homepage",
+        "ts": "1471233587.000107"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "lol i think it shows what each person rated you",
+        "ts": "1471233624.000108"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "lmao",
+        "ts": "1471233830.000109"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "crsmgr emailed my password again",
+        "ts": "1471234355.000110"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "good thing its basically the equivalent of whyareyousendingmemypassword now",
+        "ts": "1471234382.000111"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "<!channel>:  so i'll update the admins documentation tomorrow with your new updates",
+        "ts": "1471236999.000112"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "<!channel>:  if you didnt see my previous post, here it is:",
+        "ts": "1471237037.000113"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "<!channel> <@U1PBBB3J7> if you can come to school tomorrow to finalize the report, let me know! <https:\/\/docs.google.com\/document\/d\/1u8jN1i3OeNOcXdnx8pUCsfE4rB6LFcFjHnVVvWafO5E\/edit>",
+        "ts": "1471237069.000114"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1MGW16JZ|ti_liu> shared a file: <https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F219SLY5D\/comp353_final_report|Comp353_Final_Report>",
+        "file": {
+            "id": "F219SLY5D",
+            "created": 1471223887,
+            "timestamp": 1471223887,
+            "name": "Comp353_Final_Report",
+            "title": "Comp353_Final_Report",
+            "mimetype": "application\/vnd.google-apps.document",
+            "filetype": "gdoc",
+            "pretty_type": "GDocs Document",
+            "user": "U1MGW16JZ",
+            "editable": false,
+            "size": 28972,
+            "mode": "external",
+            "is_external": true,
+            "external_type": "gdrive",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/docs.google.com\/document\/d\/1u8jN1i3OeNOcXdnx8pUCsfE4rB6LFcFjHnVVvWafO5E\/edit?usp=drivesdk",
+            "thumb_64": "https:\/\/a.slack-edge.com\/66f9\/img\/files\/gdraw_64.png",
+            "thumb_360": "https:\/\/a.slack-edge.com\/272a\/img\/files\/gdoc_360.png",
+            "thumb_360_w": 360,
+            "thumb_360_h": 167,
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F219SLY5D\/comp353_final_report",
+            "channels": [
+                "C1MGNL6R0"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U1MGW16JZ",
+        "upload": false,
+        "display_as_bot": false,
+        "username": "<@U1MGW16JZ|ti_liu>",
+        "bot_id": null,
+        "ts": "1471237070.000115"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "CREATE TRIGGER DeleteVersion AFTER UPDATE ON Users FOR EACH ROW UPDATE File_versions v SET v.data = NULL, v.is_current = 0 WHERE v.is_deleted = 1 and (SELECT MAX(delete_date) FROM Deletes where file_id = v.file_id and version_number = v.version_number GROUP BY file_id, version_number) &lt; NOW() - INTERVAL 1 DAY;",
+        "ts": "1470018727.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "sql for trigger",
+        "ts": "1470018732.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "worked on my local one",
+        "ts": "1470018906.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i'll delete a file and see if its done in 24 hrs lol",
+        "ts": "1470018916.000005"
+    }
+]

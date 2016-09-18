@@ -1,0 +1,56 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1MGW6FUM|hussainq> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/hussainq\/F1UHPM1D0\/asignment_2_slo.docx|asignment 2 slo.docx> and commented: here's the rest of the solutions. check it out",
+        "file": {
+            "id": "F1UHPM1D0",
+            "created": 1469327220,
+            "timestamp": 1469327220,
+            "name": "asignment 2 slo.docx",
+            "title": "asignment 2 slo.docx",
+            "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "filetype": "docx",
+            "pretty_type": "Word Document",
+            "user": "U1MGW6FUM",
+            "editable": false,
+            "size": 87664,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1UHPM1D0\/asignment_2_slo.docx?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1UHPM1D0\/download\/asignment_2_slo.docx?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/hussainq\/F1UHPM1D0\/asignment_2_slo.docx",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F1UHPM1D0-372224a13b",
+            "channels": [
+                "C1TL1EPGQ"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc1UHD0PRV",
+                "created": 1469327220,
+                "timestamp": 1469327220,
+                "user": "U1MGW6FUM",
+                "is_intro": true,
+                "comment": "here's the rest of the solutions. check it out",
+                "channel": ""
+            }
+        },
+        "user": "U1MGW6FUM",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1MGW6FUM|hussainq>",
+        "bot_id": null,
+        "ts": "1469327221.000002"
+    }
+]

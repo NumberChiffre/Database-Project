@@ -1,0 +1,338 @@
+[
+    {
+        "user": "U1PBBB3J7",
+        "text": "<@U1PBBB3J7|jordan_orsini> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1467838524.000002"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1MGNL4KU|demo> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/demo\/F1PDYAKKK\/slack_for_ios_upload.jpg|Slack for iOS Upload>",
+        "file": {
+            "id": "F1PDYAKKK",
+            "created": 1467843438,
+            "timestamp": 1467843438,
+            "name": "Slack for iOS Upload.jpg",
+            "title": "Slack for iOS Upload",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U1MGNL4KU",
+            "editable": false,
+            "size": 1435781,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1PDYAKKK\/slack_for_ios_upload.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1PDYAKKK\/download\/slack_for_ios_upload.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1PDYAKKK-28534cc419\/slack_for_ios_upload_64.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1PDYAKKK-28534cc419\/slack_for_ios_upload_80.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1PDYAKKK-28534cc419\/slack_for_ios_upload_360.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_360_w": 270,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1PDYAKKK-28534cc419\/slack_for_ios_upload_480.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_480_w": 360,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1PDYAKKK-28534cc419\/slack_for_ios_upload_160.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1PDYAKKK-28534cc419\/slack_for_ios_upload_720.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_720_w": 540,
+            "thumb_720_h": 720,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1PDYAKKK-28534cc419\/slack_for_ios_upload_960.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_960_w": 720,
+            "thumb_960_h": 960,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1PDYAKKK-28534cc419\/slack_for_ios_upload_1024.jpg?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_1024_w": 768,
+            "thumb_1024_h": 1024,
+            "image_exif_rotation": 1,
+            "original_w": 3264,
+            "original_h": 2448,
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/demo\/F1PDYAKKK\/slack_for_ios_upload.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F1PDYAKKK-9c8beae93a",
+            "channels": [
+                "C1MGL6NJY"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U1MGNL4KU",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1MGNL4KU|demo>",
+        "bot_id": null,
+        "ts": "1467843442.000002"
+    },
+    {
+        "user": "U1PBB7C4T",
+        "text": "<@U1PBB7C4T|shayne> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1467843473.000003"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1PBB7C4T|shayne> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/shayne\/F1PEGHZL6\/pasted_image_at_2016_07_06_09_01_pm.png|thing>",
+        "file": {
+            "id": "F1PEGHZL6",
+            "created": 1467853308,
+            "timestamp": 1467853308,
+            "name": "Pasted image at 2016_07_06 09_01 PM.png",
+            "title": "thing",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U1PBB7C4T",
+            "editable": false,
+            "size": 66548,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1PEGHZL6\/pasted_image_at_2016_07_06_09_01_pm.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1PEGHZL6\/download\/pasted_image_at_2016_07_06_09_01_pm.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1PEGHZL6-3a017a7144\/pasted_image_at_2016_07_06_09_01_pm_64.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1PEGHZL6-3a017a7144\/pasted_image_at_2016_07_06_09_01_pm_80.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1PEGHZL6-3a017a7144\/pasted_image_at_2016_07_06_09_01_pm_360.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_360_w": 360,
+            "thumb_360_h": 357,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1PEGHZL6-3a017a7144\/pasted_image_at_2016_07_06_09_01_pm_480.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_480_w": 480,
+            "thumb_480_h": 476,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1PEGHZL6-3a017a7144\/pasted_image_at_2016_07_06_09_01_pm_160.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1PEGHZL6-3a017a7144\/pasted_image_at_2016_07_06_09_01_pm_720.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_720_w": 720,
+            "thumb_720_h": 715,
+            "image_exif_rotation": 1,
+            "original_w": 813,
+            "original_h": 807,
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/shayne\/F1PEGHZL6\/pasted_image_at_2016_07_06_09_01_pm.png",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F1PEGHZL6-e9ec185d83",
+            "channels": [
+                "C1MGL6NJY"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U1PBB7C4T",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1PBB7C4T|shayne>",
+        "bot_id": null,
+        "ts": "1467853310.000002"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1PBB7C4T|shayne> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/shayne\/F1PF1RCBC\/pasted_image_at_2016_07_06_09_02_pm.png|thing 2>",
+        "file": {
+            "id": "F1PF1RCBC",
+            "created": 1467853349,
+            "timestamp": 1467853349,
+            "name": "Pasted image at 2016_07_06 09_02 PM.png",
+            "title": "thing 2",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U1PBB7C4T",
+            "editable": false,
+            "size": 40305,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1PF1RCBC\/pasted_image_at_2016_07_06_09_02_pm.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1PF1RCBC\/download\/pasted_image_at_2016_07_06_09_02_pm.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1PF1RCBC-5088275e8d\/pasted_image_at_2016_07_06_09_02_pm_64.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1PF1RCBC-5088275e8d\/pasted_image_at_2016_07_06_09_02_pm_80.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1PF1RCBC-5088275e8d\/pasted_image_at_2016_07_06_09_02_pm_360.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_360_w": 360,
+            "thumb_360_h": 281,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1PF1RCBC-5088275e8d\/pasted_image_at_2016_07_06_09_02_pm_480.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_480_w": 480,
+            "thumb_480_h": 375,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1PF1RCBC-5088275e8d\/pasted_image_at_2016_07_06_09_02_pm_160.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1PF1RCBC-5088275e8d\/pasted_image_at_2016_07_06_09_02_pm_720.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_720_w": 720,
+            "thumb_720_h": 562,
+            "image_exif_rotation": 1,
+            "original_w": 738,
+            "original_h": 576,
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/shayne\/F1PF1RCBC\/pasted_image_at_2016_07_06_09_02_pm.png",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F1PF1RCBC-e428277fb7",
+            "channels": [
+                "C1MGL6NJY"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U1PBB7C4T",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1PBB7C4T|shayne>",
+        "bot_id": null,
+        "ts": "1467853350.000003"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1PBB7C4T|shayne> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/shayne\/F1PEFB5M2\/erdiagram.xml|ERDiagram.xml>",
+        "file": {
+            "id": "F1PEFB5M2",
+            "created": 1467853530,
+            "timestamp": 1467853530,
+            "name": "ERDiagram.xml",
+            "title": "ERDiagram.xml",
+            "mimetype": "text\/plain",
+            "filetype": "xml",
+            "pretty_type": "XML",
+            "user": "U1PBB7C4T",
+            "editable": true,
+            "size": 2978,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1PEFB5M2\/erdiagram.xml?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1PEFB5M2\/download\/erdiagram.xml?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/shayne\/F1PEFB5M2\/erdiagram.xml",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F1PEFB5M2-287c5c371c",
+            "edit_link": "https:\/\/compdatabaseproject.slack.com\/files\/shayne\/F1PEFB5M2\/erdiagram.xml\/edit",
+            "preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<mxfile userAgent=\"Mozilla\/5.0 (Windows NT 6.1; WOW64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/51.0.2704.103 Safari\/537.36\" version=\"5.5.2.7\" editor=\"www.draw.io\" type=\"google\"><diagram>7V1Lk9s2DP41e0zHsvw8bjavdtqZzOx02p46is211cimK8nZ3f76gCKgB0V7nUgkxca+2IIkUgI+ggAIwjfh3e7pfRodtr\/xNUtuxqP100345mY8DoJgAl+C8iwpszESNmm8xosqwn38H0PiCKnHeM2yxoU550keH5rEFd\/v2Spv0KI05Y\/Nyx540uz1EG2ox4pwv4qSNvWPeJ1vJXUxnlX0DyzebKnnYLaUZz5Fq8+blB\/32N\/NOHwoPvL0LqK28EWzbbTmjzVS+Bb4mnIOLYtfu6c7lgjeEtvkfe9OnC2fO2V7fLbzN8ApccOXKDniq+Nz5c\/EizyNo\/1GHL1+3MY5uz9EK3HqEUQPtG2+S+AogJ8pz6M85ns4fLUcAQEbZ2nOCBrtByxI+HTvGd+xPH2GS\/CGMEROIZKg3eLwsRLLDEnbmkQWSIsQCJuy4YoZ8AP5oedN2OLNz\/e3bfawJ+izzoYsT\/lndscTngJlz\/eCdQ9xkiikKIk3glcrYAUD+mvBqBhAeIsndvF6fZLvHK5+SArsbOE6Bjf0wu9Jk98B8b\/GcLqkznACdBeGk9aocZetYVziIU\/zLd\/wfZS8ragAOhhsTLQgEFcTA3uK8z9rv\/8Sl\/w0FUd7eDBxqnZYnC0O1rdCgVRiAso7EB6e\/4fl+TMqrOiYcyGJ8rl+5RxEU\/Qo30Q8\/nlBwNvyY1oIFg6nqOuidMOIsXpxpSyBsfal2XoX5mPXNbT\/ngEqVYFIcJNShCd7SSm0UN4DSEtQIkhptNcwGow0IC2JXRg1NwFSR...",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-meta\">&lt;?xml<\/span> <span class=\"cm-meta\">version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;<\/span><\/pre><\/div>\n<div><pre><span class=\"cm-tag cm-bracket\">&lt;<\/span><span class=\"cm-tag\">mxfile<\/span> <span class=\"cm-attribute\">userAgent<\/span>=<span class=\"cm-string\">&quot;Mozilla\/5.0 (Windows NT 6.1; WOW64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/51.0.2704.103 Safari\/537.36&quot;<\/span> <span class=\"cm-attribute\">version<\/span>=<span class=\"cm-string\">&quot;5.5.2.7&quot;<\/span> <span class=\"cm-attribute\">editor<\/span>=<span class=\"cm-string\">&quot;www.draw.io&quot;<\/span> <span class=\"cm-attribute\">type<\/span>=<span class=\"cm-string\">&quot;google&quot;<\/span><span class=\"cm-tag cm-bracket\">&gt;<\/span><span class=\"cm-tag cm-bracket\">&lt;<\/span><span class=\"cm-tag\">diagram<\/span><span class=\"cm-tag cm-bracket\">&gt;<\/span>7V1Lk9s2DP41e0zHsvw8bjavdtqZzOx02p46is211cimK8nZ3f76gCKgB0V7nUgkxca+2IIkUgI+ggAIwjfh3e7pfRodtr\/xNUtuxqP100345mY8DoJgAl+C8iwpszESNmm8xosqwn38H0PiCKnHeM2yxoU550keH5rEFd\/v2Spv0KI05Y\/Nyx540uz1EG2ox4pwv4qSNvWPeJ1vJXUxnlX0DyzebKnnYLaUZz5Fq8+blB\/32N\/NOHwoPvL0LqK28EWzbbTmjzVS+Bb4mnIOLYtfu6c7lgjeEtvkfe9OnC2fO2V7fLbzN8ApccOXKDniq+Nz5c\/EizyNo\/1GHL1+3MY5uz9EK3HqEUQPtG2+S+AogJ8pz6M85ns4fLUcAQEbZ2nOCBrtByxI+HTvGd+xPH2GS\/CGMEROIZKg3eLwsRLLDEnbmkQWSIsQCJuy4YoZ8AP5oedN2OLNz\/e3bfawJ+izzoYsT\/lndscTngJlz\/eCdQ9xkiikKIk3glcrYAUD+mvBqBhAeIsndvF6fZLvHK5+SArsbOE6Bjf0wu9Jk98B8b\/GcLqkznACdBeGk9aocZetYVziIU\/zLd\/wfZS8ragAOhhsTLQgEFcTA3uK8z9rv\/8Sl\/w0FUd7eDBxqnZYnC0O1rdCgVRiAso7EB6e\/4fl+TMqrOiYcyGJ8rl+5RxEU\/Qo30Q8\/nlBwNvyY1oIFg6nqOuidMOIsXpxpSyBsfal2XoX5mPXNbT\/ngEqVYFIcJNShCd7SSm0UN4DSEtQIkhptNcwGow0IC2JXRg1NwFSR...<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 2,
+            "lines_more": 0,
+            "channels": [
+                "C1MGL6NJY"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U1PBB7C4T",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1PBB7C4T|shayne>",
+        "bot_id": null,
+        "ts": "1467853531.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "lmao",
+        "ts": "1467853539.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "just download it and open it in <http:\/\/draw.io|draw.io> if you want to edit it",
+        "ts": "1467853554.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Nah I'm hardcore i'll just play around with that text file",
+        "ts": "1467853591.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "goodluck",
+        "ts": "1467853609.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "lol",
+        "ts": "1467853612.000009"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1PBB7C4T|shayne> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/shayne\/F1PEMGVNU\/tablesquick.xml|TablesQuick.xml>",
+        "file": {
+            "id": "F1PEMGVNU",
+            "created": 1467853625,
+            "timestamp": 1467853625,
+            "name": "TablesQuick.xml",
+            "title": "TablesQuick.xml",
+            "mimetype": "text\/plain",
+            "filetype": "xml",
+            "pretty_type": "XML",
+            "user": "U1PBB7C4T",
+            "editable": true,
+            "size": 2066,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1PEMGVNU\/tablesquick.xml?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1PEMGVNU\/download\/tablesquick.xml?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/shayne\/F1PEMGVNU\/tablesquick.xml",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F1PEMGVNU-9b4d7d1fad",
+            "edit_link": "https:\/\/compdatabaseproject.slack.com\/files\/shayne\/F1PEMGVNU\/tablesquick.xml\/edit",
+            "preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<mxfile userAgent=\"Mozilla\/5.0 (Windows NT 6.1; WOW64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/51.0.2704.103 Safari\/537.36\" version=\"5.5.2.7\" editor=\"www.draw.io\" type=\"google\"><diagram>7VxRb6M4F\/01kXZfPoUQMv0em7TTfehKo4lW++wEB6wajIyZNPPr5xrsQOo0zcwGk3ZuFCVwMTb4HNvnXhtG4SJ7fpCkSP8WMeWjyTh+HoV3o8kkCIIp\/GnLrrFEN+PGkEgWm0StYcm+U2O0ySoW0\/IgoRKCK1YcGtciz+laHdiIlGJ7mGwj+GGpBUlsia1huSbctf7LYpU21pvJrLX\/RVmS2pKD2f+bIyuyfkqkqHJT3mgSbupPczgjNi9zo2VKYrHtmMJ7qFcpBOSst7LnBeW6bm21Ned9fuXo\/rolzc21nT4BDukTvhFemVv\/p6SyNBendrZCyi3LOMlhb56qjIMxgM2NyNXSJBrD\/jplPH4kO1HpwksFlWH35qmQ7DukJ\/ZkOCyVgR4qFnJjnC8EFxIMuWjK2p+01JmZYiQt4bQv9iZ1Zo3pkZTaUF+K4JwUJVvVF6eTZEQmLJ8LpURmEtm7+twpuUUsnJvKoVJRS223gmuTqd0HKjKq5A6SmBNmBmjbEMzutmVVMDW2tMuo0BiJYXKyz3lf2FdgPskTuMGfKM2m6BZmaW3LIlxRmRNF55rIDRkMgWCjc5etqabVcYqFDsVGkxnXlKhgI9EbkNSYILO9dRTe6mygnl+yEeCoKdUysVRSPNEX7DlCKMJZksMupxudg4aWQbO\/NWYlCp1ZQdYsTx7rNHfT1vLV1Jk2bVOm6BLs+pq20A2CTUB+G16355TFMYUs51IookhDQ825QsAd1RUdzeELcCzG\/4tGEdzXAvaBTXYfvjq5VAuRw\/0RX...",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-meta\">&lt;?xml<\/span> <span class=\"cm-meta\">version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;<\/span><\/pre><\/div>\n<div><pre><span class=\"cm-tag cm-bracket\">&lt;<\/span><span class=\"cm-tag\">mxfile<\/span> <span class=\"cm-attribute\">userAgent<\/span>=<span class=\"cm-string\">&quot;Mozilla\/5.0 (Windows NT 6.1; WOW64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/51.0.2704.103 Safari\/537.36&quot;<\/span> <span class=\"cm-attribute\">version<\/span>=<span class=\"cm-string\">&quot;5.5.2.7&quot;<\/span> <span class=\"cm-attribute\">editor<\/span>=<span class=\"cm-string\">&quot;www.draw.io&quot;<\/span> <span class=\"cm-attribute\">type<\/span>=<span class=\"cm-string\">&quot;google&quot;<\/span><span class=\"cm-tag cm-bracket\">&gt;<\/span><span class=\"cm-tag cm-bracket\">&lt;<\/span><span class=\"cm-tag\">diagram<\/span><span class=\"cm-tag cm-bracket\">&gt;<\/span>7VxRb6M4F\/01kXZfPoUQMv0em7TTfehKo4lW++wEB6wajIyZNPPr5xrsQOo0zcwGk3ZuFCVwMTb4HNvnXhtG4SJ7fpCkSP8WMeWjyTh+HoV3o8kkCIIp\/GnLrrFEN+PGkEgWm0StYcm+U2O0ySoW0\/IgoRKCK1YcGtciz+laHdiIlGJ7mGwj+GGpBUlsia1huSbctf7LYpU21pvJrLX\/RVmS2pKD2f+bIyuyfkqkqHJT3mgSbupPczgjNi9zo2VKYrHtmMJ7qFcpBOSst7LnBeW6bm21Ned9fuXo\/rolzc21nT4BDukTvhFemVv\/p6SyNBendrZCyi3LOMlhb56qjIMxgM2NyNXSJBrD\/jplPH4kO1HpwksFlWH35qmQ7DukJ\/ZkOCyVgR4qFnJjnC8EFxIMuWjK2p+01JmZYiQt4bQv9iZ1Zo3pkZTaUF+K4JwUJVvVF6eTZEQmLJ8LpURmEtm7+twpuUUsnJvKoVJRS223gmuTqd0HKjKq5A6SmBNmBmjbEMzutmVVMDW2tMuo0BiJYXKyz3lf2FdgPskTuMGfKM2m6BZmaW3LIlxRmRNF55rIDRkMgWCjc5etqabVcYqFDsVGkxnXlKhgI9EbkNSYILO9dRTe6mygnl+yEeCoKdUysVRSPNEX7DlCKMJZksMupxudg4aWQbO\/NWYlCp1ZQdYsTx7rNHfT1vLV1Jk2bVOm6BLs+pq20A2CTUB+G16355TFMYUs51IookhDQ825QsAd1RUdzeELcCzG\/4tGEdzXAvaBTXYfvjq5VAuRw\/0RX...<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 2,
+            "lines_more": 0,
+            "channels": [
+                "C1MGL6NJY"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U1PBB7C4T",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1PBB7C4T|shayne>",
+        "bot_id": null,
+        "ts": "1467853626.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "the shitty tables from the second picture^",
+        "ts": "1467853638.000011"
+    }
+]

@@ -1,0 +1,125 @@
+[
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "We're in 831",
+        "ts": "1470582467.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Ill be there at 1ish",
+        "ts": "1470583827.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "so <@U1MGW16JZ> and <@U1MGNL4KU>  are you guys coming..........",
+        "ts": "1470591810.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Yeah, slept in a bit longer than I planned, leaving my place in 10 so I should be there in less than an hour ",
+        "ts": "1470591968.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Alright finally got here ",
+        "ts": "1470596329.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Be there in 5",
+        "ts": "1470596334.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Jordan I figured out how to do it ",
+        "ts": "1470596993.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "how lol",
+        "ts": "1470597011.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "im struggling",
+        "ts": "1470597015.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Did u get it? Or ill do it when i come back",
+        "ts": "1470597023.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Ok ill do once in back ",
+        "ts": "1470597045.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Im",
+        "ts": "1470597047.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Its on remove member file",
+        "ts": "1470597075.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "i understand how to do it but the problem is how to get the users old group",
+        "ts": "1470597428.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "its fixed",
+        "ts": "1470598084.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "<http:\/\/stackoverflow.com\/questions\/253849\/cannot-truncate-table-because-it-is-being-referenced-by-a-foreign-key-constraint>",
+        "attachments": [
+            {
+                "title": "Cannot truncate table because it is being referenced by a FOREIGN KEY constraint?",
+                "title_link": "http:\/\/stackoverflow.com\/questions\/253849\/cannot-truncate-table-because-it-is-being-referenced-by-a-foreign-key-constraint",
+                "text": "Using MSSQL2005, can I truncate a table with a foreign key constraint if I first truncate the child table (the table with the primary key of the FK relationship)?I know that I can eitherUse a ...",
+                "fallback": "Cannot truncate table because it is being referenced by a FOREIGN KEY constraint?",
+                "thumb_url": "http:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/apple-touch-icon@2.png?v=73d79a89bded&a",
+                "from_url": "http:\/\/stackoverflow.com\/questions\/253849\/cannot-truncate-table-because-it-is-being-referenced-by-a-foreign-key-constraint",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "http:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/favicon.ico?v=4f32ecc8f43d",
+                "service_name": "stackoverflow.com",
+                "id": 1
+            }
+        ],
+        "ts": "1470598916.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "ALTER TABLE tablename AUTO_INCREMENT = 1",
+        "ts": "1470599029.000019"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "meeting 9:45am tomorrow in H831",
+        "ts": "1470603784.000020"
+    }
+]

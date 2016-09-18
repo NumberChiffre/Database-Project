@@ -1,0 +1,18 @@
+[
+    {
+        "user": "U1MGW6FUM",
+        "inviter": "U1MGNL4KU",
+        "text": "<@U1MGW6FUM|hussainq> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468002074.000002"
+    },
+    {
+        "user": "U1MGW16JZ",
+        "inviter": "U1MGNL4KU",
+        "text": "<@U1MGW16JZ|ti_liu> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468002074.000003"
+    }
+]

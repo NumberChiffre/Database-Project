@@ -1,0 +1,446 @@
+[
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "i have done the admin page <https:\/\/poc353_1.encs.concordia.ca\/groupadmin.php>",
+        "ts": "1470004921.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "have a look it",
+        "ts": "1470004925.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "at*",
+        "ts": "1470004933.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "I like the css, good stuff",
+        "ts": "1470004990.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "But it looks like anyone can access it, no?",
+        "ts": "1470005009.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "yes i didn't implement the permission yet",
+        "ts": "1470005027.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "everything is working except add a task and archive , cuz i dont know what it should have",
+        "ts": "1470005067.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Gj!",
+        "ts": "1470007648.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Btw, is our quiz on the second half and chapt 4 only?",
+        "ts": "1470007668.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "<@U1MGW16JZ> the file you uploaded isnt the right one",
+        "ts": "1470007837.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Its in my office's desktop, just noticed it",
+        "ts": "1470007961.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Will be done after quiz",
+        "ts": "1470007969.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Sounds good",
+        "ts": "1470008058.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "about to finish trc stuff too",
+        "ts": "1470008066.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "gimme 10 min",
+        "ts": "1470008072.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "admin page looks good",
+        "ts": "1470009261.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "so this is for teacher or admin?",
+        "ts": "1470009268.000018"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "kinda looks like what we have on the course.php page when u login as a teacher",
+        "ts": "1470009378.000019"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "as far as adding groups and all goes",
+        "ts": "1470009392.000020"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "tho those aren't implemented",
+        "ts": "1470009419.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Yes its for teacher and i was thinking of replacing it with course ",
+        "ts": "1470009432.000022"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Yes you can add groups and members ",
+        "ts": "1470009449.000023"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "alright",
+        "ts": "1470009457.000024"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "have you seen the course page while logged in as a teacher?",
+        "ts": "1470009473.000025"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Yes",
+        "ts": "1470009483.000026"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "teacher uname:d_kiouss pass: abc123",
+        "ts": "1470009488.000027"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "the buttons dont do anything tho",
+        "ts": "1470009526.000028"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Which buttons?",
+        "ts": "1470009575.000029"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "unrelated but your new groups dont have links to the assignments, need to make the entries in the Files table",
+        "ts": "1470009576.000030"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1PBB7C4T|shayne> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/shayne\/F1WRN4PB6\/pasted_image_at_2016_07_31_07_59_pm.png|Pasted image at 2016-07-31, 7:59 PM>",
+        "file": {
+            "id": "F1WRN4PB6",
+            "created": 1470009595,
+            "timestamp": 1470009595,
+            "name": "Pasted image at 2016_07_31 07_59 PM.png",
+            "title": "Pasted image at 2016-07-31, 7:59 PM",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U1PBB7C4T",
+            "editable": false,
+            "size": 11507,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1WRN4PB6\/pasted_image_at_2016_07_31_07_59_pm.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1WRN4PB6\/download\/pasted_image_at_2016_07_31_07_59_pm.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1WRN4PB6-a1ebb091ec\/pasted_image_at_2016_07_31_07_59_pm_64.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1WRN4PB6-a1ebb091ec\/pasted_image_at_2016_07_31_07_59_pm_80.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1WRN4PB6-a1ebb091ec\/pasted_image_at_2016_07_31_07_59_pm_360.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "thumb_360_w": 238,
+            "thumb_360_h": 244,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T1MG7L01E-F1WRN4PB6-a1ebb091ec\/pasted_image_at_2016_07_31_07_59_pm_160.png?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "image_exif_rotation": 1,
+            "original_w": 238,
+            "original_h": 244,
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/shayne\/F1WRN4PB6\/pasted_image_at_2016_07_31_07_59_pm.png",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F1WRN4PB6-0e18ebe130",
+            "channels": [
+                "C1MGNL6R0"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U1PBB7C4T",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1PBB7C4T|shayne>",
+        "bot_id": null,
+        "ts": "1470009596.000031"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "the add buttons on course",
+        "ts": "1470009601.000032"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Yea ",
+        "ts": "1470009605.000033"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Yea it does not work ",
+        "ts": "1470009617.000034"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Feel free to edit anything ",
+        "ts": "1470009639.000035"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i think teachers create groups\/assignments\/edit groups but the system admin can archive stuff and edit users",
+        "ts": "1470009697.000036"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "idk",
+        "ts": "1470009698.000037"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "The only buttons that don't work are add task and archive (in the admin panel)",
+        "ts": "1470009699.000038"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "im not sure tho",
+        "ts": "1470009721.000039"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "ok",
+        "ts": "1470009721.000040"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Actually the admin panel is meant to be for only teacher ",
+        "ts": "1470009732.000041"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "hmm ok",
+        "ts": "1470009756.000042"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "just trying to get why a teacher would edit a students username\/password",
+        "ts": "1470010106.000043"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "kinda just redid the course page with more stuff on it",
+        "ts": "1470010247.000044"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "ok so this is basically the course page",
+        "ts": "1470010576.000045"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "im fine with keeping this instead",
+        "ts": "1470010583.000046"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "we can add permissions around the buttons like we have on course",
+        "ts": "1470010594.000047"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "only changes i'd make",
+        "ts": "1470010601.000048"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "are view would go to the groups page isntead",
+        "ts": "1470010610.000049"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "like it has on course",
+        "ts": "1470010620.000050"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "obv we'll make groups look better",
+        "ts": "1470010629.000051"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "and edit",
+        "ts": "1470010641.000052"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "idk i think a teacher should just be able to set the group leader and thats it",
+        "ts": "1470010662.000053"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "but a system administrator should def be able to create new users and change their name\/passwords",
+        "ts": "1470010685.000054"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "and add task will just be add assignment\/project",
+        "ts": "1470010714.000055"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "anyway the manageing versions works on my local",
+        "ts": "1470015379.000056"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "just trying to do the db trigger",
+        "ts": "1470015388.000057"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "for like setting data null after 24 hrs",
+        "ts": "1470015397.000058"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "sounds great, we can modify it and change it to anything that works best for us",
+        "ts": "1470016108.000059"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "yeah its good, can just break it into 2 different parts since it has some admin and some teacher parts and integrate it with the rest",
+        "ts": "1470016255.000060"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "yes, we'll write all our assumptions on paper and we will take it from there",
+        "ts": "1470016333.000061"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "yeah",
+        "ts": "1470016348.000062"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "i put my stuff on the server",
+        "ts": "1470019281.000063"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "tell me if anythings broken",
+        "ts": "1470019286.000064"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "right so group 2 project dont change try deleteing\/recover the files in that one specifically",
+        "ts": "1470019755.000065"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "since im checking if the sql trigger is working on those files",
+        "ts": "1470019775.000066"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "project 3*",
+        "ts": "1470019791.000067"
+    }
+]

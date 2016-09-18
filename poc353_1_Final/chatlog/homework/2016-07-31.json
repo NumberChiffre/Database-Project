@@ -1,0 +1,92 @@
+[
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "the file you uploaded is not the right one.",
+        "ts": "1469975402.000002"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1MGNL4KU|demo> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/demo\/F1WRX5YH3\/a3_part_2.docx|A3_part 2.docx> and commented: All of A_3 part 2, format is a bit messed up on one question",
+        "file": {
+            "id": "F1WRX5YH3",
+            "created": 1470009060,
+            "timestamp": 1470009060,
+            "name": "A3_part 2.docx",
+            "title": "A3_part 2.docx",
+            "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "filetype": "docx",
+            "pretty_type": "Word Document",
+            "user": "U1MGNL4KU",
+            "editable": false,
+            "size": 16505,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1WRX5YH3\/a3_part_2.docx?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F1WRX5YH3\/download\/a3_part_2.docx?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/demo\/F1WRX5YH3\/a3_part_2.docx",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F1WRX5YH3-4178370355",
+            "channels": [
+                "C1TL1EPGQ"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc1WRM9SH2",
+                "created": 1470009060,
+                "timestamp": 1470009060,
+                "user": "U1MGNL4KU",
+                "is_intro": true,
+                "comment": "All of A_3 part 2, format is a bit messed up on one question",
+                "channel": ""
+            }
+        },
+        "user": "U1MGNL4KU",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1MGNL4KU|demo>",
+        "bot_id": null,
+        "ts": "1470009061.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "<@U1MGW16JZ> Hey i finished part 2, want to at it to part 1? The format on one answer is a bit messed up",
+        "ts": "1470009105.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "So you'll have to reformat it",
+        "ts": "1470009114.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Ill go to my office tmrw after quiz to finalize",
+        "ts": "1470011296.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "The file is on that desktop",
+        "ts": "1470011309.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "alright cool",
+        "ts": "1470011366.000007"
+    }
+]

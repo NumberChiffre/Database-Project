@@ -1,0 +1,20 @@
+[
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "4: Give details of doctors who work in clinics in \u201cLAVAL\u201d\n\tSelect d.*, w. hours_per_week from Doctor d, Clinic c, Works_in w\n\t\tWhere d.did = c.did AND c.city = \u201cLAVAL\u201d AND w.cid = c.cid;\n5: Give name of patients who consulted any doctor for \u201cHeart Disease\u201d\n\tSelect pname from Patients p, Doctor d, Consults cs\n\t\tWhere p.pid = cs.pid AND cs.illness = \u201cHEART DISEASE\u201d;",
+        "ts": "1468368899.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "i just added  w. hours_per_week in #4\nand modified cs.specialization to cs.illness",
+        "ts": "1468368966.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "and modified cs.specialization to cs.illness in #5",
+        "ts": "1468368980.000004"
+    }
+]

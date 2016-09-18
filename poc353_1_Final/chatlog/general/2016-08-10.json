@@ -1,0 +1,218 @@
+[
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Hello guyz, sorry i was pissed off , i got 6 ",
+        "ts": "1470836500.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Has anyone worked on the report or the code?",
+        "ts": "1470836524.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "have not",
+        "ts": "1470838965.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Shayne, when are you going to school?",
+        "ts": "1470851611.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Uh, never?",
+        "ts": "1470851793.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Im at school these days, if ur coming let me know...",
+        "ts": "1470855214.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Why would I be",
+        "ts": "1470862202.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Probably going to start tomorrow ",
+        "ts": "1470863985.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "And yeah, I think we destroyed that presentation for soen ",
+        "ts": "1470863997.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "It was so good your group made a reference to ours ",
+        "ts": "1470864044.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Well, I'm exaggerating a bit ",
+        "ts": "1470864167.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Lol",
+        "ts": "1470864711.000002"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1MGW16JZ|ti_liu> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F208P5TFC\/report.pdf|report.pdf> and commented: Here is a template for our final report, I'll definitely have questions for some of the implementation process",
+        "file": {
+            "id": "F208P5TFC",
+            "created": 1470865905,
+            "timestamp": 1470865905,
+            "name": "report.pdf",
+            "title": "report.pdf",
+            "mimetype": "application\/pdf",
+            "filetype": "pdf",
+            "pretty_type": "PDF",
+            "user": "U1MGW16JZ",
+            "editable": false,
+            "size": 254575,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F208P5TFC\/report.pdf?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F208P5TFC\/download\/report.pdf?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/ti_liu\/F208P5TFC\/report.pdf",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F208P5TFC-5eb9ef4d24",
+            "channels": [
+                "C1MGNL6R0"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc2083EYTE",
+                "created": 1470865905,
+                "timestamp": 1470865905,
+                "user": "U1MGW16JZ",
+                "is_intro": true,
+                "comment": "Here is a template for our final report, I'll definitely have questions for some of the implementation process",
+                "channel": ""
+            }
+        },
+        "user": "U1MGW16JZ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1MGW16JZ|ti_liu>",
+        "bot_id": null,
+        "ts": "1470865906.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "<!channel>: do you understand what exacty needs to be changed in our application? when i click archive what is supposed to happen? what will the teacher and ta be able to see? where will the archive button appear. im guessing there will only be a single archive button for the admin to press. should we be able to unarchive or is that not needed. for the file size difference we just need to display another stat in the statistics where we take the file size of a given student's uploaded file and then compare it to the last current version file size?",
+        "ts": "1470868078.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "I think for archiving, ",
+        "ts": "1470868970.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "For a group, zip all the current versions into one folder ",
+        "ts": "1470868985.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "For each group* ",
+        "ts": "1470869002.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Then take those zips and zip them into a nkther folder ",
+        "ts": "1470869018.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Then teacher should get a button to download archive",
+        "ts": "1470869072.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Ill work on the archive thing now and hope it works ",
+        "ts": "1470872803.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Ill be working on the final report,  if any of you will appear at school i would like to help the final coding part ",
+        "ts": "1470873652.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Did any remove the archive button?",
+        "ts": "1470874839.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "One",
+        "ts": "1470874844.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "it only appears for the admin once the course is over",
+        "ts": "1470874865.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Ok thanks",
+        "ts": "1470874931.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Does anyone know where are the files stored on the server like in which folder ",
+        "ts": "1470876297.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "<@U1MGW16JZ>: you going to be here tomorrow? I have some time to work on the report ",
+        "ts": "1470884027.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Yeah",
+        "ts": "1470891905.000002"
+    }
+]

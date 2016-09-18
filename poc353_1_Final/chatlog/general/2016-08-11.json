@@ -1,0 +1,224 @@
+[
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "<@U1MGW6FUM> the files are in the database",
+        "ts": "1470912313.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "I need to get my mom from the airport around 4, so I'll probably head over there around 5",
+        "ts": "1470941700.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "See u on 8th floor ",
+        "ts": "1470942608.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": " Im back to my office, take ur time",
+        "ts": "1470950730.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Still at the airport ",
+        "ts": "1470950753.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Np",
+        "ts": "1470950842.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "<!channel>: guys, can you send me your responsibilities in the project so I can combine them for the final report?",
+        "ts": "1470951424.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Uhh, I did some of the course page from the students POV, like joining a group. The group page most of it (upload\/download) and the stats\/log on the group page too, manage versions did the download\/rollback\/delete\/recover",
+        "ts": "1470951944.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Other than that drew some pictures and helped people",
+        "ts": "1470951965.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Oh and did the dB trigger",
+        "ts": "1470952002.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Now im just updating the sql codes because some stuffs were changed during the implementation",
+        "ts": "1470952005.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Thanks Shayne",
+        "ts": "1470952014.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Yeah",
+        "ts": "1470952140.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "I changed a few of the data types and added some columns",
+        "ts": "1470952164.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Oh yeah checked against SQL injection",
+        "ts": "1470952211.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": "i worked on the archive feature, css, table sql and er",
+        "ts": "1470952787.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Ok, just dropped them off at home ",
+        "ts": "1470953613.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Should be there in less than an hour, unless there's a bunch of traffic ",
+        "ts": "1470953627.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "I'm going to stick around dt all night, so anything we don't finish I'll finish later ",
+        "ts": "1470953728.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Ill meet up with u later then",
+        "ts": "1470954436.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Or u can come tmrw instead",
+        "ts": "1470954448.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Ok no problem ",
+        "ts": "1470955192.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Going to be here all week",
+        "ts": "1470955197.000018"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "<@U1PBB7C4T>: there a journal we need to were for soen bye",
+        "ts": "1470955453.000019"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "Btw*",
+        "ts": "1470955456.000020"
+    },
+    {
+        "type": "message",
+        "user": "U1MGNL4KU",
+        "text": "I don't know if your team told you ",
+        "ts": "1470955467.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "I worked on creating user , groups, make leader, modify group, delete member , delete group, add member to group, efit user , logout , change group number ",
+        "ts": "1470955652.000022"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Yeah the diary",
+        "ts": "1470956757.000023"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "<@U1PBB7C4T>: did u figure out how to do the archive ? Im trying but doesn't seem to work ",
+        "ts": "1470958538.000024"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "No I didn't look yet",
+        "ts": "1470958630.000025"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Ok",
+        "ts": "1470958703.000026"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "It shouldn't be too baf",
+        "ts": "1470960328.000027"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Does anyone have the final version of the ER? The one on slack isnt the final vers",
+        "ts": "1470961631.000028"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "No i dont have it , but i think you can download it from the course page ",
+        "ts": "1470967447.000029"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Im almost done with archive ",
+        "ts": "1470967463.000030"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW6FUM",
+        "text": "Should i make the archive for each group or I archive everything ",
+        "ts": "1470967500.000031"
+    },
+    {
+        "type": "message",
+        "user": "U1MGW16JZ",
+        "text": "Ill update the er and relational ",
+        "ts": "1470975667.000002"
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1MGNL4KU|demo> uploaded a file: <https:\/\/compdatabaseproject.slack.com\/files\/demo\/F21KXJDTL\/readme.txt|README.txt>",
+        "file": {
+            "id": "F21KXJDTL",
+            "created": 1471301832,
+            "timestamp": 1471301832,
+            "name": "README.txt",
+            "title": "README.txt",
+            "mimetype": "text\/plain",
+            "filetype": "text",
+            "pretty_type": "Plain Text",
+            "user": "U1MGNL4KU",
+            "editable": true,
+            "size": 1351,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F21KXJDTL\/readme.txt?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1MG7L01E-F21KXJDTL\/download\/readme.txt?t=xoxe-55551680048-69699012226-69682427264-502b228245",
+            "permalink": "https:\/\/compdatabaseproject.slack.com\/files\/demo\/F21KXJDTL\/readme.txt",
+            "permalink_public": "https:\/\/slack-files.com\/T1MG7L01E-F21KXJDTL-09a7ab4683",
+            "edit_link": "https:\/\/compdatabaseproject.slack.com\/files\/demo\/F21KXJDTL\/readme.txt\/edit",
+            "preview": "\r\nREADME:\r\n\r\nTEAM MEMBERS: \r\n\r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><\/pre><\/div>\n<div><pre>README:<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<div><pre>TEAM MEMBERS: <\/pre><\/div>\n<div><pre><\/pre><\/div>\n<div><pre><\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 73,
+            "lines_more": 68,
+            "channels": [
+                "C1MGL6NJY"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U1MGNL4KU",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1MGNL4KU|demo>",
+        "bot_id": null,
+        "ts": "1471301832.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1PBBB3J7",
+        "text": ":+1:",
+        "ts": "1471301912.000018"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Is it supposed to say how to install a new system?",
+        "ts": "1471302735.000019"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Or is that in the reg documentation",
+        "ts": "1471302768.000020"
+    },
+    {
+        "type": "message",
+        "user": "U1PBB7C4T",
+        "text": "Also did we update our SQL script?",
+        "ts": "1471302778.000021"
+    }
+]
